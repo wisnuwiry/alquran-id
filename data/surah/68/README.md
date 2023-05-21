@@ -1,0 +1,267 @@
+<h2 style="text-align: center;">القلم</h2>
+---
+| Lokasi | Surah | Ayat |
+|---|---|---|
+| makkah |  Pena |  52 Ayat |
+---
+<h3 style="text-align: center; font-family: lPMQ;">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</h3>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;"> نٓ ۚ وَٱلْقَلَمِ وَمَا يَسْطُرُونَ (١)</h4>
+<p>Nūn. Demi pena dan apa yang mereka tuliskan,</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">مَآ أَنتَ بِنِعْمَةِ رَبِّكَ بِمَجْنُونٍ (٢)</h4>
+<p>dengan karunia Tuhanmu engkau (Muhammad) bukanlah orang gila.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">وَإِنَّ لَكَ لَأَجْرًا غَيْرَ مَمْنُونٍ (٣)</h4>
+<p>Dan sesungguhnya engkau pasti mendapat pahala yang besar yang tidak putus-putusnya.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٍ (٤)</h4>
+<p>Dan sesungguhnya engkau benar-benar, berbudi pekerti yang luhur.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَسَتُبْصِرُ وَيُبْصِرُونَ (٥)</h4>
+<p>Maka kelak engkau akan melihat dan mereka (orang-orang kafir) pun akan melihat,</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">بِأَييِّكُمُ ٱلْمَفْتُونُ (٦)</h4>
+<p>siapa diantara kamu yang gila?</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">إِنَّ رَبَّكَ هُوَ أَعْلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعْلَمُ بِٱلْمُهْتَدِينَ (٧)</h4>
+<p>Sungguh, Tuhanmu, Dialah yang paling mengetahui siapa yang sesat dari jalan-Nya; dan Dialah yang paling mengetahui siapa orang yang mendapat petunjuk.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَلَا تُطِعِ ٱلْمُكَذِّبِينَ (٨)</h4>
+<p>Maka janganlah engkau patuhi orang-orang yang mendustakan (ayat-ayat Allah).</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">وَدُّوا۟ لَوْ تُدْهِنُ فَيُدْهِنُونَ (٩)</h4>
+<p>Mereka menginginkan agar engkau bersikap lunak maka mereka bersikap lunak (pula).</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">وَلَا تُطِعْ كُلَّ حَلَّافٍ مَّهِينٍ (١٠)</h4>
+<p>Dan janganlah engkau patuhi setiap orang yang suka bersumpah dan suka menghina,</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">هَمَّازٍ مَّشَّآءٍۭ بِنَمِيمٍ (١١)</h4>
+<p>suka mencela, yang kian ke mari menyebarkan fitnah,</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">مَّنَّاعٍ لِّلْخَيْرِ مُعْتَدٍ أَثِيمٍ (١٢)</h4>
+<p>yang merintangi segala yang baik, yang melampaui batas dan banyak dosa,</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">عُتُلٍّۭ بَعْدَ ذَٰلِكَ زَنِيمٍ (١٣)</h4>
+<p>yang bertabiat kasar, selain itu juga terkenal kejahatannya,</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">أَن كَانَ ذَا مَالٍ وَبَنِينَ (١٤)</h4>
+<p>karena dia kaya dan banyak anak.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">إِذَا تُتْلَىٰ عَلَيْهِ ءَايَـٰتُنَا قَالَ أَسَـٰطِيرُ ٱلْأَوَّلِينَ (١٥)</h4>
+<p>Apabila ayat-ayat Kami dibacakan kepadanya, dia berkata, "(Ini adalah) dongeng-dongeng orang dahulu."</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">سَنَسِمُهُۥ عَلَى ٱلْخُرْطُومِ (١٦)</h4>
+<p>Kelak dia akan Kami beri tanda pada belalai(nya).</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">إِنَّا بَلَوْنَـٰهُمْ كَمَا بَلَوْنَآ أَصْحَـٰبَ ٱلْجَنَّةِ إِذْ أَقْسَمُوا۟ لَيَصْرِمُنَّهَا مُصْبِحِينَ (١٧)</h4>
+<p>Sungguh, Kami telah menguji mereka (orang musyrik Mekkah) sebagaimana Kami telah menguji pemilik-pemilik kebun, ketika mereka bersumpah pasti akan memetik (hasil)nya pada pagi hari,</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">وَلَا يَسْتَثْنُونَ (١٨)</h4>
+<p>tetapi mereka tidak mengecualikan (dengan mengucapkan, "Insya Allah").</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَطَافَ عَلَيْهَا طَآئِفٌ مِّن رَّبِّكَ وَهُمْ نَآئِمُونَ (١٩)</h4>
+<p>Lalu kebun itu ditimpa bencana (yang datang) dari Tuhanmu ketika mereka sedang tidur.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَأَصْبَحَتْ كَٱلصَّرِيمِ (٢٠)</h4>
+<p>Maka jadilah kebun itu hitam seperti malam yang gelap gulita,</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَتَنَادَوْا۟ مُصْبِحِينَ (٢١)</h4>
+<p>lalu pada pagi hari mereka saling memanggil.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">أَنِ ٱغْدُوا۟ عَلَىٰ حَرْثِكُمْ إِن كُنتُمْ صَـٰرِمِينَ (٢٢)</h4>
+<p>"Pergilah pagi-pagi ke kebunmu jika kamu hendak memetik hasil."</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَٱنطَلَقُوا۟ وَهُمْ يَتَخَـٰفَتُونَ (٢٣)</h4>
+<p>Maka mereka pun berangkat sambil berbisik-bisik.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">أَن لَّا يَدْخُلَنَّهَا ٱلْيَوْمَ عَلَيْكُم مِّسْكِينٌ (٢٤)</h4>
+<p>"Pada hari ini jangan sampai ada orang miskin masuk ke dalam kebunmu."</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">وَغَدَوْا۟ عَلَىٰ حَرْدٍ قَـٰدِرِينَ (٢٥)</h4>
+<p>Dan berangkatlah mereka di pagi hari dengan niat menghalangi (orang-orang miskin) padahal mereka mampu (menolongnya).</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَلَمَّا رَأَوْهَا قَالُوٓا۟ إِنَّا لَضَآلُّونَ (٢٦)</h4>
+<p>Maka ketika mereka melihat kebun itu, mereka berkata, "Sungguh, kita ini benar-benar orang-orang yang sesat,</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">بَلْ نَحْنُ مَحْرُومُونَ (٢٧)</h4>
+<p>bahkan kita tak memperoleh apa pun."</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">قَالَ أَوْسَطُهُمْ أَلَمْ أَقُل لَّكُمْ لَوْلَا تُسَبِّحُونَ (٢٨)</h4>
+<p>Berkatalah seorang yang paling bijak di antara mereka, "Bukankah aku telah mengatakan kepadamu, mengapa kamu tidak bertasbih (kepada Tuhanmu)."</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">قَالُوا۟ سُبْحَـٰنَ رَبِّنَآ إِنَّا كُنَّا ظَـٰلِمِينَ (٢٩)</h4>
+<p>Mereka mengucapkan, "Mahasuci Tuhan kami, sungguh, kami adalah orang-orang yang zalim."</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَأَقْبَلَ بَعْضُهُمْ عَلَىٰ بَعْضٍ يَتَلَـٰوَمُونَ (٣٠)</h4>
+<p>Lalu mereka saling berhadapan dan saling menyalahkan.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">قَالُوا۟ يَـٰوَيْلَنَآ إِنَّا كُنَّا طَـٰغِينَ (٣١)</h4>
+<p>Mereka berkata, "Celaka kita! Sesungguhnya kita orang-orang yang melampaui batas.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">عَسَىٰ رَبُّنَآ أَن يُبْدِلَنَا خَيْرًا مِّنْهَآ إِنَّآ إِلَىٰ رَبِّنَا رَٰغِبُونَ (٣٢)</h4>
+<p>Mudah-mudahan Tuhan memberikan ganti kepada kita dengan (kebun) yang lebih baik daripada yang ini, sungguh, kita mengharapkan ampunan dari Tuhan kita.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">كَذَٰلِكَ ٱلْعَذَابُ ۖ وَلَعَذَابُ ٱلْـَٔاخِرَةِ أَكْبَرُ ۚ لَوْ كَانُوا۟ يَعْلَمُونَ (٣٣)</h4>
+<p>Seperti itulah azab (di dunia). Dan sungguh, azab akhirat lebih besar sekiranya mereka mengetahui.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">إِنَّ لِلْمُتَّقِينَ عِندَ رَبِّهِمْ جَنَّـٰتِ ٱلنَّعِيمِ (٣٤)</h4>
+<p>Sungguh, bagi orang-orang yang bertakwa (disediakan) surga yang penuh kenikmatan di sisi Tuhannya.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">أَفَنَجْعَلُ ٱلْمُسْلِمِينَ كَٱلْمُجْرِمِينَ (٣٥)</h4>
+<p>Apakah patut Kami memperlakukan orang-orang Islam itu seperti orang-orang yang berdosa (orang kafir)?</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">مَا لَكُمْ كَيْفَ تَحْكُمُونَ (٣٦)</h4>
+<p>Mengapa kamu (berbuat demikian)? Bagaimana kamu mengambil keputusan?</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">أَمْ لَكُمْ كِتَـٰبٌ فِيهِ تَدْرُسُونَ (٣٧)</h4>
+<p>Atau apakah kamu mempunyai kitab (yang diturunkan Allah) yang kamu pelajari?</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">إِنَّ لَكُمْ فِيهِ لَمَا تَخَيَّرُونَ (٣٨)</h4>
+<p>sesungguhnya kamu dapat memilih apa saja yang ada di dalamnya.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">أَمْ لَكُمْ أَيْمَـٰنٌ عَلَيْنَا بَـٰلِغَةٌ إِلَىٰ يَوْمِ ٱلْقِيَـٰمَةِ ۙ إِنَّ لَكُمْ لَمَا تَحْكُمُونَ (٣٩)</h4>
+<p>Atau apakah kamu memperoleh (janji-janji yang diperkuat dengan) sumpah dari Kami, yang tetap berlaku sampai hari Kiamat; bahwa kamu dapat mengambil keputusan (sekehendakmu)?</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">سَلْهُمْ أَيُّهُم بِذَٰلِكَ زَعِيمٌ (٤٠)</h4>
+<p>Tanyakanlah kepada mereka, "Siapakah di antara mereka yang bertanggung jawab terhadap (keputusan yang diambil itu)?"</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">أَمْ لَهُمْ شُرَكَآءُ فَلْيَأْتُوا۟ بِشُرَكَآئِهِمْ إِن كَانُوا۟ صَـٰدِقِينَ (٤١)</h4>
+<p>Atau apakah mereka mempunyai sekutu-sekutu? Kalau begitu hendaklah mereka mendatangkan sekutu-sekutunya jika mereka orang-orang yang benar.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">يَوْمَ يُكْشَفُ عَن سَاقٍ وَيُدْعَوْنَ إِلَى ٱلسُّجُودِ فَلَا يَسْتَطِيعُونَ (٤٢)</h4>
+<p>(Ingatlah) pada hari ketika betis disingkapkan dan mereka diseru untuk bersujud; maka mereka tidak mampu,2</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">خَـٰشِعَةً أَبْصَـٰرُهُمْ تَرْهَقُهُمْ ذِلَّةٌ ۖ وَقَدْ كَانُوا۟ يُدْعَوْنَ إِلَى ٱلسُّجُودِ وَهُمْ سَـٰلِمُونَ (٤٣)</h4>
+<p>pandangan mereka tertunduk ke bawah, diliputi kehinaan. Dan sungguh, dahulu (di dunia) mereka telah diseru untuk bersujud waktu mereka sehat (tetapi mereka tidak melakukan).</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَذَرْنِى وَمَن يُكَذِّبُ بِهَـٰذَا ٱلْحَدِيثِ ۖ سَنَسْتَدْرِجُهُم مِّنْ حَيْثُ لَا يَعْلَمُونَ (٤٤)</h4>
+<p>Maka serahkanlah kepada-Ku (urusannya) dan orang-orang yang mendustakan perkataan ini (Alquran). Kelak akan Kami hukum mereka berangsur-angsur dari arah yang tidak mereka ketahui,</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">وَأُمْلِى لَهُمْ ۚ إِنَّ كَيْدِى مَتِينٌ (٤٥)</h4>
+<p>dan Aku memberi tenggang waktu kepada mereka. Sungguh, rencana-Ku sangat teguh.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">أَمْ تَسْـَٔلُهُمْ أَجْرًا فَهُم مِّن مَّغْرَمٍ مُّثْقَلُونَ (٤٦)</h4>
+<p>Ataukah engkau (Muhammad) meminta imbalan kepada mereka, sehingga mereka dibebani dengan hutang?</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">أَمْ عِندَهُمُ ٱلْغَيْبُ فَهُمْ يَكْتُبُونَ (٤٧)</h4>
+<p>Ataukah mereka mengetahui yang gaib, lalu mereka menuliskannya?</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَٱصْبِرْ لِحُكْمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلْحُوتِ إِذْ نَادَىٰ وَهُوَ مَكْظُومٌ (٤٨)</h4>
+<p>Maka bersabarlah engkau (Muhammad) terhadap ketetapan Tuhanmu, dan janganlah engkau seperti (Yunus) orang yang berada dalam (perut) ikan ketika dia berdoa dengan hati sedih.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">لَّوْلَآ أَن تَدَٰرَكَهُۥ نِعْمَةٌ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلْعَرَآءِ وَهُوَ مَذْمُومٌ (٤٩)</h4>
+<p>Sekiranya dia tidak segera mendapat nikmat dari Tuhannya, pastilah dia dicampakkan ke tanah tandus dalam keadaan tercela.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">فَٱجْتَبَـٰهُ رَبُّهُۥ فَجَعَلَهُۥ مِنَ ٱلصَّـٰلِحِينَ (٥٠)</h4>
+<p>Lalu Tuhannya memilihnya dan menjadikannya termasuk orang yang saleh.</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">وَإِن يَكَادُ ٱلَّذِينَ كَفَرُوا۟ لَيُزْلِقُونَكَ بِأَبْصَـٰرِهِمْ لَمَّا سَمِعُوا۟ ٱلذِّكْرَ وَيَقُولُونَ إِنَّهُۥ لَمَجْنُونٌ (٥١)</h4>
+<p>Dan sungguh, orang-orang kafir itu hampir-hampir menggelincirkanmu dengan pandangan mata mereka, ketika mereka mendengar Alquran dan mereka berkata, "Dia (Muhammad) itu benar-benar orang gila."</p>
+</div>
+
+<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
+<h4 style="text-align: right; font-family: lPMQ;">وَمَا هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ (٥٢)</h4>
+<p>Padahal Alquran itu tidak lain adalah peringatan bagi seluruh alam.</p>
+</div>
