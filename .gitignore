@@ -1,0 +1,5 @@
+node_modules/
+analysis_options.yaml
+CHANGELOG.md
+_book/
+.dart_tool/

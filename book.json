@@ -1,0 +1,14 @@
+{
+    "root": "./data",
+    "author": "Wisnu G. Saputra",
+    "title": "Al-Qur'an Book",
+    "language": "en",
+    "links": { 
+        "sidebar": { 
+            "GitHub": "https://github.com/wisnuwiry", 
+            "PDF": "", 
+            "EPUB": "", 
+            "MOBI": ""
+        }
+    }
+}
