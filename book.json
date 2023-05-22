@@ -7,9 +7,9 @@
     "links": { 
         "sidebar": { 
             "GitHub": "https://github.com/wisnuwiry/alquran-id", 
-            "PDF": "/download/quran.pdf", 
-            "EPUB": "/download/quran.epub", 
-            "MOBI": "/download/quran.mobi"
+            "PDF": "https://cdn.statically.io/gh/wisnuwiry/alquran-id/main/book/quran.pdf", 
+            "EPUB": "https://cdn.statically.io/gh/wisnuwiry/alquran-id/main/book/quran.epub", 
+            "MOBI": "https://cdn.statically.io/gh/wisnuwiry/alquran-id/main/book/quran.mobi"
         }
     }
 }
