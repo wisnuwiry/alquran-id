@@ -1,4 +1,3 @@
-apt -y install libgif-dev calibre && 
 npx honkit build && 
 mkdir _book/download/ && 
 npx honkit epub &&
