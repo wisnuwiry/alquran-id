@@ -7,17 +7,17 @@
 ---
 <h3 style="text-align: center; font-family: IndoPak;">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</h3>
 
-<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<div style="background: #f6f6f6; border-radius: 10px; margin-bottom: 10px; padding: 6px">
 <h4 style="text-align: right; font-family: IndoPak;"> وَٱلْعَصْرِ (١)</h4>
 <p>Demi masa.</p>
 </div>
 
-<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<div style="background: #f6f6f6; border-radius: 10px; margin-bottom: 10px; padding: 6px">
 <h4 style="text-align: right; font-family: IndoPak;">إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ (٢)</h4>
 <p>Sungguh, manusia berada dalam kerugian,</p>
 </div>
 
-<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<div style="background: #f6f6f6; border-radius: 10px; margin-bottom: 10px; padding: 6px">
 <h4 style="text-align: right; font-family: IndoPak;">إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ (٣)</h4>
 <p>kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran.</p>
 </div>

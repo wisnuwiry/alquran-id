@@ -10,7 +10,7 @@ class AlquranBookGenerator {
     final chapters = await _repo.getCapters(Config.fallbackLang);
     _writeTableOfContents(chapters);
 
-    for (final item in chapters) {
+    for (final item in chapters.take(1)) {
       _writeSurah(item);
     }
   }
@@ -40,10 +40,11 @@ class AlquranBookGenerator {
     for (final ayah in result) {
       buffer.writeln();
       buffer.writeln(
-          '<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">');
+          '<div style="background: #f6f6f6; border-radius: 10px; margin-bottom: 10px; padding: 6px">');
       buffer.writeln(
-        '<h4 style="text-align: right; font-family: IndoPak;">'
-        '${ayah.value} (${ayah.words.last.text})'
+        '<h4 style="direction: rtl; font-family: IndoPak;">'
+        '${ayah.value}'
+        ' ${_getVerseEndSymbol(ayah.verseNumber)} '
         '</h4>',
       );
       buffer.writeln('<p>${_formatTranslateValue(ayah.translateValue)}</p>');
@@ -84,6 +85,28 @@ class AlquranBookGenerator {
 
   String _capitalize(String value) {
     return value[0].toUpperCase() + value.substring(1);
+  }
+
+  String _getVerseEndSymbol(int verseNumber) {
+    const Map arabicNumbers = {
+      "0": "٠",
+      "1": "۱",
+      "2": "۲",
+      "3": "۳",
+      "4": "٤",
+      "5": "٥",
+      "6": "٦",
+      "7": "۷",
+      "8": "۸",
+      "9": "۹"
+    };
+
+    String arabicNumeric = '';
+    for (final e in verseNumber.toString().split('')) {
+      arabicNumeric += arabicNumbers[e];
+    }
+
+    return '<span>&#xFD3F;$arabicNumeric&#xFD3E;</span>';
   }
 }
 

@@ -2,7 +2,8 @@
     "root": "./data",
     "author": "Wisnu G. Saputra",
     "title": "Al-Qur'an Book",
-    "language": "en",
+    "language": "id",
+    "description": "Al-Qur'an digital (Al-Qur'an Book) berbasis web dalam bahasa Indonesia yang dapat diakses secara online. Al-Qur'an Book dapat didownload dalam bentuk file PDF, EPUB dan MOBI",
     "links": { 
         "sidebar": { 
             "GitHub": "https://github.com/wisnuwiry/alquran-id", 
