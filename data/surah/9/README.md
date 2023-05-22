@@ -1,651 +1,652 @@
 <h2 style="text-align: center;">التوبة</h2>
----
+
 | Lokasi | Surah | Ayat |
 |---|---|---|
-| madinah |  Pengampunan |  129 Ayat |
+| Madinah |  Pengampunan |  129 Ayat |
+
 ---
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">بَرَآءَةٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ (١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">بَرَآءَةٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ (١)</h4>
 <p>(Inilah pernyataan) pemutusan hubungan dari Allah dan Rasul-Nya kepada orang-orang musyrik yang kamu telah mengadakan perjanjian (dengan mereka).</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَسِيحُوا۟ فِى ٱلْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۙ وَأَنَّ ٱللَّهَ مُخْزِى ٱلْكَـٰفِرِينَ (٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَسِيحُوا۟ فِى ٱلْأَرْضِ أَرْبَعَةَ أَشْهُرٍ وَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۙ وَأَنَّ ٱللَّهَ مُخْزِى ٱلْكَـٰفِرِينَ (٢)</h4>
 <p>Maka berjalanlah kamu (kaum musyrikin) di bumi selama empat bulan dan ketahuilah bahwa kamu tidak dapat melemahkan Allah, dan sesungguhnya Allah menghinakan orang-orang kafir.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَأَذَٰنٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ أَنَّ ٱللَّهَ بَرِىٓءٌ مِّنَ ٱلْمُشْرِكِينَ ۙ وَرَسُولُهُۥ ۚ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَوَلَّيْتُمْ فَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُوا۟ بِعَذَابٍ أَلِيمٍ (٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَأَذَٰنٌ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوْمَ ٱلْحَجِّ ٱلْأَكْبَرِ أَنَّ ٱللَّهَ بَرِىٓءٌ مِّنَ ٱلْمُشْرِكِينَ ۙ وَرَسُولُهُۥ ۚ فَإِن تُبْتُمْ فَهُوَ خَيْرٌ لَّكُمْ ۖ وَإِن تَوَلَّيْتُمْ فَٱعْلَمُوٓا۟ أَنَّكُمْ غَيْرُ مُعْجِزِى ٱللَّهِ ۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُوا۟ بِعَذَابٍ أَلِيمٍ (٣)</h4>
 <p>Dan satu maklumat (pemberitahuan) dari Allah dan Rasul-Nya kepada umat manusia pada hari haji akbar, bahwa sesungguhnya Allah dan Rasul-Nya berlepas diri dari orang-orang musyrik. Kemudian jika kamu (kaum musyrikin) bertobat, maka itu lebih baik bagimu; dan jika kamu berpaling, maka ketahuilah bahwa kamu tidak dapat melemahkan Allah. Dan berilah kabar gembira kepada orang-orang kafir (bahwa mereka akan mendapat) azab yang pedih,</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِلَّا ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَـٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ (٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِلَّا ٱلَّذِينَ عَـٰهَدتُّم مِّنَ ٱلْمُشْرِكِينَ ثُمَّ لَمْ يَنقُصُوكُمْ شَيْـًٔا وَلَمْ يُظَـٰهِرُوا۟ عَلَيْكُمْ أَحَدًا فَأَتِمُّوٓا۟ إِلَيْهِمْ عَهْدَهُمْ إِلَىٰ مُدَّتِهِمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ (٤)</h4>
 <p>kecuali orang-orang musyrik yang telah mengadakan perjanjian dengan kamu dan mereka sedikit pun tidak mengurangi (isi perjanjian) dan tidak (pula) mereka membantu seorang pun yang memusuhi kamu, maka terhadap mereka itu penuhilah janjinya sampai batas waktunya. Sungguh, Allah menyukai orang-orang yang bertakwa.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ ۚ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ (٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَإِذَا ٱنسَلَخَ ٱلْأَشْهُرُ ٱلْحُرُمُ فَٱقْتُلُوا۟ ٱلْمُشْرِكِينَ حَيْثُ وَجَدتُّمُوهُمْ وَخُذُوهُمْ وَٱحْصُرُوهُمْ وَٱقْعُدُوا۟ لَهُمْ كُلَّ مَرْصَدٍ ۚ فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَخَلُّوا۟ سَبِيلَهُمْ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ (٥)</h4>
 <p>Apabila telah habis bulan-bulan haram, maka perangilah orang-orang musyrik di mana saja kamu temui, tangkaplah dan kepunglah mereka, dan awasilah di tempat pengintaian. Jika mereka bertobat dan melaksanakan salat serta menunaikan zakat, maka berilah kebebasan kepada mereka. Sungguh, Allah Maha Pengampun, Maha Penyayang.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَإِنْ أَحَدٌ مِّنَ ٱلْمُشْرِكِينَ ٱسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَـٰمَ ٱللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُۥ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ (٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَإِنْ أَحَدٌ مِّنَ ٱلْمُشْرِكِينَ ٱسْتَجَارَكَ فَأَجِرْهُ حَتَّىٰ يَسْمَعَ كَلَـٰمَ ٱللَّهِ ثُمَّ أَبْلِغْهُ مَأْمَنَهُۥ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْلَمُونَ (٦)</h4>
 <p>Dan jika di antara kaum musyrikin ada yang meminta perlindungan kepadamu, maka lindungilah agar dia dapat mendengar firman Allah, kemudian antarkanlah dia ke tempat yang aman baginya. (Demikian) itu karena sesungguhnya mereka kaum yang tidak mengetahui.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَـٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ فَمَا ٱسْتَقَـٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ (٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">كَيْفَ يَكُونُ لِلْمُشْرِكِينَ عَهْدٌ عِندَ ٱللَّهِ وَعِندَ رَسُولِهِۦٓ إِلَّا ٱلَّذِينَ عَـٰهَدتُّمْ عِندَ ٱلْمَسْجِدِ ٱلْحَرَامِ ۖ فَمَا ٱسْتَقَـٰمُوا۟ لَكُمْ فَٱسْتَقِيمُوا۟ لَهُمْ ۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلْمُتَّقِينَ (٧)</h4>
 <p>Bagaimana mungkin ada perjanjian (aman) di sisi Allah dan Rasul-Nya dengan orang-orang musyrik, kecuali dengan orang-orang yang kamu telah mengadakan perjanjian (dengan mereka) di dekat Masjidilharam (Hudaibiyah), maka selama mereka berlaku jujur terhadapmu, hendaklah kamu berlaku jujur (pula) terhadap mereka. Sungguh, Allah menyukai orang-orang yang bertakwa.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">كَيْفَ وَإِن يَظْهَرُوا۟ عَلَيْكُمْ لَا يَرْقُبُوا۟ فِيكُمْ إِلًّا وَلَا ذِمَّةً ۚ يُرْضُونَكُم بِأَفْوَٰهِهِمْ وَتَأْبَىٰ قُلُوبُهُمْ وَأَكْثَرُهُمْ فَـٰسِقُونَ (٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">كَيْفَ وَإِن يَظْهَرُوا۟ عَلَيْكُمْ لَا يَرْقُبُوا۟ فِيكُمْ إِلًّا وَلَا ذِمَّةً ۚ يُرْضُونَكُم بِأَفْوَٰهِهِمْ وَتَأْبَىٰ قُلُوبُهُمْ وَأَكْثَرُهُمْ فَـٰسِقُونَ (٨)</h4>
 <p>Bagaimana mungkin (ada perjanjian demikian), padahal jika mereka memperoleh kemenangan atas kamu, mereka tidak memelihara hubungan kekerabatan denganmu dan tidak (pula mengindahkan) perjanjian. Mereka menyenangkan hatimu dengan mulutnya, sedang hatinya menolak. Kebanyakan mereka adalah orang-orang fasik (tidak menepati janji).</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱشْتَرَوْا۟ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن سَبِيلِهِۦٓ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ (٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱشْتَرَوْا۟ بِـَٔايَـٰتِ ٱللَّهِ ثَمَنًا قَلِيلًا فَصَدُّوا۟ عَن سَبِيلِهِۦٓ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ (٩)</h4>
 <p>Mereka memperjualbelikan ayat-ayat Allah dengan harga murah, lalu mereka menghalang-halangi (orang) dari jalan Allah. Sungguh, betapa buruknya apa yang mereka kerjakan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَا يَرْقُبُونَ فِى مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُعْتَدُونَ (١٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَا يَرْقُبُونَ فِى مُؤْمِنٍ إِلًّا وَلَا ذِمَّةً ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُعْتَدُونَ (١٠)</h4>
 <p>Mereka tidak memelihara (hubungan) kekerabatan dengan orang mukmin dan tidak (pula mengindahkan) perjanjian. Dan mereka itulah orang-orang yang melampaui batas.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ ۗ وَنُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ (١١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَإِن تَابُوا۟ وَأَقَامُوا۟ ٱلصَّلَوٰةَ وَءَاتَوُا۟ ٱلزَّكَوٰةَ فَإِخْوَٰنُكُمْ فِى ٱلدِّينِ ۗ وَنُفَصِّلُ ٱلْـَٔايَـٰتِ لِقَوْمٍ يَعْلَمُونَ (١١)</h4>
 <p>Dan jika mereka bertobat, melaksanakan salat dan menunaikan zakat, maka (berarti mereka itu) adalah saudara-saudaramu seagama. Kami menjelaskan ayat-ayat itu bagi orang-orang yang mengetahui.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَإِن نَّكَثُوٓا۟ أَيْمَـٰنَهُم مِّنۢ بَعْدِ عَهْدِهِمْ وَطَعَنُوا۟ فِى دِينِكُمْ فَقَـٰتِلُوٓا۟ أَئِمَّةَ ٱلْكُفْرِ ۙ إِنَّهُمْ لَآ أَيْمَـٰنَ لَهُمْ لَعَلَّهُمْ يَنتَهُونَ (١٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَإِن نَّكَثُوٓا۟ أَيْمَـٰنَهُم مِّنۢ بَعْدِ عَهْدِهِمْ وَطَعَنُوا۟ فِى دِينِكُمْ فَقَـٰتِلُوٓا۟ أَئِمَّةَ ٱلْكُفْرِ ۙ إِنَّهُمْ لَآ أَيْمَـٰنَ لَهُمْ لَعَلَّهُمْ يَنتَهُونَ (١٢)</h4>
 <p>Dan jika mereka melanggar sumpah setelah ada perjanjian, dan mencerca agamamu, maka perangilah pemimpin-pemimpin kafir itu. Sesungguhnya mereka adalah orang-orang yang tidak dapat dipegang janjinya, mudah-mudahan mereka berhenti.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">أَلَا تُقَـٰتِلُونَ قَوْمًا نَّكَثُوٓا۟ أَيْمَـٰنَهُمْ وَهَمُّوا۟ بِإِخْرَاجِ ٱلرَّسُولِ وَهُم بَدَءُوكُمْ أَوَّلَ مَرَّةٍ ۚ أَتَخْشَوْنَهُمْ ۚ فَٱللَّهُ أَحَقُّ أَن تَخْشَوْهُ إِن كُنتُم مُّؤْمِنِينَ (١٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">أَلَا تُقَـٰتِلُونَ قَوْمًا نَّكَثُوٓا۟ أَيْمَـٰنَهُمْ وَهَمُّوا۟ بِإِخْرَاجِ ٱلرَّسُولِ وَهُم بَدَءُوكُمْ أَوَّلَ مَرَّةٍ ۚ أَتَخْشَوْنَهُمْ ۚ فَٱللَّهُ أَحَقُّ أَن تَخْشَوْهُ إِن كُنتُم مُّؤْمِنِينَ (١٣)</h4>
 <p>Mengapa kamu tidak memerangi orang-orang yang melanggar sumpah (janjinya), dan telah merencanakan untuk mengusir Rasul, dan mereka yang pertama kali memerangi kamu? Apakah kamu takut kepada mereka, padahal Allahlah yang lebih berhak untuk kamu takuti, jika kamu orang-orang beriman.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">قَـٰتِلُوهُمْ يُعَذِّبْهُمُ ٱللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ (١٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">قَـٰتِلُوهُمْ يُعَذِّبْهُمُ ٱللَّهُ بِأَيْدِيكُمْ وَيُخْزِهِمْ وَيَنصُرْكُمْ عَلَيْهِمْ وَيَشْفِ صُدُورَ قَوْمٍ مُّؤْمِنِينَ (١٤)</h4>
 <p>Perangilah mereka, niscaya Allah akan menyiksa mereka dengan (perantaraan) tanganmu dan Dia akan menghina mereka dan menolongmu (dengan kemenangan) atas mereka, serta melegakan hati orang-orang yang beriman,</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ ۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ (١٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَيُذْهِبْ غَيْظَ قُلُوبِهِمْ ۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ (١٥)</h4>
 <p>dan Dia menghilangkan kemarahan hati mereka (orang mukmin). Dan Allah menerima tobat orang yang Dia kehendaki. Allah Maha Mengetahui, Mahabijaksana.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">أَمْ حَسِبْتُمْ أَن تُتْرَكُوا۟ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَلَمْ يَتَّخِذُوا۟ مِن دُونِ ٱللَّهِ وَلَا رَسُولِهِۦ وَلَا ٱلْمُؤْمِنِينَ وَلِيجَةً ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ (١٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">أَمْ حَسِبْتُمْ أَن تُتْرَكُوا۟ وَلَمَّا يَعْلَمِ ٱللَّهُ ٱلَّذِينَ جَـٰهَدُوا۟ مِنكُمْ وَلَمْ يَتَّخِذُوا۟ مِن دُونِ ٱللَّهِ وَلَا رَسُولِهِۦ وَلَا ٱلْمُؤْمِنِينَ وَلِيجَةً ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ (١٦)</h4>
 <p>Apakah kamu mengira bahwa kamu akan dibiarkan (begitu saja), padahal Allah belum mengetahui orang-orang yang berjihad di antara kamu dan tidak mengambil teman yang setia selain Allah, Rasul-Nya dan orang-orang yang beriman. Allah Mahateliti terhadap apa yang kamu kerjakan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا۟ مَسَـٰجِدَ ٱللَّهِ شَـٰهِدِينَ عَلَىٰٓ أَنفُسِهِم بِٱلْكُفْرِ ۚ أُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ وَفِى ٱلنَّارِ هُمْ خَـٰلِدُونَ (١٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">مَا كَانَ لِلْمُشْرِكِينَ أَن يَعْمُرُوا۟ مَسَـٰجِدَ ٱللَّهِ شَـٰهِدِينَ عَلَىٰٓ أَنفُسِهِم بِٱلْكُفْرِ ۚ أُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ وَفِى ٱلنَّارِ هُمْ خَـٰلِدُونَ (١٧)</h4>
 <p>Tidaklah pantas orang-orang musyrik memakmurkan masjid Allah, padahal mereka mengakui bahwa mereka sendiri kafir. Mereka itu sia-sia amal-amalnya, dan mereka kekal di dalam neraka.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّمَا يَعْمُرُ مَسَـٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ ۖ فَعَسَىٰٓ أُو۟لَـٰٓئِكَ أَن يَكُونُوا۟ مِنَ ٱلْمُهْتَدِينَ (١٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّمَا يَعْمُرُ مَسَـٰجِدَ ٱللَّهِ مَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَأَقَامَ ٱلصَّلَوٰةَ وَءَاتَى ٱلزَّكَوٰةَ وَلَمْ يَخْشَ إِلَّا ٱللَّهَ ۖ فَعَسَىٰٓ أُو۟لَـٰٓئِكَ أَن يَكُونُوا۟ مِنَ ٱلْمُهْتَدِينَ (١٨)</h4>
 <p>Sesungguhnya yang memakmurkan masjid Allah hanyalah orang-orang yang beriman kepada Allah dan hari kemudian, serta (tetap) melaksanakan salat, menunaikan zakat dan tidak takut (kepada apa pun) kecuali kepada Allah. Maka mudah-mudahan mereka termasuk orang-orang yang mendapat petunjuk.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">۞ أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَجَـٰهَدَ فِى سَبِيلِ ٱللَّهِ ۚ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ (١٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">۞ أَجَعَلْتُمْ سِقَايَةَ ٱلْحَآجِّ وَعِمَارَةَ ٱلْمَسْجِدِ ٱلْحَرَامِ كَمَنْ ءَامَنَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَجَـٰهَدَ فِى سَبِيلِ ٱللَّهِ ۚ لَا يَسْتَوُۥنَ عِندَ ٱللَّهِ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ (١٩)</h4>
 <p>Apakah (orang-orang) yang memberi minuman kepada orang-orang yang mengerjakan haji dan mengurus Masjidilharam, kamu samakan dengan orang-orang yang beriman kepada Allah dan hari kemudian serta berjihad di jalan Allah? Mereka tidak sama di sisi Allah. Dan Allah tidak memberi petunjuk kepada orang-orang zalim.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ ٱللَّهِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَآئِزُونَ (٢٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱلَّذِينَ ءَامَنُوا۟ وَهَاجَرُوا۟ وَجَـٰهَدُوا۟ فِى سَبِيلِ ٱللَّهِ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ أَعْظَمُ دَرَجَةً عِندَ ٱللَّهِ ۚ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْفَآئِزُونَ (٢٠)</h4>
 <p>Orang-orang yang beriman dan berhijrah serta berjihad di jalan Allah, dengan harta dan jiwa mereka, adalah lebih tinggi derajatnya di sisi Allah. Mereka itulah orang-orang yang memperoleh kemenangan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يُبَشِّرُهُمْ رَبُّهُم بِرَحْمَةٍ مِّنْهُ وَرِضْوَٰنٍ وَجَنَّـٰتٍ لَّهُمْ فِيهَا نَعِيمٌ مُّقِيمٌ (٢١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يُبَشِّرُهُمْ رَبُّهُم بِرَحْمَةٍ مِّنْهُ وَرِضْوَٰنٍ وَجَنَّـٰتٍ لَّهُمْ فِيهَا نَعِيمٌ مُّقِيمٌ (٢١)</h4>
 <p>Tuhan menggembirakan mereka dengan memberikan rahmat, keridaan dan surga, mereka memperoleh kesenangan yang kekal di dalamnya,</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ إِنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ (٢٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ إِنَّ ٱللَّهَ عِندَهُۥٓ أَجْرٌ عَظِيمٌ (٢٢)</h4>
 <p>mereka kekal di dalamnya selama-lamanya. Sungguh, di sisi Allah terdapat pahala yang besar.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَـٰنِ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ (٢٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تَتَّخِذُوٓا۟ ءَابَآءَكُمْ وَإِخْوَٰنَكُمْ أَوْلِيَآءَ إِنِ ٱسْتَحَبُّوا۟ ٱلْكُفْرَ عَلَى ٱلْإِيمَـٰنِ ۚ وَمَن يَتَوَلَّهُم مِّنكُمْ فَأُو۟لَـٰٓئِكَ هُمُ ٱلظَّـٰلِمُونَ (٢٣)</h4>
 <p>Wahai orang-orang yang beriman! Janganlah kamu jadikan bapak-bapakmu dan saudara-saudaramu sebagai pelindung, jika mereka lebih menyukai kekafiran daripada keimanan. Barang siapa di antara kamu yang menjadikan mereka pelindung, maka mereka itulah orang-orang yang zalim.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَـٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَـٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ (٢٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">قُلْ إِن كَانَ ءَابَآؤُكُمْ وَأَبْنَآؤُكُمْ وَإِخْوَٰنُكُمْ وَأَزْوَٰجُكُمْ وَعَشِيرَتُكُمْ وَأَمْوَٰلٌ ٱقْتَرَفْتُمُوهَا وَتِجَـٰرَةٌ تَخْشَوْنَ كَسَادَهَا وَمَسَـٰكِنُ تَرْضَوْنَهَآ أَحَبَّ إِلَيْكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٍ فِى سَبِيلِهِۦ فَتَرَبَّصُوا۟ حَتَّىٰ يَأْتِىَ ٱللَّهُ بِأَمْرِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ (٢٤)</h4>
 <p>Katakanlah, "Jika bapak-bapakmu, anak-anakmu, saudara-saudaramu, istri-istrimu, keluargamu, harta kekayaan yang kamu usahakan, perdagangan yang kamu khawatirkan kerugiannya, dan rumah-rumah tempat tinggal yang kamu sukai, lebih kamu cintai dari pada Allah dan rasul-Nya serta berjihad di jalan-Nya, maka tunggulah sampai Allah memberikan keputusan-Nya." Dan Allah tidak memberi petunjuk kepada orang-orang fasik.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَقَدْ نَصَرَكُمُ ٱللَّهُ فِى مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْـًٔا وَضَاقَتْ عَلَيْكُمُ ٱلْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ (٢٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَقَدْ نَصَرَكُمُ ٱللَّهُ فِى مَوَاطِنَ كَثِيرَةٍ ۙ وَيَوْمَ حُنَيْنٍ ۙ إِذْ أَعْجَبَتْكُمْ كَثْرَتُكُمْ فَلَمْ تُغْنِ عَنكُمْ شَيْـًٔا وَضَاقَتْ عَلَيْكُمُ ٱلْأَرْضُ بِمَا رَحُبَتْ ثُمَّ وَلَّيْتُم مُّدْبِرِينَ (٢٥)</h4>
 <p>Sungguh, Allah telah menolong kamu (mukminin) di banyak medan perang, dan (ingatlah) Perang Hunain, ketika jumlahmu yang besar itu membanggakan kamu, tetapi (jumlah yang banyak itu) sama sekali tidak berguna bagimu, dan bumi yang luas itu terasa sempit bagimu, kemudian kamu berbalik ke belakang dan lari tunggang langgang.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا لَّمْ تَرَوْهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُوا۟ ۚ وَذَٰلِكَ جَزَآءُ ٱلْكَـٰفِرِينَ (٢٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلْمُؤْمِنِينَ وَأَنزَلَ جُنُودًا لَّمْ تَرَوْهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُوا۟ ۚ وَذَٰلِكَ جَزَآءُ ٱلْكَـٰفِرِينَ (٢٦)</h4>
 <p>Kemudian Allah menurunkan ketenangan kepada Rasul-Nya dan kepada orang-orang yang beriman, dan Dia menurunkan bala tentara (para malaikat) yang tidak terlihat olehmu, dan Dia menimpakan azab kepada orang-orang kafir. Itulah balasan bagi orang-orang yang kafir.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ثُمَّ يَتُوبُ ٱللَّهُ مِنۢ بَعْدِ ذَٰلِكَ عَلَىٰ مَن يَشَآءُ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ (٢٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ثُمَّ يَتُوبُ ٱللَّهُ مِنۢ بَعْدِ ذَٰلِكَ عَلَىٰ مَن يَشَآءُ ۗ وَٱللَّهُ غَفُورٌ رَّحِيمٌ (٢٧)</h4>
 <p>Setelah itu Allah menerima tobat orang yang Dia kehendaki. Allah Maha Pengampun, Maha Penyayang.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَـٰذَا ۚ وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ إِن شَآءَ ۚ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ (٢٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّمَا ٱلْمُشْرِكُونَ نَجَسٌ فَلَا يَقْرَبُوا۟ ٱلْمَسْجِدَ ٱلْحَرَامَ بَعْدَ عَامِهِمْ هَـٰذَا ۚ وَإِنْ خِفْتُمْ عَيْلَةً فَسَوْفَ يُغْنِيكُمُ ٱللَّهُ مِن فَضْلِهِۦٓ إِن شَآءَ ۚ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٌ (٢٨)</h4>
 <p>Wahai orang-orang yang beriman! Sesungguhnya orang-orang musyrik itu najis (kotor jiwa), karena itu janganlah mereka mendekati Masjidilharam setelah tahun ini. Dan jika kamu khawatir menjadi miskin (karena orang kafir tidak datang), maka Allah nanti akan memberikan kekayaan kepadamu dari karunia-Nya, jika Dia menghendaki. Sesungguhnya Allah Maha Mengetahui, Mahabijaksana.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">قَـٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْـَٔاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَـٰغِرُونَ (٢٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">قَـٰتِلُوا۟ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَلَا بِٱلْيَوْمِ ٱلْـَٔاخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلْحَقِّ مِنَ ٱلَّذِينَ أُوتُوا۟ ٱلْكِتَـٰبَ حَتَّىٰ يُعْطُوا۟ ٱلْجِزْيَةَ عَن يَدٍ وَهُمْ صَـٰغِرُونَ (٢٩)</h4>
 <p>Perangilah orang-orang yang tidak beriman kepada Allah dan hari kemudian, mereka yang tidak mengharamkan apa yang telah diharamkan Allah dan Rasul-Nya dan mereka yang tidak beragama dengan agama yang benar (agama Allah), (yaitu orang-orang) yang telah diberikan Kitab, hingga mereka membayar jizyah (pajak) dengan patuh sedang mereka dalam keadaan tunduk.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَـٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ ۖ يُضَـٰهِـُٔونَ قَوْلَ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۚ أَنَّىٰ يُؤْفَكُونَ (٣٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَقَالَتِ ٱلْيَهُودُ عُزَيْرٌ ٱبْنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَـٰرَى ٱلْمَسِيحُ ٱبْنُ ٱللَّهِ ۖ ذَٰلِكَ قَوْلُهُم بِأَفْوَٰهِهِمْ ۖ يُضَـٰهِـُٔونَ قَوْلَ ٱلَّذِينَ كَفَرُوا۟ مِن قَبْلُ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۚ أَنَّىٰ يُؤْفَكُونَ (٣٠)</h4>
 <p>Dan orang-orang Yahudi berkata, "Uzair putera Allah," dan orang-orang Nasrani berkata, "Al-masih putra Allah." Itulah ucapan yang keluar dari mulut mereka. Mereka meniru ucapan orang-orang kafir yang terdahulu. Allah melaknat mereka; bagaimana mereka sampai berpaling?</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱتَّخَذُوٓا۟ أَحْبَارَهُمْ وَرُهْبَـٰنَهُمْ أَرْبَابًا مِّن دُونِ ٱللَّهِ وَٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوٓا۟ إِلَـٰهًا وَٰحِدًا ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ۚ سُبْحَـٰنَهُۥ عَمَّا يُشْرِكُونَ (٣١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱتَّخَذُوٓا۟ أَحْبَارَهُمْ وَرُهْبَـٰنَهُمْ أَرْبَابًا مِّن دُونِ ٱللَّهِ وَٱلْمَسِيحَ ٱبْنَ مَرْيَمَ وَمَآ أُمِرُوٓا۟ إِلَّا لِيَعْبُدُوٓا۟ إِلَـٰهًا وَٰحِدًا ۖ لَّآ إِلَـٰهَ إِلَّا هُوَ ۚ سُبْحَـٰنَهُۥ عَمَّا يُشْرِكُونَ (٣١)</h4>
 <p>Mereka menjadikan orang-orang alim (Yahudi) dan rahib-rahibnya (Nasrani) sebagai tuhan selain Allah, dan (juga) Al-Masih putra Maryam; padahal mereka hanya disuruh menyembah Tuhan Yang Maha Esa; tidak ada tuhan selain Dia. Mahasuci Dia dari apa yang mereka persekutukan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَيَأْبَى ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ (٣٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يُرِيدُونَ أَن يُطْفِـُٔوا۟ نُورَ ٱللَّهِ بِأَفْوَٰهِهِمْ وَيَأْبَى ٱللَّهُ إِلَّآ أَن يُتِمَّ نُورَهُۥ وَلَوْ كَرِهَ ٱلْكَـٰفِرُونَ (٣٢)</h4>
 <p>Mereka hendak memadamkan cahaya (agama) Allah dengan mulut (ucapan-ucapan) mereka, tetapi Allah menolaknya, malah berkehendak menyempurnakan cahaya-Nya, walaupun orang-orang kafir itu tidak menyukai.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ (٣٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">هُوَ ٱلَّذِىٓ أَرْسَلَ رَسُولَهُۥ بِٱلْهُدَىٰ وَدِينِ ٱلْحَقِّ لِيُظْهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوْ كَرِهَ ٱلْمُشْرِكُونَ (٣٣)</h4>
 <p>Dialah yang telah mengutus Rasul-Nya dengan petunjuk (Alquran) dan agama yang benar untuk diunggulkan atas segala agama, walaupun orang-orang musyrik tidak menyukai.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَـٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۗ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ (٣٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">۞ يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِنَّ كَثِيرًا مِّنَ ٱلْأَحْبَارِ وَٱلرُّهْبَانِ لَيَأْكُلُونَ أَمْوَٰلَ ٱلنَّاسِ بِٱلْبَـٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ ۗ وَٱلَّذِينَ يَكْنِزُونَ ٱلذَّهَبَ وَٱلْفِضَّةَ وَلَا يُنفِقُونَهَا فِى سَبِيلِ ٱللَّهِ فَبَشِّرْهُم بِعَذَابٍ أَلِيمٍ (٣٤)</h4>
 <p>Wahai orang-orang yang beriman! Sesungguhnya banyak dari orang-orang alim dan rahib-rahib mereka benar-benar memakan harta orang dengan jalan yang batil, dan (mereka) menghalang-halangi (manusia) dari jalan Allah. Dan orang-orang yang menyimpan emas dan perak dan tidak menginfakkannya di jalan Allah, maka berikanlah kabar gembira kepada mereka, (bahwa mereka akan mendapat) azab yang pedih.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَوْمَ يُحْمَىٰ عَلَيْهَا فِى نَارِ جَهَنَّمَ فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ ۖ هَـٰذَا مَا كَنَزْتُمْ لِأَنفُسِكُمْ فَذُوقُوا۟ مَا كُنتُمْ تَكْنِزُونَ (٣٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَوْمَ يُحْمَىٰ عَلَيْهَا فِى نَارِ جَهَنَّمَ فَتُكْوَىٰ بِهَا جِبَاهُهُمْ وَجُنُوبُهُمْ وَظُهُورُهُمْ ۖ هَـٰذَا مَا كَنَزْتُمْ لِأَنفُسِكُمْ فَذُوقُوا۟ مَا كُنتُمْ تَكْنِزُونَ (٣٥)</h4>
 <p>(Ingatlah) Pada hari ketika emas dan perak di panaskan dalam neraka Jahanam, lalu dengan itu disetrika dahi, lambung dan punggung mereka (seraya dikatakan) kepada mereka, "Inilah harta bendamu yang kamu simpan untuk dirimu sendiri, maka rasakanlah (akibat dari) apa yang kamu simpan itu."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثْنَا عَشَرَ شَهْرًا فِى كِتَـٰبِ ٱللَّهِ يَوْمَ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ مِنْهَآ أَرْبَعَةٌ حُرُمٌ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ ۚ فَلَا تَظْلِمُوا۟ فِيهِنَّ أَنفُسَكُمْ ۚ وَقَـٰتِلُوا۟ ٱلْمُشْرِكِينَ كَآفَّةً كَمَا يُقَـٰتِلُونَكُمْ كَآفَّةً ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ (٣٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثْنَا عَشَرَ شَهْرًا فِى كِتَـٰبِ ٱللَّهِ يَوْمَ خَلَقَ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضَ مِنْهَآ أَرْبَعَةٌ حُرُمٌ ۚ ذَٰلِكَ ٱلدِّينُ ٱلْقَيِّمُ ۚ فَلَا تَظْلِمُوا۟ فِيهِنَّ أَنفُسَكُمْ ۚ وَقَـٰتِلُوا۟ ٱلْمُشْرِكِينَ كَآفَّةً كَمَا يُقَـٰتِلُونَكُمْ كَآفَّةً ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ (٣٦)</h4>
 <p>Sesungguhnya jumlah bulan menurut Allah ialah dua belas bulan, (sebagimana) dalam ketetapan Allah pada waktu Dia menciptakan langit dan bumi, di antaranya ada empat bulan haram. Itulah (ketetapan) agama yang lurus, maka janganlah kamu menzalimi dirimu dalam (bulan yang empat) itu, dan perangilah kaum musyrikin semuanya sebagaimana mereka pun memerangi kamu semuanya. Dan ketahuilah bahwa Allah beserta orang-orang yang takwa.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌ فِى ٱلْكُفْرِ ۖ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًا وَيُحَرِّمُونَهُۥ عَامًا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ ۚ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَـٰلِهِمْ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ (٣٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّمَا ٱلنَّسِىٓءُ زِيَادَةٌ فِى ٱلْكُفْرِ ۖ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُوا۟ يُحِلُّونَهُۥ عَامًا وَيُحَرِّمُونَهُۥ عَامًا لِّيُوَاطِـُٔوا۟ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّوا۟ مَا حَرَّمَ ٱللَّهُ ۚ زُيِّنَ لَهُمْ سُوٓءُ أَعْمَـٰلِهِمْ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْكَـٰفِرِينَ (٣٧)</h4>
 <p>Sesungguhnya pengunduran (bulan haram) itu hanya menambah kekafiran. Orang-orang kafir disesatkan dengan (pengunduran) itu, mereka menghalalkannya satu tahun dan mengharamkannya pada tahun yang lain, agar mereka dapat menyesuaikan dengan bilangan yang diharamkan Allah, sekaligus mereka menghalalkan apa yang diharamkan Allah. (Oleh Setan) dijadikan terasa indah bagi mereka perbuatan-perbuatan buruk mereka. Dan Allah tidak memberi petunjuk kepada orang-orang yang kafir.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ ۚ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْـَٔاخِرَةِ ۚ فَمَا مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْـَٔاخِرَةِ إِلَّا قَلِيلٌ (٣٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ مَا لَكُمْ إِذَا قِيلَ لَكُمُ ٱنفِرُوا۟ فِى سَبِيلِ ٱللَّهِ ٱثَّاقَلْتُمْ إِلَى ٱلْأَرْضِ ۚ أَرَضِيتُم بِٱلْحَيَوٰةِ ٱلدُّنْيَا مِنَ ٱلْـَٔاخِرَةِ ۚ فَمَا مَتَـٰعُ ٱلْحَيَوٰةِ ٱلدُّنْيَا فِى ٱلْـَٔاخِرَةِ إِلَّا قَلِيلٌ (٣٨)</h4>
 <p>Wahai orang-orang yang beriman! Mengapa apabila dikatakan kepada kamu, "Berangkatlah (untuk berperang) di jalan Allah," kamu merasa berat dan ingin tinggal di tempatmu? Apakah kamu lebih menyenangi kehidupan dunia daripada kehidupan akhirat? Padahal kenikmatan hidup di dunia ini (dibandingkan dengan kehidupan) di akhirat hanyalah sedikit.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْـًٔا ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ (٣٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِلَّا تَنفِرُوا۟ يُعَذِّبْكُمْ عَذَابًا أَلِيمًا وَيَسْتَبْدِلْ قَوْمًا غَيْرَكُمْ وَلَا تَضُرُّوهُ شَيْـًٔا ۗ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ (٣٩)</h4>
 <p>Jika kamu tidak berangkat (untuk berperang), niscaya Allah akan menghukum kamu dengan azab yang pedih dan menggantikan kamu dengan kaum yang lain, dan kamu tidak akan merugikan-Nya sedikit pun. Dan Allah Mahakuasa atas segala sesuatu.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَـٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ (٤٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِلَّا تَنصُرُوهُ فَقَدْ نَصَرَهُ ٱللَّهُ إِذْ أَخْرَجَهُ ٱلَّذِينَ كَفَرُوا۟ ثَانِىَ ٱثْنَيْنِ إِذْ هُمَا فِى ٱلْغَارِ إِذْ يَقُولُ لِصَـٰحِبِهِۦ لَا تَحْزَنْ إِنَّ ٱللَّهَ مَعَنَا ۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيْهِ وَأَيَّدَهُۥ بِجُنُودٍ لَّمْ تَرَوْهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُوا۟ ٱلسُّفْلَىٰ ۗ وَكَلِمَةُ ٱللَّهِ هِىَ ٱلْعُلْيَا ۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ (٤٠)</h4>
 <p>Jika kamu tidak menolongnya (Muhammad), sesungguhnya Allah telah menolongnya (yaitu) ketika orang-orang kafir mengusirnya (dari Mekkah); sedang dia salah seorang dari dua orang ketika keduanya berada dalam gua, ketika itu dia berkata kepada sahabatnya, "Janganlah engkau bersedih, sesungguhnya Allah bersama kita." Maka Allah menurunkan ketenangan kepadanya (Muhammad) dan membantu dengan bala tentara (malaikat-malaikat) yang tidak terlihat olehmu, dan Dia menjadikan seruan orang-orang kafir itu rendah. Dan firman Allah itulah yang tinggi. Allah Mahaperkasa, Mahabijaksana.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱنفِرُوا۟ خِفَافًا وَثِقَالًا وَجَـٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ (٤١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱنفِرُوا۟ خِفَافًا وَثِقَالًا وَجَـٰهِدُوا۟ بِأَمْوَٰلِكُمْ وَأَنفُسِكُمْ فِى سَبِيلِ ٱللَّهِ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ (٤١)</h4>
 <p>Berangkatlah kamu baik dengan rasa ringan maupun dengan rasa berat, dan berjihadlah dengan harta dan jiwamu di jalan Allah. Yang demikian itu adalah lebih baik bagimu jika kamu mengetahui.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَوْ كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَّٱتَّبَعُوكَ وَلَـٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ ۚ وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ وَٱللَّهُ يَعْلَمُ إِنَّهُمْ لَكَـٰذِبُونَ (٤٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَوْ كَانَ عَرَضًا قَرِيبًا وَسَفَرًا قَاصِدًا لَّٱتَّبَعُوكَ وَلَـٰكِنۢ بَعُدَتْ عَلَيْهِمُ ٱلشُّقَّةُ ۚ وَسَيَحْلِفُونَ بِٱللَّهِ لَوِ ٱسْتَطَعْنَا لَخَرَجْنَا مَعَكُمْ يُهْلِكُونَ أَنفُسَهُمْ وَٱللَّهُ يَعْلَمُ إِنَّهُمْ لَكَـٰذِبُونَ (٤٢)</h4>
 <p>Sekiranya (yang kamu serukan kepada mereka) ada keuntungan yang mudah diperoleh dan perjalanan yang tidak seberapa jauh, niscaya mereka mengikutimu, tetapi tempat yang dituju itu terasa sangat jauh bagi mereka. Mereka akan bersumpah dengan (nama) Allah, "Jikalau kami sanggup niscaya kami berangkat bersamamu." Mereka membinasakan diri sendiri dan Allah mengetahui bahwa mereka benar-benar orang-orang yang berdusta.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُوا۟ وَتَعْلَمَ ٱلْكَـٰذِبِينَ (٤٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمْ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُوا۟ وَتَعْلَمَ ٱلْكَـٰذِبِينَ (٤٣)</h4>
 <p>Allah memaafkanmu (Muhammad). Mengapa engkau memberi izin kepada mereka (untuk tidak pergi berperang), sebelum jelas bagimu orang-orang yang benar-benar (berhalangan) dan sebelum engkau mengetahui orang-orang yang berdusta?</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أَن يُجَـٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ (٤٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ أَن يُجَـٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلْمُتَّقِينَ (٤٤)</h4>
 <p>Orang-orang yang beriman kepada Allah dan hari kemudian, tidak akan meminta izin (tidak ikut) kepadamu untuk berjihad dengan harta dan jiwa mereka. Allah mengetahui orang-orang yang bertakwa.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّمَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱرْتَابَتْ قُلُوبُهُمْ فَهُمْ فِى رَيْبِهِمْ يَتَرَدَّدُونَ (٤٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّمَا يَسْتَـْٔذِنُكَ ٱلَّذِينَ لَا يُؤْمِنُونَ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَٱرْتَابَتْ قُلُوبُهُمْ فَهُمْ فِى رَيْبِهِمْ يَتَرَدَّدُونَ (٤٥)</h4>
 <p>Sesungguhnya yang akan meminta izin kepadamu (Muhammad), hanyalah orang-orang yang tidak beriman kepada Allah dan hari kemudian, dan hati mereka ragu, karena itu mereka selalu bimbang dalam keraguan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">۞ وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَـٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَـٰعِدِينَ (٤٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">۞ وَلَوْ أَرَادُوا۟ ٱلْخُرُوجَ لَأَعَدُّوا۟ لَهُۥ عُدَّةً وَلَـٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمْ فَثَبَّطَهُمْ وَقِيلَ ٱقْعُدُوا۟ مَعَ ٱلْقَـٰعِدِينَ (٤٦)</h4>
 <p>Dan jika mereka mau berangkat, niscaya mereka menyiapkan persiapan untuk keberangkatan itu, tetapi Allah tidak menyukai keberangkatan mereka, maka Dia melemahkan keinginan mereka, dan dikatakan (kepada mereka), "Tinggallah kamu bersama orang-orang yang tinggal."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَوْ خَرَجُوا۟ فِيكُم مَّا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا۟ خِلَـٰلَكُمْ يَبْغُونَكُمُ ٱلْفِتْنَةَ وَفِيكُمْ سَمَّـٰعُونَ لَهُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ (٤٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَوْ خَرَجُوا۟ فِيكُم مَّا زَادُوكُمْ إِلَّا خَبَالًا وَلَأَوْضَعُوا۟ خِلَـٰلَكُمْ يَبْغُونَكُمُ ٱلْفِتْنَةَ وَفِيكُمْ سَمَّـٰعُونَ لَهُمْ ۗ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ (٤٧)</h4>
 <p>Jika (mereka berangkat bersamamu), niscaya mereka tidak akan menambah (kekuatan)mu, malah hanya akan membuat kekacauan, dan mereka tentu bergegas maju ke depan di celah-celah barisanmu untuk mengadakan kekacauan (di barisanmu); sedang di antara kamu ada orang-orang yang sangat suka mendengarkan (perkataan) mereka. Allah mengetahui orang-orang yang zalim.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ حَتَّىٰ جَآءَ ٱلْحَقُّ وَظَهَرَ أَمْرُ ٱللَّهِ وَهُمْ كَـٰرِهُونَ (٤٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَقَدِ ٱبْتَغَوُا۟ ٱلْفِتْنَةَ مِن قَبْلُ وَقَلَّبُوا۟ لَكَ ٱلْأُمُورَ حَتَّىٰ جَآءَ ٱلْحَقُّ وَظَهَرَ أَمْرُ ٱللَّهِ وَهُمْ كَـٰرِهُونَ (٤٨)</h4>
 <p>Sesungguhnya, sebelum itu mereka memang sudah berusaha membuat kekacauan dan mengatur berbagai macam tipu daya bagimu (memutarbalikkan persoalan), hingga datanglah kebenaran (pertolongan Allah), dan menanglah urusan (agama) Allah, padahal mereka tidak menyukainya.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَمِنْهُم مَّن يَقُولُ ٱئْذَن لِّى وَلَا تَفْتِنِّىٓ ۚ أَلَا فِى ٱلْفِتْنَةِ سَقَطُوا۟ ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَـٰفِرِينَ (٤٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَمِنْهُم مَّن يَقُولُ ٱئْذَن لِّى وَلَا تَفْتِنِّىٓ ۚ أَلَا فِى ٱلْفِتْنَةِ سَقَطُوا۟ ۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةٌۢ بِٱلْكَـٰفِرِينَ (٤٩)</h4>
 <p>Dan di antara mereka ada orang yang berkata, "Berilah aku izin (tidak pergi berperang) dan janganlah engkau (Muhammad) menjadikan aku terjerumus ke dalam fitnah." Ketahuilah, bahwa mereka telah terjerumus ke dalam fitnah. Dan sungguh, Jahanam meliputi orang-orang yang kafir.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِن تُصِبْكَ حَسَنَةٌ تَسُؤْهُمْ ۖ وَإِن تُصِبْكَ مُصِيبَةٌ يَقُولُوا۟ قَدْ أَخَذْنَآ أَمْرَنَا مِن قَبْلُ وَيَتَوَلَّوا۟ وَّهُمْ فَرِحُونَ (٥٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِن تُصِبْكَ حَسَنَةٌ تَسُؤْهُمْ ۖ وَإِن تُصِبْكَ مُصِيبَةٌ يَقُولُوا۟ قَدْ أَخَذْنَآ أَمْرَنَا مِن قَبْلُ وَيَتَوَلَّوا۟ وَّهُمْ فَرِحُونَ (٥٠)</h4>
 <p>Jika engkau (Muhammad) mendapat kebaikan, mereka tidak senang; tetapi jika engkau ditimpa bencana, mereka berkata, "Sungguh, sejak semula kami telah berhati-hati (tidak pergi berperang)," dan mereka berpaling dengan (perasaan) gembira.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ (٥١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ (٥١)</h4>
 <p>Katakanlah (Muhammad), "Tidak akan menimpa kami melainkan apa yang telah ditetapkan Allah bagi kami. Dialah Pelindung kami, dan hanya kepada Allah bertawakallah orang-orang yang beriman."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">قُلْ هَلْ تَرَبَّصُونَ بِنَآ إِلَّآ إِحْدَى ٱلْحُسْنَيَيْنِ ۖ وَنَحْنُ نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابٍ مِّنْ عِندِهِۦٓ أَوْ بِأَيْدِينَا ۖ فَتَرَبَّصُوٓا۟ إِنَّا مَعَكُم مُّتَرَبِّصُونَ (٥٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">قُلْ هَلْ تَرَبَّصُونَ بِنَآ إِلَّآ إِحْدَى ٱلْحُسْنَيَيْنِ ۖ وَنَحْنُ نَتَرَبَّصُ بِكُمْ أَن يُصِيبَكُمُ ٱللَّهُ بِعَذَابٍ مِّنْ عِندِهِۦٓ أَوْ بِأَيْدِينَا ۖ فَتَرَبَّصُوٓا۟ إِنَّا مَعَكُم مُّتَرَبِّصُونَ (٥٢)</h4>
 <p>Katakanlah (Muhammad), "Tidak ada yang kamu tunggu-tunggu bagi kami, kecuali salah satu dari dua kebaikan (menang atau mati syahid). Dan kami menunggu-nunggu bagi kamu bahwa Allah akan menimpakan azab kepadamu dari sisi-Nya, atau (azab) melalui tangan kami. Maka tunggulah, sesungguhnya kami menunggu (pula) bersamamu."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">قُلْ أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًا لَّن يُتَقَبَّلَ مِنكُمْ ۖ إِنَّكُمْ كُنتُمْ قَوْمًا فَـٰسِقِينَ (٥٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">قُلْ أَنفِقُوا۟ طَوْعًا أَوْ كَرْهًا لَّن يُتَقَبَّلَ مِنكُمْ ۖ إِنَّكُمْ كُنتُمْ قَوْمًا فَـٰسِقِينَ (٥٣)</h4>
 <p>Katakanlah (Muhammad), "Infakkanlah hartamu baik dengan sukarela maupun dengan terpaksa, namun (infakmu) tidak akan diterima. Sesungguhnya kamu sekalian adalah orang-orang yang fasik."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَمَا مَنَعَهُمْ أَن تُقْبَلَ مِنْهُمْ نَفَقَـٰتُهُمْ إِلَّآ أَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأْتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمْ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمْ كَـٰرِهُونَ (٥٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَمَا مَنَعَهُمْ أَن تُقْبَلَ مِنْهُمْ نَفَقَـٰتُهُمْ إِلَّآ أَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأْتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمْ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمْ كَـٰرِهُونَ (٥٤)</h4>
 <p>Dan yang menghalang-halangi infak mereka untuk diterima adalah karena mereka kafir (ingkar) kepada Allah dan Rasul-Nya dan mereka tidak melaksanakan salat, melainkan dengan malas dan tidak (pula) menginfakkan (harta) mereka, melainkan dengan rasa enggan (terpaksa).</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُعَذِّبَهُم بِهَا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَـٰفِرُونَ (٥٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَلَآ أَوْلَـٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُعَذِّبَهُم بِهَا فِى ٱلْحَيَوٰةِ ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَـٰفِرُونَ (٥٥)</h4>
 <p>Maka janganlah harta dan anak-anak mereka membuatmu kagum. Sesungguhnya maksud Allah dengan itu adalah untuk menyiksa mereka dalam kehidupan dunia dan kelak akan mati dalam keadaan kafir.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَيَحْلِفُونَ بِٱللَّهِ إِنَّهُمْ لَمِنكُمْ وَمَا هُم مِّنكُمْ وَلَـٰكِنَّهُمْ قَوْمٌ يَفْرَقُونَ (٥٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَيَحْلِفُونَ بِٱللَّهِ إِنَّهُمْ لَمِنكُمْ وَمَا هُم مِّنكُمْ وَلَـٰكِنَّهُمْ قَوْمٌ يَفْرَقُونَ (٥٦)</h4>
 <p>Dan mereka (orang-orang munafik) bersumpah dengan (nama) Allah, bahwa sesungguhnya mereka termasuk golonganmu; namun mereka bukanlah dari golonganmu, tetapi mereka adalah orang-orang yang sangat takut (kepadamu).</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَوْ يَجِدُونَ مَلْجَـًٔا أَوْ مَغَـٰرَٰتٍ أَوْ مُدَّخَلًا لَّوَلَّوْا۟ إِلَيْهِ وَهُمْ يَجْمَحُونَ (٥٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَوْ يَجِدُونَ مَلْجَـًٔا أَوْ مَغَـٰرَٰتٍ أَوْ مُدَّخَلًا لَّوَلَّوْا۟ إِلَيْهِ وَهُمْ يَجْمَحُونَ (٥٧)</h4>
 <p>Sekiranya mereka memperoleh tempat perlindungan, gua-gua atau lubang-lubang (dalam tanah) niscaya mereka pergi (lari) ke sana dengan secepat-cepatnya.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَمِنْهُم مَّن يَلْمِزُكَ فِى ٱلصَّدَقَـٰتِ فَإِنْ أُعْطُوا۟ مِنْهَا رَضُوا۟ وَإِن لَّمْ يُعْطَوْا۟ مِنْهَآ إِذَا هُمْ يَسْخَطُونَ (٥٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَمِنْهُم مَّن يَلْمِزُكَ فِى ٱلصَّدَقَـٰتِ فَإِنْ أُعْطُوا۟ مِنْهَا رَضُوا۟ وَإِن لَّمْ يُعْطَوْا۟ مِنْهَآ إِذَا هُمْ يَسْخَطُونَ (٥٨)</h4>
 <p>Dan di antara mereka ada yang mencelamu tentang (pembagian) sedekah (zakat); jika mereka diberi bagian, mereka bersenang hati, dan jika mereka tidak diberi bagian, tiba-tiba mereka marah.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَلَوْ أَنَّهُمْ رَضُوا۟ مَآ ءَاتَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ وَقَالُوا۟ حَسْبُنَا ٱللَّهُ سَيُؤْتِينَا ٱللَّهُ مِن فَضْلِهِۦ وَرَسُولُهُۥٓ إِنَّآ إِلَى ٱللَّهِ رَٰغِبُونَ (٥٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَلَوْ أَنَّهُمْ رَضُوا۟ مَآ ءَاتَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ وَقَالُوا۟ حَسْبُنَا ٱللَّهُ سَيُؤْتِينَا ٱللَّهُ مِن فَضْلِهِۦ وَرَسُولُهُۥٓ إِنَّآ إِلَى ٱللَّهِ رَٰغِبُونَ (٥٩)</h4>
 <p>Dan Sekiranya mereka benar-benar rida dengan apa yang diberikan kepada mereka oleh Allah dan Rasul-Nya, dan berkata, "Cukuplah Allah bagi kami, Allah dan Rasul-Nya akan memberikan kepada kami sebagian dari karunia-Nya. Sesungguhnya kami orang-orang yang berharap kepada Allah."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">۞ إِنَّمَا ٱلصَّدَقَـٰتُ لِلْفُقَرَآءِ وَٱلْمَسَـٰكِينِ وَٱلْعَـٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَـٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةً مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ (٦٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">۞ إِنَّمَا ٱلصَّدَقَـٰتُ لِلْفُقَرَآءِ وَٱلْمَسَـٰكِينِ وَٱلْعَـٰمِلِينَ عَلَيْهَا وَٱلْمُؤَلَّفَةِ قُلُوبُهُمْ وَفِى ٱلرِّقَابِ وَٱلْغَـٰرِمِينَ وَفِى سَبِيلِ ٱللَّهِ وَٱبْنِ ٱلسَّبِيلِ ۖ فَرِيضَةً مِّنَ ٱللَّهِ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ (٦٠)</h4>
 <p>Sesungguhnya zakat itu hanyalah untuk orang-orang fakir, orang miskin, amil zakat, orang yang dilunakkan hatinya (mualaf), untuk (memerdekakan) hamba sahaya, untuk (membebaskan) orang yang berhutang, untuk jalan Allah dan untuk orang yang sedang dalam perjalanan, sebagai kewajiban dari Allah. Allah Maha Mengetahui, Mahabijaksana.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَمِنْهُمُ ٱلَّذِينَ يُؤْذُونَ ٱلنَّبِىَّ وَيَقُولُونَ هُوَ أُذُنٌ ۚ قُلْ أُذُنُ خَيْرٍ لَّكُمْ يُؤْمِنُ بِٱللَّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ وَرَحْمَةٌ لِّلَّذِينَ ءَامَنُوا۟ مِنكُمْ ۚ وَٱلَّذِينَ يُؤْذُونَ رَسُولَ ٱللَّهِ لَهُمْ عَذَابٌ أَلِيمٌ (٦١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَمِنْهُمُ ٱلَّذِينَ يُؤْذُونَ ٱلنَّبِىَّ وَيَقُولُونَ هُوَ أُذُنٌ ۚ قُلْ أُذُنُ خَيْرٍ لَّكُمْ يُؤْمِنُ بِٱللَّهِ وَيُؤْمِنُ لِلْمُؤْمِنِينَ وَرَحْمَةٌ لِّلَّذِينَ ءَامَنُوا۟ مِنكُمْ ۚ وَٱلَّذِينَ يُؤْذُونَ رَسُولَ ٱللَّهِ لَهُمْ عَذَابٌ أَلِيمٌ (٦١)</h4>
 <p>Dan di antara mereka (orang munafik) ada orang-orang yang menyakiti hati Nabi (Muhammad) dan mengatakan, "Nabi mempercayai semua apa yang didengarnya." Katakanlah, "Dia mempercayai semua yang baik bagi kamu, dia beriman kepada Allah, mempercayai orang-orang mukmin, dan menjadi rahmat bagi orang-orang yang beriman di antara kamu." Dan orang-orang yang menyakiti Rasulullah akan mendapat azab yang pedih.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَحْلِفُونَ بِٱللَّهِ لَكُمْ لِيُرْضُوكُمْ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ أَن يُرْضُوهُ إِن كَانُوا۟ مُؤْمِنِينَ (٦٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَحْلِفُونَ بِٱللَّهِ لَكُمْ لِيُرْضُوكُمْ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ أَن يُرْضُوهُ إِن كَانُوا۟ مُؤْمِنِينَ (٦٢)</h4>
 <p>Mereka bersumpah kepadamu dengan (nama) Allah untuk menyenangkan kamu, padahal Allah dan Rasul-Nya lebih pantas mereka cari keridaan-Nya jika mereka orang mukmin.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">أَلَمْ يَعْلَمُوٓا۟ أَنَّهُۥ مَن يُحَادِدِ ٱللَّهَ وَرَسُولَهُۥ فَأَنَّ لَهُۥ نَارَ جَهَنَّمَ خَـٰلِدًا فِيهَا ۚ ذَٰلِكَ ٱلْخِزْىُ ٱلْعَظِيمُ (٦٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">أَلَمْ يَعْلَمُوٓا۟ أَنَّهُۥ مَن يُحَادِدِ ٱللَّهَ وَرَسُولَهُۥ فَأَنَّ لَهُۥ نَارَ جَهَنَّمَ خَـٰلِدًا فِيهَا ۚ ذَٰلِكَ ٱلْخِزْىُ ٱلْعَظِيمُ (٦٣)</h4>
 <p>Tidakkah mereka (orang munafik) mengetahui bahwa barang siapa menentang Allah dan Rasul-Nya, maka sesungguhnya neraka Jahanamlah bagiannya, dia kekal di dalamnya. Itulah kehinaan yang besar.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَحْذَرُ ٱلْمُنَـٰفِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُم بِمَا فِى قُلُوبِهِمْ ۚ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌ مَّا تَحْذَرُونَ (٦٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَحْذَرُ ٱلْمُنَـٰفِقُونَ أَن تُنَزَّلَ عَلَيْهِمْ سُورَةٌ تُنَبِّئُهُم بِمَا فِى قُلُوبِهِمْ ۚ قُلِ ٱسْتَهْزِءُوٓا۟ إِنَّ ٱللَّهَ مُخْرِجٌ مَّا تَحْذَرُونَ (٦٤)</h4>
 <p>Orang-orang munafik itu takut jika diturunkan suatu surah yang menerangkan apa yang tersembunyi di dalam hati mereka. Katakanlah (kepada mereka), "Teruskanlah berolok-olok (terhadap Allah dan Rasul-Nya)." Sesungguhnya Allah akan mengungkapkan apa yang kamu takuti itu.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِٱللَّهِ وَءَايَـٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ (٦٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَلَئِن سَأَلْتَهُمْ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلْعَبُ ۚ قُلْ أَبِٱللَّهِ وَءَايَـٰتِهِۦ وَرَسُولِهِۦ كُنتُمْ تَسْتَهْزِءُونَ (٦٥)</h4>
 <p>Dan jika kamu tanyakan kepada mereka, niscaya mereka akan menjawab, "Sesungguhnya kami hanya bersenda gurau dan bermain-main saja." Katakanlah, "Mengapa kepada Allah, dan ayat-ayat-Nya serta Rasul-Nya kamu selalu berolok-olok?"</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَا تَعْتَذِرُوا۟ قَدْ كَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ ۚ إِن نَّعْفُ عَن طَآئِفَةٍ مِّنكُمْ نُعَذِّبْ طَآئِفَةًۢ بِأَنَّهُمْ كَانُوا۟ مُجْرِمِينَ (٦٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَا تَعْتَذِرُوا۟ قَدْ كَفَرْتُم بَعْدَ إِيمَـٰنِكُمْ ۚ إِن نَّعْفُ عَن طَآئِفَةٍ مِّنكُمْ نُعَذِّبْ طَآئِفَةًۢ بِأَنَّهُمْ كَانُوا۟ مُجْرِمِينَ (٦٦)</h4>
 <p>Tidak perlu kamu meminta maaf, karena kamu telah kafir setelah beriman. Jika Kami memaafkan sebagian dari kamu (karena telah tobat), niscaya Kami akan mengazab golongan (yang lain) karena sesungguhnya mereka adalah orang-orang yang (selalu) berbuat dosa.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ بَعْضُهُم مِّنۢ بَعْضٍ ۚ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ ۚ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ ۗ إِنَّ ٱلْمُنَـٰفِقِينَ هُمُ ٱلْفَـٰسِقُونَ (٦٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱلْمُنَـٰفِقُونَ وَٱلْمُنَـٰفِقَـٰتُ بَعْضُهُم مِّنۢ بَعْضٍ ۚ يَأْمُرُونَ بِٱلْمُنكَرِ وَيَنْهَوْنَ عَنِ ٱلْمَعْرُوفِ وَيَقْبِضُونَ أَيْدِيَهُمْ ۚ نَسُوا۟ ٱللَّهَ فَنَسِيَهُمْ ۗ إِنَّ ٱلْمُنَـٰفِقِينَ هُمُ ٱلْفَـٰسِقُونَ (٦٧)</h4>
 <p>Orang-orang munafik laki-laki dan perempuan, satu dengan yang lain adalah (sama), mereka menyuruh (berbuat) yang mungkar dan mencegah (perbuatan) yang makruf dan mereka menggenggamkan tangannya (kikir). Mereka telah melupakan kepada Allah, maka Allah melupakan mereka (pula). Sesungguhnya orang-orang munafik itulah orang-orang yang fasik.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَعَدَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْكُفَّارَ نَارَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۚ هِىَ حَسْبُهُمْ ۚ وَلَعَنَهُمُ ٱللَّهُ ۖ وَلَهُمْ عَذَابٌ مُّقِيمٌ (٦٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَعَدَ ٱللَّهُ ٱلْمُنَـٰفِقِينَ وَٱلْمُنَـٰفِقَـٰتِ وَٱلْكُفَّارَ نَارَ جَهَنَّمَ خَـٰلِدِينَ فِيهَا ۚ هِىَ حَسْبُهُمْ ۚ وَلَعَنَهُمُ ٱللَّهُ ۖ وَلَهُمْ عَذَابٌ مُّقِيمٌ (٦٨)</h4>
 <p>Allah menjanjikan (mengancam) orang-orang munafik laki-laki dan perempuan dan orang-orang kafir dengan neraka Jahanam. Mereka kekal di dalamnya. Cukuplah (neraka) itu bagi mereka. Allah melaknat mereka; dan mereka mendapat azab yang kekal,</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">كَٱلَّذِينَ مِن قَبْلِكُمْ كَانُوٓا۟ أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَٰلًا وَأَوْلَـٰدًا فَٱسْتَمْتَعُوا۟ بِخَلَـٰقِهِمْ فَٱسْتَمْتَعْتُم بِخَلَـٰقِكُمْ كَمَا ٱسْتَمْتَعَ ٱلَّذِينَ مِن قَبْلِكُم بِخَلَـٰقِهِمْ وَخُضْتُمْ كَٱلَّذِى خَاضُوٓا۟ ۚ أُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ (٦٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">كَٱلَّذِينَ مِن قَبْلِكُمْ كَانُوٓا۟ أَشَدَّ مِنكُمْ قُوَّةً وَأَكْثَرَ أَمْوَٰلًا وَأَوْلَـٰدًا فَٱسْتَمْتَعُوا۟ بِخَلَـٰقِهِمْ فَٱسْتَمْتَعْتُم بِخَلَـٰقِكُمْ كَمَا ٱسْتَمْتَعَ ٱلَّذِينَ مِن قَبْلِكُم بِخَلَـٰقِهِمْ وَخُضْتُمْ كَٱلَّذِى خَاضُوٓا۟ ۚ أُو۟لَـٰٓئِكَ حَبِطَتْ أَعْمَـٰلُهُمْ فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ (٦٩)</h4>
 <p>(keadaan kamu kaum munafik dan musyrikin) seperti orang-orang sebelum kamu, mereka lebih kuat daripada kamu, dan lebih banyak harta dan anak-anaknya. Maka mereka telah menikmati bagiannya, dan kamu telah menikmati bagianmu sebagaimana orang-orang yang sebelummu menikmati bagiannya, dan kamu mempercakapkan (hal-hal yang batil) sebagaimana mereka mempercakapkannya. Mereka itu sia-sia amalnya di dunia dan di akhirat. Mereka itulah orang-orang yang rugi.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ وَأَصْحَـٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَـٰتِ ۚ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ (٧٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">أَلَمْ يَأْتِهِمْ نَبَأُ ٱلَّذِينَ مِن قَبْلِهِمْ قَوْمِ نُوحٍ وَعَادٍ وَثَمُودَ وَقَوْمِ إِبْرَٰهِيمَ وَأَصْحَـٰبِ مَدْيَنَ وَٱلْمُؤْتَفِكَـٰتِ ۚ أَتَتْهُمْ رُسُلُهُم بِٱلْبَيِّنَـٰتِ ۖ فَمَا كَانَ ٱللَّهُ لِيَظْلِمَهُمْ وَلَـٰكِن كَانُوٓا۟ أَنفُسَهُمْ يَظْلِمُونَ (٧٠)</h4>
 <p>Apakah tidak sampai kepada mereka berita (tentang) orang-orang yang sebelum mereka, (yaitu) kaum Nuh, 'Ād, Samud, kaum Ibrahim, penduduk Madyan, dan (penduduk) negeri-negeri yang telah musnah? Telah datang kepada mereka Rasul-rasul dengan membawa bukti-bukti yang nyata; Allah tidak menzalimi mereka, tetapi merekalah yang menzalimi diri mereka sendiri.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَـٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ يَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَـٰٓئِكَ سَيَرْحَمُهُمُ ٱللَّهُ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ (٧١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَٱلْمُؤْمِنُونَ وَٱلْمُؤْمِنَـٰتُ بَعْضُهُمْ أَوْلِيَآءُ بَعْضٍ ۚ يَأْمُرُونَ بِٱلْمَعْرُوفِ وَيَنْهَوْنَ عَنِ ٱلْمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤْتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَـٰٓئِكَ سَيَرْحَمُهُمُ ٱللَّهُ ۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٌ (٧١)</h4>
 <p>Dan orang-orang yang beriman, laki-laki dan perempuan, sebagian mereka menjadi penolong bagi sebagian yang lain. Mereka menyuruh (berbuat) yang makruf, dan mencegah dari yang mungkar, melaksanakan salat, menunaikan zakat, dan taat kepada Allah dan Rasul-Nya. Mereka akan diberi rahmat oleh Allah. Sungguh, Allah Mahaperkasa, Mahabijaksana.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَعَدَ ٱللَّهُ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَمَسَـٰكِنَ طَيِّبَةً فِى جَنَّـٰتِ عَدْنٍ ۚ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ (٧٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَعَدَ ٱللَّهُ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا وَمَسَـٰكِنَ طَيِّبَةً فِى جَنَّـٰتِ عَدْنٍ ۚ وَرِضْوَٰنٌ مِّنَ ٱللَّهِ أَكْبَرُ ۚ ذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ (٧٢)</h4>
 <p>Allah menjanjikan kepada orang-orang mukmin laki-laki dan perempuan, (akan mendapat) surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya, dan (mendapat) tempat yang baik di surga 'Adn. Dan keridaan Allah lebih besar. Itulah kemenangan yang agung.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ (٧٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ (٧٣)</h4>
 <p>Wahai Nabi! Berjihadlah (melawan) orang-orang kafir dan orang-orang munafik, dan bersikap keraslah terhadap mereka. Tempat mereka adalah neraka Jahanam. Dan itulah seburuk-buruk tempat kembali.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ عَذَابًا أَلِيمًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۚ وَمَا لَهُمْ فِى ٱلْأَرْضِ مِن وَلِىٍّ وَلَا نَصِيرٍ (٧٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَحْلِفُونَ بِٱللَّهِ مَا قَالُوا۟ وَلَقَدْ قَالُوا۟ كَلِمَةَ ٱلْكُفْرِ وَكَفَرُوا۟ بَعْدَ إِسْلَـٰمِهِمْ وَهَمُّوا۟ بِمَا لَمْ يَنَالُوا۟ ۚ وَمَا نَقَمُوٓا۟ إِلَّآ أَنْ أَغْنَىٰهُمُ ٱللَّهُ وَرَسُولُهُۥ مِن فَضْلِهِۦ ۚ فَإِن يَتُوبُوا۟ يَكُ خَيْرًا لَّهُمْ ۖ وَإِن يَتَوَلَّوْا۟ يُعَذِّبْهُمُ ٱللَّهُ عَذَابًا أَلِيمًا فِى ٱلدُّنْيَا وَٱلْـَٔاخِرَةِ ۚ وَمَا لَهُمْ فِى ٱلْأَرْضِ مِن وَلِىٍّ وَلَا نَصِيرٍ (٧٤)</h4>
 <p>Mereka (orang munafik) bersumpah dengan (nama) Allah, bahwa mereka tidak mengatakan (sesuatu yang menyakiti Muhammad). Sungguh, mereka telah mengucapkan perkataan kekafiran, dan telah menjadi kafir setelah Islam, dan menginginkan apa yang mereka tidak mencapainya; dan mereka tidak mencela (Allah dan Rasul-Nya), sekiranya Allah dan Rasul-Nya telah melimpahkan karunia-Nya kepada mereka. Maka jika mereka bertobat, itu adalah lebih baik bagi mereka, dan jika mereka berpaling, niscaya Allah akan mengazab mereka dengan azab yang pedih di dunia dan akhirat; dan mereka tidak mempunyai pelindung dan tidak (pula) penolong di bumi.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">۞ وَمِنْهُم مَّنْ عَـٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّـٰلِحِينَ (٧٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">۞ وَمِنْهُم مَّنْ عَـٰهَدَ ٱللَّهَ لَئِنْ ءَاتَىٰنَا مِن فَضْلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّـٰلِحِينَ (٧٥)</h4>
 <p>Dan di antara mereka ada orang yang telah berjanji kepada Allah, "Sesungguhnya jika Allah memberikan sebagian dari karunia-Nya kepada kami, niscaya kami akan bersedekah dan niscaya kami termasuk orang-orang yang saleh."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ (٧٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَلَمَّآ ءَاتَىٰهُم مِّن فَضْلِهِۦ بَخِلُوا۟ بِهِۦ وَتَوَلَّوا۟ وَّهُم مُّعْرِضُونَ (٧٦)</h4>
 <p>Ketika Allah memberikan kepada mereka sebagian dari karunia-Nya, mereka menjadi kikir dan berpaling, dan selalu menentang (kebenaran).</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَأَعْقَبَهُمْ نِفَاقًا فِى قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُۥ بِمَآ أَخْلَفُوا۟ ٱللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُوا۟ يَكْذِبُونَ (٧٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَأَعْقَبَهُمْ نِفَاقًا فِى قُلُوبِهِمْ إِلَىٰ يَوْمِ يَلْقَوْنَهُۥ بِمَآ أَخْلَفُوا۟ ٱللَّهَ مَا وَعَدُوهُ وَبِمَا كَانُوا۟ يَكْذِبُونَ (٧٧)</h4>
 <p>Maka Allah menanamkan kemunafikan dalam hati mereka sampai pada waktu mereka menemui-Nya, karena mereka telah mengingkari janji yang telah mereka ikrarkan kepada-Nya dan (juga) karena mereka selalu berdusta.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ سِرَّهُمْ وَنَجْوَىٰهُمْ وَأَنَّ ٱللَّهَ عَلَّـٰمُ ٱلْغُيُوبِ (٧٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ يَعْلَمُ سِرَّهُمْ وَنَجْوَىٰهُمْ وَأَنَّ ٱللَّهَ عَلَّـٰمُ ٱلْغُيُوبِ (٧٨)</h4>
 <p>Tidakkah mereka mengetahui bahwa Allah mengetahui rahasia dan bisikan mereka, dan bahwa Allah mengetahui segala yang gaib?</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى ٱلصَّدَقَـٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ ۙ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ (٧٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱلَّذِينَ يَلْمِزُونَ ٱلْمُطَّوِّعِينَ مِنَ ٱلْمُؤْمِنِينَ فِى ٱلصَّدَقَـٰتِ وَٱلَّذِينَ لَا يَجِدُونَ إِلَّا جُهْدَهُمْ فَيَسْخَرُونَ مِنْهُمْ ۙ سَخِرَ ٱللَّهُ مِنْهُمْ وَلَهُمْ عَذَابٌ أَلِيمٌ (٧٩)</h4>
 <p>(Orang munafik) yaitu mereka yang mencela orang-orang beriman yang memberikan sedekah dengan sukarela dan yang (mencela) orang-orang yang hanya punya (untuk disedekahkan) sekedar kesanggupannya, maka orang-orang munafik itu menghina mereka. Allah akan membalas penghinaan mereka, dan mereka akan mendapat azab yang pedih.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ (٨٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱسْتَغْفِرْ لَهُمْ أَوْ لَا تَسْتَغْفِرْ لَهُمْ إِن تَسْتَغْفِرْ لَهُمْ سَبْعِينَ مَرَّةً فَلَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ ذَٰلِكَ بِأَنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ (٨٠)</h4>
 <p>(Sama saja) engkau (Muhammad) memohonkan ampunan bagi mereka atau tidak memohonkan ampunan bagi mereka. Walaupun engkau memohonkan ampunan bagi mereka tujuh puluh kali, Allah tidak akan memberi ampunan kepada mereka. Yang demikian itu, karena mereka ingkar (kafir) kepada Allah dan Rasul-Nya. Dan Allah tidak memberi petunjuk kepada orang-orang yang fasik.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَـٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَـٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ (٨١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَرِحَ ٱلْمُخَلَّفُونَ بِمَقْعَدِهِمْ خِلَـٰفَ رَسُولِ ٱللَّهِ وَكَرِهُوٓا۟ أَن يُجَـٰهِدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ فِى سَبِيلِ ٱللَّهِ وَقَالُوا۟ لَا تَنفِرُوا۟ فِى ٱلْحَرِّ ۗ قُلْ نَارُ جَهَنَّمَ أَشَدُّ حَرًّا ۚ لَّوْ كَانُوا۟ يَفْقَهُونَ (٨١)</h4>
 <p>Orang-orang yang ditinggalkan (tidak ikut berperang), merasa gembira duduk-duduk diam sepeninggal Rasulullah. Mereka tidak suka berjihad dengan harta dan jiwa mereka di jalan Allah dan mereka berkata, "Janganlah kamu berangkat (pergi berperang) dalam panas terik ini." Katakanlah (Muhammad), "Api neraka Jahanam lebih panas," jika mereka mengetahui.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ (٨٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَلْيَضْحَكُوا۟ قَلِيلًا وَلْيَبْكُوا۟ كَثِيرًا جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ (٨٢)</h4>
 <p>Maka biarkanlah mereka tertawa sedikit dan menangis yang banyak, sebagai balasan terhadap apa yang selalu mereka perbuat.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَإِن رَّجَعَكَ ٱللَّهُ إِلَىٰ طَآئِفَةٍ مِّنْهُمْ فَٱسْتَـْٔذَنُوكَ لِلْخُرُوجِ فَقُل لَّن تَخْرُجُوا۟ مَعِىَ أَبَدًا وَلَن تُقَـٰتِلُوا۟ مَعِىَ عَدُوًّا ۖ إِنَّكُمْ رَضِيتُم بِٱلْقُعُودِ أَوَّلَ مَرَّةٍ فَٱقْعُدُوا۟ مَعَ ٱلْخَـٰلِفِينَ (٨٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَإِن رَّجَعَكَ ٱللَّهُ إِلَىٰ طَآئِفَةٍ مِّنْهُمْ فَٱسْتَـْٔذَنُوكَ لِلْخُرُوجِ فَقُل لَّن تَخْرُجُوا۟ مَعِىَ أَبَدًا وَلَن تُقَـٰتِلُوا۟ مَعِىَ عَدُوًّا ۖ إِنَّكُمْ رَضِيتُم بِٱلْقُعُودِ أَوَّلَ مَرَّةٍ فَٱقْعُدُوا۟ مَعَ ٱلْخَـٰلِفِينَ (٨٣)</h4>
 <p>Maka jika Allah mengembalikanmu (Muhammad) kepada suatu golongan dari mereka (orang-orang munafik), kemudian mereka meminta izin kepadamu untuk keluar (pergi berperang), maka katakanlah, "Kamu tidak boleh keluar bersamaku selama-lamanya dan tidak boleh memerangi musuh bersamaku. Sesungguhnya kamu telah rela tidak pergi (berperang) sejak semula. Karena itu duduklah (tinggallah) bersama orang-orang yang tidak ikut (berperang)."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَلَا تُصَلِّ عَلَىٰٓ أَحَدٍ مِّنْهُم مَّاتَ أَبَدًا وَلَا تَقُمْ عَلَىٰ قَبْرِهِۦٓ ۖ إِنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَمَاتُوا۟ وَهُمْ فَـٰسِقُونَ (٨٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَلَا تُصَلِّ عَلَىٰٓ أَحَدٍ مِّنْهُم مَّاتَ أَبَدًا وَلَا تَقُمْ عَلَىٰ قَبْرِهِۦٓ ۖ إِنَّهُمْ كَفَرُوا۟ بِٱللَّهِ وَرَسُولِهِۦ وَمَاتُوا۟ وَهُمْ فَـٰسِقُونَ (٨٤)</h4>
 <p>Dan janganlah engkau (Muhammad) melaksanakan salat untuk seseorang yang mati di antara mereka (orang-orang munafik), selama-lamanya dan janganlah engkau berdiri (mendoakan) di atas kuburnya. Sesungguhnya mereka ingkar kepada Allah dan Rasul-Nya dan mereka mati dalam keadaan fasik.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَأَوْلَـٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِى ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَـٰفِرُونَ (٨٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَلَا تُعْجِبْكَ أَمْوَٰلُهُمْ وَأَوْلَـٰدُهُمْ ۚ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِى ٱلدُّنْيَا وَتَزْهَقَ أَنفُسُهُمْ وَهُمْ كَـٰفِرُونَ (٨٥)</h4>
 <p>Dan janganlah engkau (Muhammad) kagum terhadap harta dan anak-anak mereka. Sesungguhnya dengan itu Allah hendak menyiksa mereka di dunia dan agar nyawa mereka melayang, sedang mereka dalam keadaan kafir.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَإِذَآ أُنزِلَتْ سُورَةٌ أَنْ ءَامِنُوا۟ بِٱللَّهِ وَجَـٰهِدُوا۟ مَعَ رَسُولِهِ ٱسْتَـْٔذَنَكَ أُو۟لُوا۟ ٱلطَّوْلِ مِنْهُمْ وَقَالُوا۟ ذَرْنَا نَكُن مَّعَ ٱلْقَـٰعِدِينَ (٨٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَإِذَآ أُنزِلَتْ سُورَةٌ أَنْ ءَامِنُوا۟ بِٱللَّهِ وَجَـٰهِدُوا۟ مَعَ رَسُولِهِ ٱسْتَـْٔذَنَكَ أُو۟لُوا۟ ٱلطَّوْلِ مِنْهُمْ وَقَالُوا۟ ذَرْنَا نَكُن مَّعَ ٱلْقَـٰعِدِينَ (٨٦)</h4>
 <p>Dan apabila diturunkan suatu surah (yang memerintahkan kepada orang-orang munafik), "Berimanlah kepada Allah dan berjihadlah bersama rasul-Nya, "niscaya orang-orang yang kaya dan berpengaruh di antara mereka meminta izin kepadamu (untuk tidak berjihad) dan mereka berkata, "Biarkanlah kami berada bersama orang-orang yang duduk (tinggal di rumah)."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ وَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ (٨٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ وَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ (٨٧)</h4>
 <p>Mereka rela berada bersama orang-orang yang tidak pergi berperang, dan hati mereka telah tertutup, sehingga mereka tidak memahami (kebahagiaan beriman dan berjihad).</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَـٰكِنِ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ جَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ وَأُو۟لَـٰٓئِكَ لَهُمُ ٱلْخَيْرَٰتُ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ (٨٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَـٰكِنِ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ جَـٰهَدُوا۟ بِأَمْوَٰلِهِمْ وَأَنفُسِهِمْ ۚ وَأُو۟لَـٰٓئِكَ لَهُمُ ٱلْخَيْرَٰتُ ۖ وَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ (٨٨)</h4>
 <p>Tetapi Rasul dan orang-orang yang beriman bersama dia, (mereka) berjihad dengan harta dan jiwa. Mereka itu memperoleh kebaikan. Mereka itulah orang-orang yang beruntung.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">أَعَدَّ ٱللَّهُ لَهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ (٨٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">أَعَدَّ ٱللَّهُ لَهُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ (٨٩)</h4>
 <p>Allah telah menyediakan bagi mereka surga yang mengalir di bawahnya sungai-sungai, mereka kekal di dalamnya. Itulah kemenangan yang agung.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَجَآءَ ٱلْمُعَذِّرُونَ مِنَ ٱلْأَعْرَابِ لِيُؤْذَنَ لَهُمْ وَقَعَدَ ٱلَّذِينَ كَذَبُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابٌ أَلِيمٌ (٩٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَجَآءَ ٱلْمُعَذِّرُونَ مِنَ ٱلْأَعْرَابِ لِيُؤْذَنَ لَهُمْ وَقَعَدَ ٱلَّذِينَ كَذَبُوا۟ ٱللَّهَ وَرَسُولَهُۥ ۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُوا۟ مِنْهُمْ عَذَابٌ أَلِيمٌ (٩٠)</h4>
 <p>Dan di antara orang-orang Arab Badui datang (kepada Nabi) mengemukakan alasan, agar diberi izin (untuk tidak pergi berperang), sedang orang-orang yang mendustakan Allah dan Rasul-Nya, duduk berdiam. Kelak orang-orang yang kafir di antara mereka akan ditimpa azab yang pedih.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ ۚ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ (٩١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَّيْسَ عَلَى ٱلضُّعَفَآءِ وَلَا عَلَى ٱلْمَرْضَىٰ وَلَا عَلَى ٱلَّذِينَ لَا يَجِدُونَ مَا يُنفِقُونَ حَرَجٌ إِذَا نَصَحُوا۟ لِلَّهِ وَرَسُولِهِۦ ۚ مَا عَلَى ٱلْمُحْسِنِينَ مِن سَبِيلٍ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ (٩١)</h4>
 <p>Tidak ada dosa (karena tidak pergi berperang) atas orang yang lemah, orang yang sakit dan orang-orang yang tidak memperoleh apa yang akan mereka infakkan, apabila mereka berlaku ikhlas kepada Allah dan Rasul-Nya. Tidak ada alasan apa pun untuk menyalahkan orang-orang yang berbuat baik. Dan Allah Maha Pengampun, Maha Penyayang,</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ (٩٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوْكَ لِتَحْمِلَهُمْ قُلْتَ لَآ أَجِدُ مَآ أَحْمِلُكُمْ عَلَيْهِ تَوَلَّوا۟ وَّأَعْيُنُهُمْ تَفِيضُ مِنَ ٱلدَّمْعِ حَزَنًا أَلَّا يَجِدُوا۟ مَا يُنفِقُونَ (٩٢)</h4>
 <p>dan tidak ada (pula dosa) atas orang-orang yang datang kepadamu (Muhammad), agar engkau memberi kendaraan kepada mereka, lalu engkau berkata, "Aku tidak memperoleh kendaraan untuk membawamu," lalu mereka kembali, sedang mata mereka bercucuran air mata karena sedih, disebabkan mereka tidak memperoleh apa yang akan mereka infakkan (untuk ikut berperang).</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">۞ إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَسْتَـْٔذِنُونَكَ وَهُمْ أَغْنِيَآءُ ۚ رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ وَطَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَعْلَمُونَ (٩٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">۞ إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَسْتَـْٔذِنُونَكَ وَهُمْ أَغْنِيَآءُ ۚ رَضُوا۟ بِأَن يَكُونُوا۟ مَعَ ٱلْخَوَالِفِ وَطَبَعَ ٱللَّهُ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَعْلَمُونَ (٩٣)</h4>
 <p>Sesungguhnya alasan (untuk menyalahkan) hanyalah terhadap orang-orang yang meminta izin kepadamu, (untuk tidak ikut berperang), padahal mereka orang kaya. Mereka rela berada bersama orang-orang yang tidak ikut berperang dan Allah telah mengunci hati mereka, sehingga mereka tidak mengetahui (akibat perbuatan mereka).</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ ۚ قُل لَّا تَعْتَذِرُوا۟ لَن نُّؤْمِنَ لَكُمْ قَدْ نَبَّأَنَا ٱللَّهُ مِنْ أَخْبَارِكُمْ ۚ وَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ (٩٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَعْتَذِرُونَ إِلَيْكُمْ إِذَا رَجَعْتُمْ إِلَيْهِمْ ۚ قُل لَّا تَعْتَذِرُوا۟ لَن نُّؤْمِنَ لَكُمْ قَدْ نَبَّأَنَا ٱللَّهُ مِنْ أَخْبَارِكُمْ ۚ وَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ (٩٤)</h4>
 <p>Mereka (orang-orang munafik yang tidak ikut berperang) akan mengemukakan alasannya kepadamu ketika kamu telah kembali kepada mereka. Katakanlah (Muhammad), "Janganlah kamu mengemukakan alasan; kami tidak percaya lagi kepadamu, sungguh, Allah telah memberitahukan kepada kami tentang beritamu. Dan Allah akan melihat pekerjaanmu, (demikian pula) Rasul-Nya, kemudian kamu dikembalikan kepada (Allah) Yang Maha Mengetahui segala yang gaib dan yang nyata, lalu Dia memberitakan kepadamu apa yang telah kamu kerjakan."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">سَيَحْلِفُونَ بِٱللَّهِ لَكُمْ إِذَا ٱنقَلَبْتُمْ إِلَيْهِمْ لِتُعْرِضُوا۟ عَنْهُمْ ۖ فَأَعْرِضُوا۟ عَنْهُمْ ۖ إِنَّهُمْ رِجْسٌ ۖ وَمَأْوَىٰهُمْ جَهَنَّمُ جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ (٩٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">سَيَحْلِفُونَ بِٱللَّهِ لَكُمْ إِذَا ٱنقَلَبْتُمْ إِلَيْهِمْ لِتُعْرِضُوا۟ عَنْهُمْ ۖ فَأَعْرِضُوا۟ عَنْهُمْ ۖ إِنَّهُمْ رِجْسٌ ۖ وَمَأْوَىٰهُمْ جَهَنَّمُ جَزَآءًۢ بِمَا كَانُوا۟ يَكْسِبُونَ (٩٥)</h4>
 <p>Mereka akan bersumpah kepadamu dengan nama Allah, ketika kamu kembali kepada mereka, agar kamu berpaling dari mereka. Maka berpalinglah dari mereka; karena sesungguhnya mereka itu berjiwa kotor dan tempat mereka neraka Jahanam, sebagai balasan atas apa yang telah mereka kerjakan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَحْلِفُونَ لَكُمْ لِتَرْضَوْا۟ عَنْهُمْ ۖ فَإِن تَرْضَوْا۟ عَنْهُمْ فَإِنَّ ٱللَّهَ لَا يَرْضَىٰ عَنِ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ (٩٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَحْلِفُونَ لَكُمْ لِتَرْضَوْا۟ عَنْهُمْ ۖ فَإِن تَرْضَوْا۟ عَنْهُمْ فَإِنَّ ٱللَّهَ لَا يَرْضَىٰ عَنِ ٱلْقَوْمِ ٱلْفَـٰسِقِينَ (٩٦)</h4>
 <p>Mereka akan bersumpah kepadamu, agar kamu bersedia menerima mereka. Tetapi sekalipun kamu menerima mereka, Allah tidak akan rida kepada orang-orang yang fasik.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱلْأَعْرَابُ أَشَدُّ كُفْرًا وَنِفَاقًا وَأَجْدَرُ أَلَّا يَعْلَمُوا۟ حُدُودَ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ (٩٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱلْأَعْرَابُ أَشَدُّ كُفْرًا وَنِفَاقًا وَأَجْدَرُ أَلَّا يَعْلَمُوا۟ حُدُودَ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ (٩٧)</h4>
 <p>Orang-orang Arab Badui itu lebih kuat kekafiran dan kemunafikannya, dan sangat wajar tidak mengetahui hukum-hukum yang diturunkan Allah kepada Rasul-Nya. Allah Maha Mengetahui, Mahabijaksana.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَمِنَ ٱلْأَعْرَابِ مَن يَتَّخِذُ مَا يُنفِقُ مَغْرَمًا وَيَتَرَبَّصُ بِكُمُ ٱلدَّوَآئِرَ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ (٩٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَمِنَ ٱلْأَعْرَابِ مَن يَتَّخِذُ مَا يُنفِقُ مَغْرَمًا وَيَتَرَبَّصُ بِكُمُ ٱلدَّوَآئِرَ ۚ عَلَيْهِمْ دَآئِرَةُ ٱلسَّوْءِ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ (٩٨)</h4>
 <p>Dan di antara orang-orang Arab Badui itu ada yang memandang apa yang diinfakkannya (di jalan Allah) sebagai suatu kerugian; dia menanti-nanti marabahaya menimpamu, merekalah yang akan ditimpa marabahaya. Allah Maha Mendengar, Maha Mengetahui.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَمِنَ ٱلْأَعْرَابِ مَن يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَيَتَّخِذُ مَا يُنفِقُ قُرُبَـٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِ ۚ أَلَآ إِنَّهَا قُرْبَةٌ لَّهُمْ ۚ سَيُدْخِلُهُمُ ٱللَّهُ فِى رَحْمَتِهِۦٓ ۗ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ (٩٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَمِنَ ٱلْأَعْرَابِ مَن يُؤْمِنُ بِٱللَّهِ وَٱلْيَوْمِ ٱلْـَٔاخِرِ وَيَتَّخِذُ مَا يُنفِقُ قُرُبَـٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِ ۚ أَلَآ إِنَّهَا قُرْبَةٌ لَّهُمْ ۚ سَيُدْخِلُهُمُ ٱللَّهُ فِى رَحْمَتِهِۦٓ ۗ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ (٩٩)</h4>
 <p>Dan di antara orang-orang Arab Badui itu ada yang beriman kepada Allah dan hari kemudian, dan memandang apa yang diinfakkannya (di jalan Allah) sebagai jalan mendekatkan diri kepada Allah dan sebagai jalan untuk (memperoleh) doa Rasul. Ketahuilah, sesungguhnya infak itu suatu jalan bagi mereka untuk mendekatkan diri (kepada Allah). Kelak Allah akan memasukkan mereka ke dalam rahmat (surga)-Nya; sesungguhnya Allah Maha Pengampun, Maha penyayang.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَٱلسَّـٰبِقُونَ ٱلْأَوَّلُونَ مِنَ ٱلْمُهَـٰجِرِينَ وَٱلْأَنصَارِ وَٱلَّذِينَ ٱتَّبَعُوهُم بِإِحْسَـٰنٍ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ وَأَعَدَّ لَهُمْ جَنَّـٰتٍ تَجْرِى تَحْتَهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ (١٠٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَٱلسَّـٰبِقُونَ ٱلْأَوَّلُونَ مِنَ ٱلْمُهَـٰجِرِينَ وَٱلْأَنصَارِ وَٱلَّذِينَ ٱتَّبَعُوهُم بِإِحْسَـٰنٍ رَّضِىَ ٱللَّهُ عَنْهُمْ وَرَضُوا۟ عَنْهُ وَأَعَدَّ لَهُمْ جَنَّـٰتٍ تَجْرِى تَحْتَهَا ٱلْأَنْهَـٰرُ خَـٰلِدِينَ فِيهَآ أَبَدًا ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْعَظِيمُ (١٠٠)</h4>
 <p>Dan orang-orang yang terdahulu lagi yang pertama-tama (masuk Islam) di antara orang-orang Muhajirin dan Ansar dan orang-orang yang mengikuti mereka dengan baik, Allah rida kepada mereka dan mereka pun rida kepada Allah. Allah menyediakan bagi mereka surga-surga yang mengalir di bawahnya sungai-sungai. Mereka kekal di dalamnya selama-lamanya. Itulah kemenangan yang agung.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَمِمَّنْ حَوْلَكُم مِّنَ ٱلْأَعْرَابِ مُنَـٰفِقُونَ ۖ وَمِنْ أَهْلِ ٱلْمَدِينَةِ ۖ مَرَدُوا۟ عَلَى ٱلنِّفَاقِ لَا تَعْلَمُهُمْ ۖ نَحْنُ نَعْلَمُهُمْ ۚ سَنُعَذِّبُهُم مَّرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَىٰ عَذَابٍ عَظِيمٍ (١٠١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَمِمَّنْ حَوْلَكُم مِّنَ ٱلْأَعْرَابِ مُنَـٰفِقُونَ ۖ وَمِنْ أَهْلِ ٱلْمَدِينَةِ ۖ مَرَدُوا۟ عَلَى ٱلنِّفَاقِ لَا تَعْلَمُهُمْ ۖ نَحْنُ نَعْلَمُهُمْ ۚ سَنُعَذِّبُهُم مَّرَّتَيْنِ ثُمَّ يُرَدُّونَ إِلَىٰ عَذَابٍ عَظِيمٍ (١٠١)</h4>
 <p>Dan di antara orang-orang Arab Badui yang (tinggal) di sekitarmu, ada orang-orang munafik. Dan di antara penduduk Madinah (ada juga orang-orang munafik), mereka keterlaluan dalam kemunafikannya. Engkau (Muhammad) tidak mengetahui mereka, tetapi Kami mengetahuinya. Nanti mereka akan Kami siksa dua kali, kemudian mereka akan dikembalikan kepada azab yang besar.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَءَاخَرُونَ ٱعْتَرَفُوا۟ بِذُنُوبِهِمْ خَلَطُوا۟ عَمَلًا صَـٰلِحًا وَءَاخَرَ سَيِّئًا عَسَى ٱللَّهُ أَن يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ (١٠٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَءَاخَرُونَ ٱعْتَرَفُوا۟ بِذُنُوبِهِمْ خَلَطُوا۟ عَمَلًا صَـٰلِحًا وَءَاخَرَ سَيِّئًا عَسَى ٱللَّهُ أَن يَتُوبَ عَلَيْهِمْ ۚ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌ (١٠٢)</h4>
 <p>Dan (ada pula) orang lain yang mengakui dosa-dosa mereka, mereka mencampuradukkan pekerjaan yang baik dengan pekerjaan lain yang buruk. Mudah-mudahan Allah menerima tobat mereka. Sesungguhnya Allah Maha Pengampun, Maha Penyayang.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ (١٠٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">خُذْ مِنْ أَمْوَٰلِهِمْ صَدَقَةً تُطَهِّرُهُمْ وَتُزَكِّيهِم بِهَا وَصَلِّ عَلَيْهِمْ ۖ إِنَّ صَلَوٰتَكَ سَكَنٌ لَّهُمْ ۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ (١٠٣)</h4>
 <p>Ambillah zakat dari harta mereka, guna membersihkan dan menyucikan2 mereka, dan berdoalah untuk mereka. Sesungguhnya doamu itu (menumbuhkan) ketenteraman jiwa bagi mereka. Allah Maha Mendengar, Maha Mengetahui.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَـٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ (١٠٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">أَلَمْ يَعْلَمُوٓا۟ أَنَّ ٱللَّهَ هُوَ يَقْبَلُ ٱلتَّوْبَةَ عَنْ عِبَادِهِۦ وَيَأْخُذُ ٱلصَّدَقَـٰتِ وَأَنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ (١٠٤)</h4>
 <p>Tidakkah mereka mengetahui, bahwa Allah menerima tobat hamba-hamba-Nya dan menerima zakat(nya), dan bahwa Allah Maha Penerima tobat, Maha Penyayang?</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ (١٠٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَقُلِ ٱعْمَلُوا۟ فَسَيَرَى ٱللَّهُ عَمَلَكُمْ وَرَسُولُهُۥ وَٱلْمُؤْمِنُونَ ۖ وَسَتُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ (١٠٥)</h4>
 <p>Dan katakanlah, "Bekerjalah kamu, maka Allah akan melihat pekerjaanmu, begitu juga Rasul-Nya dan orang-orang mukmin, dan kamu akan dikembalikan kepada (Allah) Yang Mengetahui yang gaib dan yang nyata, lalu diberitakan-Nya kepada kamu apa yang telah kamu kerjakan."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَءَاخَرُونَ مُرْجَوْنَ لِأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ (١٠٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَءَاخَرُونَ مُرْجَوْنَ لِأَمْرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمْ وَإِمَّا يَتُوبُ عَلَيْهِمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ (١٠٦)</h4>
 <p>Dan ada (pula) orang-orang lain yang ditangguhkan sampai ada keputusan Allah; mungkin Allah akan mengazab mereka dan mungkin Allah akan menerima tobat mereka. Allah Maha Mengetahui, Mahabijaksana.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًا ضِرَارًا وَكُفْرًا وَتَفْرِيقًۢا بَيْنَ ٱلْمُؤْمِنِينَ وَإِرْصَادًا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَآ إِلَّا ٱلْحُسْنَىٰ ۖ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَـٰذِبُونَ (١٠٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَٱلَّذِينَ ٱتَّخَذُوا۟ مَسْجِدًا ضِرَارًا وَكُفْرًا وَتَفْرِيقًۢا بَيْنَ ٱلْمُؤْمِنِينَ وَإِرْصَادًا لِّمَنْ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبْلُ ۚ وَلَيَحْلِفُنَّ إِنْ أَرَدْنَآ إِلَّا ٱلْحُسْنَىٰ ۖ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَـٰذِبُونَ (١٠٧)</h4>
 <p>Dan (di antara orang-orang munafik itu) ada yang mendirikan masjid untuk menimbulkan bencana (pada orang-orang yang beriman), untuk kekafiran dan untuk memecah belah di antara orang-orang yang beriman, serta untuk menunggu kedatangan orang-orang yang telah memerangi Allah dan Rasul-Nya sejak dahulu. Mereka dengan pasti bersumpah, "Kami hanya menghendaki kebaikan." Dan Allah menjadi saksi bahwa mereka itu pendusta (dalam sumpahnya).</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَا تَقُمْ فِيهِ أَبَدًا ۚ لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ ۚ فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ ۚ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ (١٠٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَا تَقُمْ فِيهِ أَبَدًا ۚ لَّمَسْجِدٌ أُسِّسَ عَلَى ٱلتَّقْوَىٰ مِنْ أَوَّلِ يَوْمٍ أَحَقُّ أَن تَقُومَ فِيهِ ۚ فِيهِ رِجَالٌ يُحِبُّونَ أَن يَتَطَهَّرُوا۟ ۚ وَٱللَّهُ يُحِبُّ ٱلْمُطَّهِّرِينَ (١٠٨)</h4>
 <p>Janganlah engkau melaksanakan salat dalam masjid itu selama-lamanya. Sungguh, masjid yang didirikan atas dasar takwa, sejak hari pertama adalah lebih pantas engkau melaksanakan salat di dalamnya. Di sana ada orang-orang yang ingin membersihkan diri. Allah menyukai orang-orang yang bersih.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">أَفَمَنْ أَسَّسَ بُنْيَـٰنَهُۥ عَلَىٰ تَقْوَىٰ مِنَ ٱللَّهِ وَرِضْوَٰنٍ خَيْرٌ أَم مَّنْ أَسَّسَ بُنْيَـٰنَهُۥ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَٱنْهَارَ بِهِۦ فِى نَارِ جَهَنَّمَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ (١٠٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">أَفَمَنْ أَسَّسَ بُنْيَـٰنَهُۥ عَلَىٰ تَقْوَىٰ مِنَ ٱللَّهِ وَرِضْوَٰنٍ خَيْرٌ أَم مَّنْ أَسَّسَ بُنْيَـٰنَهُۥ عَلَىٰ شَفَا جُرُفٍ هَارٍ فَٱنْهَارَ بِهِۦ فِى نَارِ جَهَنَّمَ ۗ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ (١٠٩)</h4>
 <p>Maka apakah orang-orang yang mendirikan bangunan (masjid) atas dasar takwa kepada Allah dan keridaan(-Nya) itu lebih baik, ataukah orang-orang yang mendirikan bangunannya di tepi jurang yang runtuh, lalu (bangunan) itu roboh bersama-sama dengan dia ke dalam neraka Jahanam? Allah tidak memberi petunjuk kepada orang-orang yang zalim.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَا يَزَالُ بُنْيَـٰنُهُمُ ٱلَّذِى بَنَوْا۟ رِيبَةً فِى قُلُوبِهِمْ إِلَّآ أَن تَقَطَّعَ قُلُوبُهُمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ (١١٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَا يَزَالُ بُنْيَـٰنُهُمُ ٱلَّذِى بَنَوْا۟ رِيبَةً فِى قُلُوبِهِمْ إِلَّآ أَن تَقَطَّعَ قُلُوبُهُمْ ۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ (١١٠)</h4>
 <p>Bangunan yang mereka dirikan itu senantiasa menjadi penyebab keraguan dalam hati mereka, sampai hati mereka hancur. Dan Allah Maha Mengetahui, Mahabijaksana.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">۞ إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ ۚ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ ۚ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ (١١١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">۞ إِنَّ ٱللَّهَ ٱشْتَرَىٰ مِنَ ٱلْمُؤْمِنِينَ أَنفُسَهُمْ وَأَمْوَٰلَهُم بِأَنَّ لَهُمُ ٱلْجَنَّةَ ۚ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ فَيَقْتُلُونَ وَيُقْتَلُونَ ۖ وَعْدًا عَلَيْهِ حَقًّا فِى ٱلتَّوْرَىٰةِ وَٱلْإِنجِيلِ وَٱلْقُرْءَانِ ۚ وَمَنْ أَوْفَىٰ بِعَهْدِهِۦ مِنَ ٱللَّهِ ۚ فَٱسْتَبْشِرُوا۟ بِبَيْعِكُمُ ٱلَّذِى بَايَعْتُم بِهِۦ ۚ وَذَٰلِكَ هُوَ ٱلْفَوْزُ ٱلْعَظِيمُ (١١١)</h4>
 <p>Sesungguhnya Allah membeli dari orang-orang mukmin, baik diri maupun harta mereka dengan memberikan surga untuk mereka. Mereka berperang di jalan Allah; sehingga mereka membunuh atau terbunuh, (sebagai) janji yang benar dari Allah di dalam Taurat, Injil dan Alquran. Dan siapakah yang lebih menepati janjinya selain Allah? Maka bergembiralah dengan jual beli yang telah kamu lakukan itu, dan demikian itulah kemenangan yang agung.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱلتَّـٰٓئِبُونَ ٱلْعَـٰبِدُونَ ٱلْحَـٰمِدُونَ ٱلسَّـٰٓئِحُونَ ٱلرَّٰكِعُونَ ٱلسَّـٰجِدُونَ ٱلْـَٔامِرُونَ بِٱلْمَعْرُوفِ وَٱلنَّاهُونَ عَنِ ٱلْمُنكَرِ وَٱلْحَـٰفِظُونَ لِحُدُودِ ٱللَّهِ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ (١١٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱلتَّـٰٓئِبُونَ ٱلْعَـٰبِدُونَ ٱلْحَـٰمِدُونَ ٱلسَّـٰٓئِحُونَ ٱلرَّٰكِعُونَ ٱلسَّـٰجِدُونَ ٱلْـَٔامِرُونَ بِٱلْمَعْرُوفِ وَٱلنَّاهُونَ عَنِ ٱلْمُنكَرِ وَٱلْحَـٰفِظُونَ لِحُدُودِ ٱللَّهِ ۗ وَبَشِّرِ ٱلْمُؤْمِنِينَ (١١٢)</h4>
 <p>Mereka itu adalah orang-orang yang bertobat, beribadah, memuji (Allah), mengembara (demi ilmu dan agama), rukuk, sujud, menyuruh berbuat makruf dan mencegah dari yang mungkar dan yang memelihara hukum-hukum Allah. Dan gembirakanlah orang-orang yang beriman.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">مَا كَانَ لِلنَّبِىِّ وَٱلَّذِينَ ءَامَنُوٓا۟ أَن يَسْتَغْفِرُوا۟ لِلْمُشْرِكِينَ وَلَوْ كَانُوٓا۟ أُو۟لِى قُرْبَىٰ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَـٰبُ ٱلْجَحِيمِ (١١٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">مَا كَانَ لِلنَّبِىِّ وَٱلَّذِينَ ءَامَنُوٓا۟ أَن يَسْتَغْفِرُوا۟ لِلْمُشْرِكِينَ وَلَوْ كَانُوٓا۟ أُو۟لِى قُرْبَىٰ مِنۢ بَعْدِ مَا تَبَيَّنَ لَهُمْ أَنَّهُمْ أَصْحَـٰبُ ٱلْجَحِيمِ (١١٣)</h4>
 <p>Tidak pantas bagi Nabi dan orang-orang yang beriman memohonkan ampunan (kepada Allah) bagi orang-orang musyrik, sekalipun orang-orang itu kaum kerabat-(nya), setelah jelas bagi mereka, bahwa orang-orang musyrik itu penghuni neraka Jahanam.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَمَا كَانَ ٱسْتِغْفَارُ إِبْرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَآ إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ ۚ إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٌ (١١٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَمَا كَانَ ٱسْتِغْفَارُ إِبْرَٰهِيمَ لِأَبِيهِ إِلَّا عَن مَّوْعِدَةٍ وَعَدَهَآ إِيَّاهُ فَلَمَّا تَبَيَّنَ لَهُۥٓ أَنَّهُۥ عَدُوٌّ لِّلَّهِ تَبَرَّأَ مِنْهُ ۚ إِنَّ إِبْرَٰهِيمَ لَأَوَّٰهٌ حَلِيمٌ (١١٤)</h4>
 <p>Adapun permohonan ampunan Ibrahim (kepada Allah) untuk bapaknya, tidak lain hanyalah karena suatu janji yang telah diikrarkannya kepada bapaknya. Maka ketika jelas bagi Ibrahim bahwa bapaknya adalah musuh Allah, maka Ibrahim berlepas diri darinya. Sungguh, Ibrahim itu seorang yang sangat lembut hatinya lagi penyantun.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَمَا كَانَ ٱللَّهُ لِيُضِلَّ قَوْمًۢا بَعْدَ إِذْ هَدَىٰهُمْ حَتَّىٰ يُبَيِّنَ لَهُم مَّا يَتَّقُونَ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ (١١٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَمَا كَانَ ٱللَّهُ لِيُضِلَّ قَوْمًۢا بَعْدَ إِذْ هَدَىٰهُمْ حَتَّىٰ يُبَيِّنَ لَهُم مَّا يَتَّقُونَ ۚ إِنَّ ٱللَّهَ بِكُلِّ شَىْءٍ عَلِيمٌ (١١٥)</h4>
 <p>Dan Allah sekali-kali tidak akan menyesatkan suatu kaum, setelah mereka diberi-Nya petunjuk, sehingga dapat dijelaskan kepada mereka apa yang harus mereka jauhi. Sungguh, Allah Maha Mengetahui segala sesuatu.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۚ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ (١١٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّ ٱللَّهَ لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ يُحْىِۦ وَيُمِيتُ ۚ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِىٍّ وَلَا نَصِيرٍ (١١٦)</h4>
 <p>Sesungguhnya Allah memiliki kekuasaan langit dan bumi. Dia menghidupkan dan mematikan. Tidak ada pelindung dan penolong bagimu selain Allah.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِىِّ وَٱلْمُهَـٰجِرِينَ وَٱلْأَنصَارِ ٱلَّذِينَ ٱتَّبَعُوهُ فِى سَاعَةِ ٱلْعُسْرَةِ مِنۢ بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ ۚ إِنَّهُۥ بِهِمْ رَءُوفٌ رَّحِيمٌ (١١٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَّقَد تَّابَ ٱللَّهُ عَلَى ٱلنَّبِىِّ وَٱلْمُهَـٰجِرِينَ وَٱلْأَنصَارِ ٱلَّذِينَ ٱتَّبَعُوهُ فِى سَاعَةِ ٱلْعُسْرَةِ مِنۢ بَعْدِ مَا كَادَ يَزِيغُ قُلُوبُ فَرِيقٍ مِّنْهُمْ ثُمَّ تَابَ عَلَيْهِمْ ۚ إِنَّهُۥ بِهِمْ رَءُوفٌ رَّحِيمٌ (١١٧)</h4>
 <p>Sungguh, Allah telah menerima tobat Nabi, orang-orang Muhajirin dan orang-orang Ansar, yang mengikuti Nabi pada masa-masa sulit, setelah hati segolongan dari mereka hampir berpaling, kemudian Allah menerima tobat mereka. Sesungguhnya Allah Maha Pengasih, Maha Penyayang kepada mereka,</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَعَلَى ٱلثَّلَـٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ ۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ (١١٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَعَلَى ٱلثَّلَـٰثَةِ ٱلَّذِينَ خُلِّفُوا۟ حَتَّىٰٓ إِذَا ضَاقَتْ عَلَيْهِمُ ٱلْأَرْضُ بِمَا رَحُبَتْ وَضَاقَتْ عَلَيْهِمْ أَنفُسُهُمْ وَظَنُّوٓا۟ أَن لَّا مَلْجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيْهِ ثُمَّ تَابَ عَلَيْهِمْ لِيَتُوبُوٓا۟ ۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ (١١٨)</h4>
 <p>dan terhadap tiga orang yang ditinggalkan. Hingga ketika bumi terasa sempit bagi mereka, padahal bumi itu luas dan jiwa mereka pun telah (pula terasa) sempit bagi mereka, serta mereka telah mengetahui bahwa tidak ada tempat lari dari (siksaan) Allah, melainkan kepada-Nya saja, kemudian Allah menerima tobat mereka agar mereka tetap dalam tobatnya. Sesungguhnya Allah Maha Penerima tobat, Maha Penyayang.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَكُونُوا۟ مَعَ ٱلصَّـٰدِقِينَ (١١٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَكُونُوا۟ مَعَ ٱلصَّـٰدِقِينَ (١١٩)</h4>
 <p>Wahai orang-orang yang beriman! Bertakwalah kepada Allah, dan bersamalah kamu dengan orang-orang yang benar.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">مَا كَانَ لِأَهْلِ ٱلْمَدِينَةِ وَمَنْ حَوْلَهُم مِّنَ ٱلْأَعْرَابِ أَن يَتَخَلَّفُوا۟ عَن رَّسُولِ ٱللَّهِ وَلَا يَرْغَبُوا۟ بِأَنفُسِهِمْ عَن نَّفْسِهِۦ ۚ ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌ وَلَا نَصَبٌ وَلَا مَخْمَصَةٌ فِى سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوْطِئًا يَغِيظُ ٱلْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّ نَّيْلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌ صَـٰلِحٌ ۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ (١٢٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">مَا كَانَ لِأَهْلِ ٱلْمَدِينَةِ وَمَنْ حَوْلَهُم مِّنَ ٱلْأَعْرَابِ أَن يَتَخَلَّفُوا۟ عَن رَّسُولِ ٱللَّهِ وَلَا يَرْغَبُوا۟ بِأَنفُسِهِمْ عَن نَّفْسِهِۦ ۚ ذَٰلِكَ بِأَنَّهُمْ لَا يُصِيبُهُمْ ظَمَأٌ وَلَا نَصَبٌ وَلَا مَخْمَصَةٌ فِى سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوْطِئًا يَغِيظُ ٱلْكُفَّارَ وَلَا يَنَالُونَ مِنْ عَدُوٍّ نَّيْلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٌ صَـٰلِحٌ ۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجْرَ ٱلْمُحْسِنِينَ (١٢٠)</h4>
 <p>Tidak pantas bagi penduduk Madinah dan orang-orang Arab Badui yang berdiam di sekitar mereka, tidak turut menyertai Rasulullah (pergi berperang) dan tidak pantas (pula) bagi mereka lebih mencintai diri mereka daripada (mencintai) diri Rasul. Yang demikian itu karena mereka tidak ditimpa kehausan, kepayahan dan kelaparan di jalan Allah, dan tidak (pula) menginjak suatu tempat yang membangkitkan amarah orang-orang kafir, dan tidak menimpakan suatu bencana kepada musuh, kecuali (semua) itu dituliskan bagi mereka sebagai suatu amal kebajikan. Sungguh, Allah tidak menyia-nyiakan pahala orang-orang yang berbuat baik,</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَلَا يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلَا كَبِيرَةً وَلَا يَقْطَعُونَ وَادِيًا إِلَّا كُتِبَ لَهُمْ لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا كَانُوا۟ يَعْمَلُونَ (١٢١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَلَا يُنفِقُونَ نَفَقَةً صَغِيرَةً وَلَا كَبِيرَةً وَلَا يَقْطَعُونَ وَادِيًا إِلَّا كُتِبَ لَهُمْ لِيَجْزِيَهُمُ ٱللَّهُ أَحْسَنَ مَا كَانُوا۟ يَعْمَلُونَ (١٢١)</h4>
 <p>dan tidaklah mereka memberikan infak, baik yang kecil maupun yang besar dan tidak (pula) melintasi suatu lembah (berjihad), kecuali akan dituliskan bagi mereka (sebagai amal kebajikan), untuk diberi balasan oleh Allah (dengan) yang lebih baik daripada apa yang telah mereka kerjakan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">۞ وَمَا كَانَ ٱلْمُؤْمِنُونَ لِيَنفِرُوا۟ كَآفَّةً ۚ فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَآئِفَةٌ لِّيَتَفَقَّهُوا۟ فِى ٱلدِّينِ وَلِيُنذِرُوا۟ قَوْمَهُمْ إِذَا رَجَعُوٓا۟ إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ (١٢٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">۞ وَمَا كَانَ ٱلْمُؤْمِنُونَ لِيَنفِرُوا۟ كَآفَّةً ۚ فَلَوْلَا نَفَرَ مِن كُلِّ فِرْقَةٍ مِّنْهُمْ طَآئِفَةٌ لِّيَتَفَقَّهُوا۟ فِى ٱلدِّينِ وَلِيُنذِرُوا۟ قَوْمَهُمْ إِذَا رَجَعُوٓا۟ إِلَيْهِمْ لَعَلَّهُمْ يَحْذَرُونَ (١٢٢)</h4>
 <p>Dan tidak sepatutnya orang-orang mukmin itu semuanya pergi (ke medan perang). Mengapa sebagian dari setiap golongan di antara mereka tidak pergi untuk memperdalam pengetahuan agama mereka dan untuk memberi peringatan kepada kaumnya apabila mereka telah kembali, agar mereka dapat menjaga dirinya.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قَـٰتِلُوا۟ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلْكُفَّارِ وَلْيَجِدُوا۟ فِيكُمْ غِلْظَةً ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ (١٢٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قَـٰتِلُوا۟ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلْكُفَّارِ وَلْيَجِدُوا۟ فِيكُمْ غِلْظَةً ۚ وَٱعْلَمُوٓا۟ أَنَّ ٱللَّهَ مَعَ ٱلْمُتَّقِينَ (١٢٣)</h4>
 <p>Wahai orang-orang beriman! Perangilah orang-orang kafir yang di sekitar kamu, dan hendaklah mereka merasakan sikap tegas darimu, dan ketahuilah bahwa Allah bersama orang yang bertakwa.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَإِذَا مَآ أُنزِلَتْ سُورَةٌ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَـٰذِهِۦٓ إِيمَـٰنًا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَزَادَتْهُمْ إِيمَـٰنًا وَهُمْ يَسْتَبْشِرُونَ (١٢٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَإِذَا مَآ أُنزِلَتْ سُورَةٌ فَمِنْهُم مَّن يَقُولُ أَيُّكُمْ زَادَتْهُ هَـٰذِهِۦٓ إِيمَـٰنًا ۚ فَأَمَّا ٱلَّذِينَ ءَامَنُوا۟ فَزَادَتْهُمْ إِيمَـٰنًا وَهُمْ يَسْتَبْشِرُونَ (١٢٤)</h4>
 <p>Dan apabila diturunkan suatu surah, maka di antara mereka (orang-orang munafik) ada yang berkata, "Siapakah di antara kamu yang bertambah imannya dengan (turunnya) surah ini?" Adapun orang-orang yang beriman, maka surah ini menambah imannya, dan mereka merasa gembira.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ وَمَاتُوا۟ وَهُمْ كَـٰفِرُونَ (١٢٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَأَمَّا ٱلَّذِينَ فِى قُلُوبِهِم مَّرَضٌ فَزَادَتْهُمْ رِجْسًا إِلَىٰ رِجْسِهِمْ وَمَاتُوا۟ وَهُمْ كَـٰفِرُونَ (١٢٥)</h4>
 <p>Dan adapun orang-orang yang di dalam hatinya ada penyakit, maka (dengan surah itu) akan menambah kekafiran mereka yang telah ada dan mereka akan mati dalam keadaan kafir.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِى كُلِّ عَامٍ مَّرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ (١٢٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">أَوَلَا يَرَوْنَ أَنَّهُمْ يُفْتَنُونَ فِى كُلِّ عَامٍ مَّرَّةً أَوْ مَرَّتَيْنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمْ يَذَّكَّرُونَ (١٢٦)</h4>
 <p>Dan tidaklah mereka (orang-orang munafik) memperhatikan bahwa mereka diuji sekali atau dua kali setiap tahun, namun mereka tidak (juga) bertobat dan tidak (pula) mengambil pelajaran?</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَإِذَا مَآ أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍ ثُمَّ ٱنصَرَفُوا۟ ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ (١٢٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَإِذَا مَآ أُنزِلَتْ سُورَةٌ نَّظَرَ بَعْضُهُمْ إِلَىٰ بَعْضٍ هَلْ يَرَىٰكُم مِّنْ أَحَدٍ ثُمَّ ٱنصَرَفُوا۟ ۚ صَرَفَ ٱللَّهُ قُلُوبَهُم بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ (١٢٧)</h4>
 <p>Dan apabila diturunkan suatu surah, satu sama lain di antara mereka saling berpandangan (sambil berkata), "Adakah seseorang (dari kaum muslimin) yang melihat kamu?" Setelah itu mereka pun pergi. Allah memalingkan hati mereka disebabkan mereka adalah kaum yang tidak memahami.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">لَقَدْ جَآءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ (١٢٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">لَقَدْ جَآءَكُمْ رَسُولٌ مِّنْ أَنفُسِكُمْ عَزِيزٌ عَلَيْهِ مَا عَنِتُّمْ حَرِيصٌ عَلَيْكُم بِٱلْمُؤْمِنِينَ رَءُوفٌ رَّحِيمٌ (١٢٨)</h4>
 <p>Sungguh, telah datang kepadamu seorang rasul dari kaummu sendiri, berat terasa olehnya penderitaan yang kamu alami, (dia) sangat menginginkan (keimanan dan keselamatan) bagimu, penyantun dan penyayang terhadap orang-orang yang beriman.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ (١٢٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَإِن تَوَلَّوْا۟ فَقُلْ حَسْبِىَ ٱللَّهُ لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَلَيْهِ تَوَكَّلْتُ ۖ وَهُوَ رَبُّ ٱلْعَرْشِ ٱلْعَظِيمِ (١٢٩)</h4>
 <p>Maka jika mereka berpaling (dari keimanan), maka katakanlah (Muhammad), "Cukuplah Allah bagiku; tidak ada tuhan selain Dia. Hanya kepada-Nya aku bertawakal, dan Dia adalah Tuhan yang memiliki Arasy (singgasana) yang agung."</p>
 </div>

@@ -1,107 +1,108 @@
 <h2 style="text-align: center;">المزمل</h2>
----
+
 | Lokasi | Surah | Ayat |
 |---|---|---|
-| makkah |  Orang yang Berselimut |  20 Ayat |
----
-<h3 style="text-align: center; font-family: lPMQ;">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</h3>
+| Makkah |  Orang yang Berselimut |  20 Ayat |
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;"> يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ (١)</h4>
+---
+<h3 style="text-align: center; font-family: IndoPak;">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</h3>
+
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;"> يَـٰٓأَيُّهَا ٱلْمُزَّمِّلُ (١)</h4>
 <p>Wahai orang yang berselimut (Muhammad)!</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا (٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">قُمِ ٱلَّيْلَ إِلَّا قَلِيلًا (٢)</h4>
 <p>bangunlah (untuk salat) pada malam hari, kecuali sebagian kecil.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا (٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">نِّصْفَهُۥٓ أَوِ ٱنقُصْ مِنْهُ قَلِيلًا (٣)</h4>
 <p>(yaitu) separuhnya atau kurang sedikit dari itu,</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا (٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">أَوْ زِدْ عَلَيْهِ وَرَتِّلِ ٱلْقُرْءَانَ تَرْتِيلًا (٤)</h4>
 <p>atau lebih dari (seperdua) itu, dan bacalah Alquran itu dengan perlahan-lahan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا (٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّا سَنُلْقِى عَلَيْكَ قَوْلًا ثَقِيلًا (٥)</h4>
 <p>Sesungguhnya Kami akan menurunkan perkataan yang berat kepadamu.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا (٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّ نَاشِئَةَ ٱلَّيْلِ هِىَ أَشَدُّ وَطْـًٔا وَأَقْوَمُ قِيلًا (٦)</h4>
 <p>Sungguh, bangun malam itu lebih kuat (mengisi jiwa); dan (bacaan di waktu itu) lebih berkesan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا (٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّ لَكَ فِى ٱلنَّهَارِ سَبْحًا طَوِيلًا (٧)</h4>
 <p>Sesungguhnya pada siang hari engkau sangat sibuk dengan urusan-urusan yang panjang.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا (٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَٱذْكُرِ ٱسْمَ رَبِّكَ وَتَبَتَّلْ إِلَيْهِ تَبْتِيلًا (٨)</h4>
 <p>Dan sebutlah nama Tuhanmu, dan beribadahlah kepada-Nya dengan sepenuh hati.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا (٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">رَّبُّ ٱلْمَشْرِقِ وَٱلْمَغْرِبِ لَآ إِلَـٰهَ إِلَّا هُوَ فَٱتَّخِذْهُ وَكِيلًا (٩)</h4>
 <p>(Dialah) Tuhan timur dan barat, tidak ada tuhan selain Dia, maka jadikanlah Dia sebagai pelindung.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا (١٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَٱصْبِرْ عَلَىٰ مَا يَقُولُونَ وَٱهْجُرْهُمْ هَجْرًا جَمِيلًا (١٠)</h4>
 <p>Dan bersabarlah (Muhammad) terhadap apa yang mereka katakan dan tinggalkanlah mereka dengan cara yang baik.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا (١١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَذَرْنِى وَٱلْمُكَذِّبِينَ أُو۟لِى ٱلنَّعْمَةِ وَمَهِّلْهُمْ قَلِيلًا (١١)</h4>
 <p>Dan biarkanlah Aku (yang bertindak) terhadap orang-orang yang mendustakan, yang memiliki segala kenikmatan hidup, dan berilah mereka penangguhan sebentar.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّ لَدَيْنَآ أَنكَالًا وَجَحِيمًا (١٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّ لَدَيْنَآ أَنكَالًا وَجَحِيمًا (١٢)</h4>
 <p>Sungguh, di sisi Kami ada belenggu-belenggu (yang berat) dan neraka yang menyala-nyala,</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا (١٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَطَعَامًا ذَا غُصَّةٍ وَعَذَابًا أَلِيمًا (١٣)</h4>
 <p>dan (ada) makanan yang menyumbat di kerongkongan dan azab yang pedih.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا (١٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَوْمَ تَرْجُفُ ٱلْأَرْضُ وَٱلْجِبَالُ وَكَانَتِ ٱلْجِبَالُ كَثِيبًا مَّهِيلًا (١٤)</h4>
 <p>(Ingatlah) pada hari (ketika) bumi dan gunung-gunung berguncang keras, dan menjadilah gunung-gunung itu seperti onggokan pasir yang dicurahkan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا (١٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّآ أَرْسَلْنَآ إِلَيْكُمْ رَسُولًا شَـٰهِدًا عَلَيْكُمْ كَمَآ أَرْسَلْنَآ إِلَىٰ فِرْعَوْنَ رَسُولًا (١٥)</h4>
 <p>Sesungguhnya Kami telah mengutus seorang Rasul (Muhammad) kepada kamu, yang menjadi saksi terhadapmu, sebagaimana Kami telah mengutus seorang Rasul kepada Fir'aun.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا (١٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَعَصَىٰ فِرْعَوْنُ ٱلرَّسُولَ فَأَخَذْنَـٰهُ أَخْذًا وَبِيلًا (١٦)</h4>
 <p>Namun Fir'aun mendurhakai Rasul itu, maka Kami siksa dia dengan siksaan yang berat.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا (١٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">فَكَيْفَ تَتَّقُونَ إِن كَفَرْتُمْ يَوْمًا يَجْعَلُ ٱلْوِلْدَٰنَ شِيبًا (١٧)</h4>
 <p>Lalu bagaimanakah kamu akan dapat menjaga dirimu jika kamu tetap kafir kepada hari yang menjadikan anak-anak beruban.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا (١٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱلسَّمَآءُ مُنفَطِرٌۢ بِهِۦ ۚ كَانَ وَعْدُهُۥ مَفْعُولًا (١٨)</h4>
 <p>Langit terbelah pada hari itu. Janji Allah pasti terlaksana.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا (١٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">إِنَّ هَـٰذِهِۦ تَذْكِرَةٌ ۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلًا (١٩)</h4>
 <p>Sungguh, ini adalah peringatan. Barangsiapa menghendaki, niscaya dia mengambil jalan (yang lurus) kepada Tuhannya.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ (٢٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">۞ إِنَّ رَبَّكَ يَعْلَمُ أَنَّكَ تَقُومُ أَدْنَىٰ مِن ثُلُثَىِ ٱلَّيْلِ وَنِصْفَهُۥ وَثُلُثَهُۥ وَطَآئِفَةٌ مِّنَ ٱلَّذِينَ مَعَكَ ۚ وَٱللَّهُ يُقَدِّرُ ٱلَّيْلَ وَٱلنَّهَارَ ۚ عَلِمَ أَن لَّن تُحْصُوهُ فَتَابَ عَلَيْكُمْ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنَ ٱلْقُرْءَانِ ۚ عَلِمَ أَن سَيَكُونُ مِنكُم مَّرْضَىٰ ۙ وَءَاخَرُونَ يَضْرِبُونَ فِى ٱلْأَرْضِ يَبْتَغُونَ مِن فَضْلِ ٱللَّهِ ۙ وَءَاخَرُونَ يُقَـٰتِلُونَ فِى سَبِيلِ ٱللَّهِ ۖ فَٱقْرَءُوا۟ مَا تَيَسَّرَ مِنْهُ ۚ وَأَقِيمُوا۟ ٱلصَّلَوٰةَ وَءَاتُوا۟ ٱلزَّكَوٰةَ وَأَقْرِضُوا۟ ٱللَّهَ قَرْضًا حَسَنًا ۚ وَمَا تُقَدِّمُوا۟ لِأَنفُسِكُم مِّنْ خَيْرٍ تَجِدُوهُ عِندَ ٱللَّهِ هُوَ خَيْرًا وَأَعْظَمَ أَجْرًا ۚ وَٱسْتَغْفِرُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ غَفُورٌ رَّحِيمٌۢ (٢٠)</h4>
 <p>Sesungguhnya Tuhanmu mengetahui bahwa engkau (Muhammad) berdiri (salat) kurang dari dua pertiga malam, atau seperdua malam atau sepertiganya dan (demikian pula) segolongan dari orang-orang yang bersamamu. Allah menetapkan ukuran malam dan siang. Allah mengetahui bahwa kamu tidak dapat menentukan batas-batas waktu itu, maka Dia memberi keringanan kepadamu, karena itu bacalah apa yang mudah (bagimu) dari Alquran; Dia mengetahui bahwa akan ada di antara kamu orang-orang yang sakit, dan yang lain berjalan di bumi mencari sebagian karunia Allah; dan yang lain berperang di jalan Allah, maka bacalah apa yang mudah (bagimu) dari Alquran dan laksanakanlah salat, tunaikanlah zakat dan berikanlah pinjaman kepada Allah pinjaman yang baik. Kebaikan apa saja yang kamu perbuat untuk dirimu niscaya kamu memperoleh (balasan)nya di sisi Allah sebagai balasan yang paling baik dan yang paling besar pahalanya. Dan mohonlah ampunan kepada Allah; sungguh, Allah Maha Pengampun, Maha Penyayang.</p>
 </div>

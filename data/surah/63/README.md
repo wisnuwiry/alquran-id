@@ -1,62 +1,63 @@
 <h2 style="text-align: center;">المنافقون</h2>
----
+
 | Lokasi | Surah | Ayat |
 |---|---|---|
-| madinah |  Kaum Munafik |  11 Ayat |
----
-<h3 style="text-align: center; font-family: lPMQ;">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</h3>
+| Madinah |  Kaum Munafik |  11 Ayat |
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;"> إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ (١)</h4>
+---
+<h3 style="text-align: center; font-family: IndoPak;">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</h3>
+
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;"> إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ (١)</h4>
 <p>Apabila orang-orang munafik datang kepadamu (Muhammad), mereka berkata, "Kami mengakui, bahwa engkau adalah Rasul Allah." Dan Allah mengetahui bahwa engkau benar-benar Rasul-Nya; dan Allah menyaksikan bahwa orang-orang munafik itu benar-benar pendusta.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ (٢)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ (٢)</h4>
 <p>Mereka menjadikan sumpah-sumpah mereka sebagai perisai, lalu mereka menghalang-halangi (manusia) dari jalan Allah. Sungguh, betapa buruknya apa yang telah mereka kerjakan.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ (٣)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ (٣)</h4>
 <p>Yang demikian itu karena sesungguhnya mereka telah beriman, kemudian menjadi kafir, maka hati mereka dikunci, sehingga mereka tidak dapat mengerti.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ (٤)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ (٤)</h4>
 <p>Dan apabila engkau melihat mereka, tubuh mereka mengagumkanmu. Dan jika mereka berkata, engkau mendengarkan tutur katanya. Mereka seakan-akan kayu yang tersandar. Mereka mengira bahwa setiap teriakan ditujukan kepada mereka. Mereka itulah musuh (yang sebenarnya), maka waspadalah terhadap mereka; semoga Allah membinasakan mereka. Bagaimanakah mereka dapat dipalingkan (dari kebenaran)?</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ (٥)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ (٥)</h4>
 <p>Dan apabila dikatakan kepada mereka, "Marilah (beriman), agar Rasulullah memohonkan ampunan bagimu," mereka membuang muka dan engkau lihat mereka berpaling dengan menyombongkan diri.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ (٦)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ (٦)</h4>
 <p>Sama saja bagi mereka, engkau (Muhammad) mohonkan ampunan untuk mereka atau tidak engkau mohonkan ampunan bagi mereka, Allah tidak akan mengampuni mereka; sesungguhnya Allah tidak akan memberi petunjuk kepada orang-orang yang fasik.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَفْقَهُونَ (٧)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَفْقَهُونَ (٧)</h4>
 <p>Mereka yang berkata (kepada orang-orang Ansar), "Janganlah kamu bersedekah kepada orang-orang (Muhajirin) yang ada di sisi Rasulullah sampai mereka bubar (meninggalkan Rasulullah)." Padahal milik Allah lah perbendaharaan langit dan bumi, tetapi orang-orang munafik itu tidak memahami.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ (٨)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ (٨)</h4>
 <p>Mereka berkata, "Sungguh, jika kita kembali ke Madinah (kembali dari perang Bani Mustalik), pastilah orang yang kuat akan mengusir orang-orang yang lemah dari sana." Padahal kekuatan itu hanyalah bagi Allah, Rasul-Nya dan bagi orang-orang mukmin, tetapi orang-orang munafik itu tidak mengetahui.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ (٩)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ (٩)</h4>
 <p>Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anakmu melalaikan kamu dari mengingat Allah. Dan barangsiapa berbuat demikian, maka mereka itulah orang-orang yang rugi.</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَأَنفِقُوا۟ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ (١٠)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَأَنفِقُوا۟ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ (١٠)</h4>
 <p>Dan infakkanlah sebagian dari apa yang telah Kami berikan kepadamu sebelum kematian datang kepada salah seorang di antara kamu; lalu dia berkata (menyesali), "Ya Tuhanku, sekiranya Engkau berkenan menunda (kematian)ku sedikit waktu lagi, maka aku dapat bersedekah dan aku akan termasuk orang-orang yang saleh."</p>
 </div>
 
-<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">
-<h4 style="text-align: right; font-family: lPMQ;">وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ (١١)</h4>
+<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">
+<h4 style="text-align: right; font-family: IndoPak;">وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ (١١)</h4>
 <p>Dan Allah tidak akan menunda (kematian) seseorang apabila waktu kematiannya telah datang. Dan Allah Mahateliti terhadap apa yang kamu kerjakan.</p>
 </div>

@@ -5,10 +5,10 @@
     "language": "en",
     "links": { 
         "sidebar": { 
-            "GitHub": "https://github.com/wisnuwiry", 
-            "PDF": "", 
-            "EPUB": "", 
-            "MOBI": ""
+            "GitHub": "https://github.com/wisnuwiry/alquran-id", 
+            "PDF": "/download/quran.pdf", 
+            "EPUB": "/download/quran.epub", 
+            "MOBI": "/download/quran.mobi"
         }
     }
 }

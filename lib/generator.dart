@@ -40,9 +40,9 @@ class AlquranBookGenerator {
     for (final ayah in result) {
       buffer.writeln();
       buffer.writeln(
-          '<div style="background: #f7f7f7; border-radius: 1rem; margin-bottom: 2rem; padding: 1rem">');
+          '<div style="background: hsl(229.09deg 20.65% 76.32% / 10%); border-radius: 10px; margin-bottom: 10px; padding: 6px">');
       buffer.writeln(
-        '<h4 style="text-align: right; font-family: lPMQ;">'
+        '<h4 style="text-align: right; font-family: IndoPak;">'
         '${ayah.value} (${ayah.words.last.text})'
         '</h4>',
       );
@@ -57,16 +57,20 @@ class AlquranBookGenerator {
     final buffer = StringBuffer();
     buffer
         .writeln('<h2 style="text-align: center;">${chapter.nameArabic}</h2>');
-    buffer.writeln('---');
+    buffer.writeln();
     buffer.writeln('| Lokasi | Surah | Ayat |');
     buffer.writeln('|---|---|---|');
     buffer.writeln(
-        '| ${chapter.revelationPlace} |  ${chapter.translateName} |  ${chapter.versesCount} Ayat |');
+      '| ${_capitalize(chapter.revelationPlace)} '
+      '|  ${chapter.translateName} '
+      '|  ${chapter.versesCount} Ayat |',
+    );
+    buffer.writeln();
     buffer.writeln('---');
 
     if (chapter.bismillahPre) {
       buffer.writeln(
-          '<h3 style="text-align: center; font-family: lPMQ;">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</h3>');
+          '<h3 style="text-align: center; font-family: IndoPak;">بِسْمِ اللّٰهِ الرَّحْمٰنِ الرَّحِيْمِ</h3>');
     }
 
     return buffer.toString();
@@ -76,6 +80,10 @@ class AlquranBookGenerator {
     final exp = RegExp(r"<[^>]*>", multiLine: true, caseSensitive: true);
 
     return value.replaceAll('1</sup>', '').replaceAll(exp, '');
+  }
+
+  String _capitalize(String value) {
+    return value[0].toUpperCase() + value.substring(1);
   }
 }
 
