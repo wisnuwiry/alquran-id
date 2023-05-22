@@ -1,4 +1,4 @@
-<h2 style="text-align: center;">الفاتحة</h2>
+<h2 style="text-align: center; font-family: IndoPak;">الفاتحة</h2>
 
 | Lokasi | Surah | Ayat |
 |---|---|---|

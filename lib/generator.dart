@@ -10,7 +10,7 @@ class AlquranBookGenerator {
     final chapters = await _repo.getCapters(Config.fallbackLang);
     _writeTableOfContents(chapters);
 
-    for (final item in chapters.take(1)) {
+    for (final item in chapters) {
       _writeSurah(item);
     }
   }
@@ -56,8 +56,8 @@ class AlquranBookGenerator {
 
   Future<String> _getHeading(Chapter chapter) async {
     final buffer = StringBuffer();
-    buffer
-        .writeln('<h2 style="text-align: center;">${chapter.nameArabic}</h2>');
+    buffer.writeln(
+        '<h2 style="text-align: center; font-family: IndoPak;">${chapter.nameArabic}</h2>');
     buffer.writeln();
     buffer.writeln('| Lokasi | Surah | Ayat |');
     buffer.writeln('|---|---|---|');
