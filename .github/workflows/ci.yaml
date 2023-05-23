@@ -17,13 +17,16 @@ jobs:
           sudo apt-get update
           sudo apt -y install libgif-dev calibre
           npm install
+      - name: Pre-Build Honkit
+        run: npx honkit build
       - name: Build EPUB
         run: npx honkit epub
       - name: Build MOBI
         run: npx honkit mobi
       - name: Move to Output Dir
         run: |
-          rm -rf book/
+          rm book/quran.epub
+          rm book/quran.mobi
           mkdir book/
           mv book.epub book/quran.epub
           mv book.mobi book/quran.mobi
