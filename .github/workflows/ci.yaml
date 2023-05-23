@@ -27,7 +27,6 @@ jobs:
         run: |
           rm book/quran.epub
           rm book/quran.mobi
-          mkdir book/
           mv book.epub book/quran.epub
           mv book.mobi book/quran.mobi
       - name: Commit & Push Files
