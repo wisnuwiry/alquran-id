@@ -1,0 +1,17 @@
+{
+  "name": "downloader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "mkdirp": "^3.0.1",
+    "path": "^0.12.7",
+    "url": "^0.11.4"
+  }
+}

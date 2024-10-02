@@ -1,0 +1,117 @@
+{
+  "id": 106,
+  "revelation_place": "makkah",
+  "revelation_order": 29,
+  "bismillah_pre": true,
+  "name_simple": "Quraysh",
+  "name_complex": "Quraysh",
+  "name_arabic": "قريش",
+  "verses_count": 4,
+  "pages": [
+    602,
+    602
+  ],
+  "slug": {
+    "slug": "quraysh",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Suku Quraisy"
+  },
+  "verses": [
+    {
+      "id": 6194,
+      "verse_number": 1,
+      "verse_key": "106:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " لِإِيلَـٰفِ قُرَيْشٍ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181997,
+          "resource_id": 33,
+          "text": "Karena kebiasaan orang-orang Quraisy,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6195,
+      "verse_number": 2,
+      "verse_key": "106:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِۦلَـٰفِهِمْ رِحْلَةَ ٱلشِّتَآءِ وَٱلصَّيْفِ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181398,
+          "resource_id": 33,
+          "text": "(yaitu) kebiasaan mereka bepergian pada musim dingin dan musim panas.<sup foot_note=135877>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135877,
+            "text": "* Orang Quraisy biasa mengadakan perjalanan terutama untuk berdagang ke negeri Syam pada musim panas dan ke negeri Yaman pada musim dingin. Dalam perjalanan itu mereka mendapat jaminan keamanan dari penguasa negeri-negeri yang di laluinya. Ini adalah suatu nikmat yang sangat besar dari Allah kepada mereka. Oleh karena itu sewajarnyalah mereka menyembah Allah yang telah memberikan nikmat itu kepada mereka.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6196,
+      "verse_number": 3,
+      "verse_key": "106:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلْيَعْبُدُوا۟ رَبَّ هَـٰذَا ٱلْبَيْتِ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181347,
+          "resource_id": 33,
+          "text": "Maka hendaklah mereka menyembah Tuhan (pemilik) rumah ini (Ka'bah),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6197,
+      "verse_number": 4,
+      "verse_key": "106:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 550,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِىٓ أَطْعَمَهُم مِّن جُوعٍ وَءَامَنَهُم مِّنْ خَوْفٍۭ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181375,
+          "resource_id": 33,
+          "text": "yang telah memberi makanan kepada mereka untuk menghilangkan lapar dan mengamankan mereka dari rasa ketakutan."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

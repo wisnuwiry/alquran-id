@@ -1,0 +1,87 @@
+{
+  "id": 110,
+  "revelation_place": "madinah",
+  "revelation_order": 114,
+  "bismillah_pre": true,
+  "name_simple": "An-Nasr",
+  "name_complex": "An-Naşr",
+  "name_arabic": "النصر",
+  "verses_count": 3,
+  "pages": [
+    603,
+    603
+  ],
+  "slug": {
+    "slug": "an-nasr",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Pertolongan"
+  },
+  "verses": [
+    {
+      "id": 6214,
+      "verse_number": 1,
+      "verse_key": "110:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا جَآءَ نَصْرُ ٱللَّهِ وَٱلْفَتْحُ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181439,
+          "resource_id": 33,
+          "text": "Apabila telah datang pertolongan Allah dan kemenangan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6215,
+      "verse_number": 2,
+      "verse_key": "110:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَأَيْتَ ٱلنَّاسَ يَدْخُلُونَ فِى دِينِ ٱللَّهِ أَفْوَاجًا",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181452,
+          "resource_id": 33,
+          "text": "dan engkau melihat manusia berbondong-bondong masuk agama Allah."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6216,
+      "verse_number": 3,
+      "verse_key": "110:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 554,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَبِّحْ بِحَمْدِ رَبِّكَ وَٱسْتَغْفِرْهُ ۚ إِنَّهُۥ كَانَ تَوَّابًۢا",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181440,
+          "resource_id": 33,
+          "text": "maka bertasbihlah dengan memuji Tuhanmu dan mohonlah ampunan kepada-Nya. Sungguh, Dia Maha Penerima tobat."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

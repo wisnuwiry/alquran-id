@@ -1,0 +1,201 @@
+{
+  "id": 99,
+  "revelation_place": "madinah",
+  "revelation_order": 93,
+  "bismillah_pre": true,
+  "name_simple": "Az-Zalzalah",
+  "name_complex": "Az-Zalzalah",
+  "name_arabic": "الزلزلة",
+  "verses_count": 8,
+  "pages": [
+    599,
+    599
+  ],
+  "slug": {
+    "slug": "az-zalzalah",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Kegoncangan"
+  },
+  "verses": [
+    {
+      "id": 6139,
+      "verse_number": 1,
+      "verse_key": "99:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا زُلْزِلَتِ ٱلْأَرْضُ زِلْزَالَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181316,
+          "resource_id": 33,
+          "text": "Apabila bumi diguncangkan dengan guncangan yang dahsyat,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6140,
+      "verse_number": 2,
+      "verse_key": "99:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَخْرَجَتِ ٱلْأَرْضُ أَثْقَالَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181318,
+          "resource_id": 33,
+          "text": "dan bumi telah mengeluarkan beban-beban berat (yang dikandung)nya,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6141,
+      "verse_number": 3,
+      "verse_key": "99:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَقَالَ ٱلْإِنسَـٰنُ مَا لَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181320,
+          "resource_id": 33,
+          "text": "dan manusia bertanya, \"Apa yang terjadi pada bumi ini?\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6142,
+      "verse_number": 4,
+      "verse_key": "99:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَئِذٍ تُحَدِّثُ أَخْبَارَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181894,
+          "resource_id": 33,
+          "text": "Pada hari itu bumi menyampaikan beritanya,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6143,
+      "verse_number": 5,
+      "verse_key": "99:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بِأَنَّ رَبَّكَ أَوْحَىٰ لَهَا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181324,
+          "resource_id": 33,
+          "text": "karena sesungguhnya Tuhanmu telah memerintahkan (yang sedemikian itu) padanya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6144,
+      "verse_number": 6,
+      "verse_key": "99:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَئِذٍ يَصْدُرُ ٱلنَّاسُ أَشْتَاتًا لِّيُرَوْا۟ أَعْمَـٰلَهُمْ",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181325,
+          "resource_id": 33,
+          "text": "Pada hari itu manusia keluar dari kuburnya dalam keadaan berkelompok-kelompok,<sup foot_note=135873>1</sup> untuk diperlihatkan kepada mereka (balasan) semua amal perbuatannya."
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135873,
+            "text": "* Ada yang beruntung dan ada yang celaka.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6145,
+      "verse_number": 7,
+      "verse_key": "99:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَهُۥ",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177521,
+          "resource_id": 33,
+          "text": "Maka barangsiapa mengerjakan kebaikan seberat zarah, niscaya dia akan melihat (balasan)nya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6146,
+      "verse_number": 8,
+      "verse_key": "99:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 543,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَن يَعْمَلْ مِثْقَالَ ذَرَّةٍ شَرًّا يَرَهُۥ",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181330,
+          "resource_id": 33,
+          "text": "Dan barangsiapa mengerjakan kejahatan seberat zarah, niscaya dia akan melihat (balasan)nya."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

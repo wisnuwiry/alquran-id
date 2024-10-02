@@ -1,0 +1,255 @@
+{
+  "id": 100,
+  "revelation_place": "makkah",
+  "revelation_order": 14,
+  "bismillah_pre": true,
+  "name_simple": "Al-'Adiyat",
+  "name_complex": "Al-`Ādiyāt",
+  "name_arabic": "العاديات",
+  "verses_count": 11,
+  "pages": [
+    599,
+    600
+  ],
+  "slug": {
+    "slug": "al-adiyat",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Berlari Kencang"
+  },
+  "verses": [
+    {
+      "id": 6147,
+      "verse_number": 1,
+      "verse_key": "100:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلْعَـٰدِيَـٰتِ ضَبْحًا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178813,
+          "resource_id": 33,
+          "text": "Demi kuda perang yang berlari kencang terengah-engah,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6148,
+      "verse_number": 2,
+      "verse_key": "100:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱلْمُورِيَـٰتِ قَدْحًا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177917,
+          "resource_id": 33,
+          "text": "dan kuda yang memercikkan bunga api (dengan pukulan kuku kakinya),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6149,
+      "verse_number": 3,
+      "verse_key": "100:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَٱلْمُغِيرَٰتِ صُبْحًا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178601,
+          "resource_id": 33,
+          "text": "dan kuda yang menyerang (dengan tiba-tiba) pada waktu pagi,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6150,
+      "verse_number": 4,
+      "verse_key": "100:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَثَرْنَ بِهِۦ نَقْعًا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178625,
+          "resource_id": 33,
+          "text": "sehingga menerbangkan debu,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6151,
+      "verse_number": 5,
+      "verse_key": "100:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَوَسَطْنَ بِهِۦ جَمْعًا",
+      "page_number": 599,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178604,
+          "resource_id": 33,
+          "text": "lalu menyerbu ke tengah-tengah kumpulan musuh,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6152,
+      "verse_number": 6,
+      "verse_key": "100:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لِرَبِّهِۦ لَكَنُودٌ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177864,
+          "resource_id": 33,
+          "text": "sungguh, manusia itu sangat ingkar, (tidak bersyukur) kepada Tuhannya,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6153,
+      "verse_number": 7,
+      "verse_key": "100:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٌ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178624,
+          "resource_id": 33,
+          "text": "dan sesungguhnya dia (manusia) menyaksikan (mengakui) keingkarannya,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6154,
+      "verse_number": 8,
+      "verse_key": "100:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّهُۥ لِحُبِّ ٱلْخَيْرِ لَشَدِيدٌ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177830,
+          "resource_id": 33,
+          "text": "dan sesungguhnya cintanya kepada harta benar-benar berlebihan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6155,
+      "verse_number": 9,
+      "verse_key": "100:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ أَفَلَا يَعْلَمُ إِذَا بُعْثِرَ مَا فِى ٱلْقُبُورِ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178568,
+          "resource_id": 33,
+          "text": "Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6156,
+      "verse_number": 10,
+      "verse_key": "100:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَحُصِّلَ مَا فِى ٱلصُّدُورِ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 179040,
+          "resource_id": 33,
+          "text": "dan apa yang tersimpan di dalam dada dikeluarkan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6157,
+      "verse_number": 11,
+      "verse_key": "100:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 544,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ رَبَّهُم بِهِمْ يَوْمَئِذٍ لَّخَبِيرٌۢ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177946,
+          "resource_id": 33,
+          "text": "sungguh, Tuhan mereka pada hari itu Mahateliti terhadap keadaan mereka."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

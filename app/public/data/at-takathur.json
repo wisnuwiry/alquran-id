@@ -1,0 +1,201 @@
+{
+  "id": 102,
+  "revelation_place": "makkah",
+  "revelation_order": 16,
+  "bismillah_pre": true,
+  "name_simple": "At-Takathur",
+  "name_complex": "At-Takāthur",
+  "name_arabic": "التكاثر",
+  "verses_count": 8,
+  "pages": [
+    600,
+    600
+  ],
+  "slug": {
+    "slug": "at-takathur",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Bermegah-megahan"
+  },
+  "verses": [
+    {
+      "id": 6169,
+      "verse_number": 1,
+      "verse_key": "102:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 179735,
+          "resource_id": 33,
+          "text": "Bermegah-megahan telah melalaikan kamu,<sup foot_note=135874>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135874,
+            "text": "* Bermegah-megahan dalam soal banyak anak, harta, pengikut, kemuliaan dan sebagainya, telah melalaikan kamu dari ketaatan kepada Allah.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6170,
+      "verse_number": 2,
+      "verse_key": "102:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180344,
+          "resource_id": 33,
+          "text": "sampai kamu masuk ke dalam kubur."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6171,
+      "verse_number": 3,
+      "verse_key": "102:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا سَوْفَ تَعْلَمُونَ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177224,
+          "resource_id": 33,
+          "text": "Sekali-kali tidak! Kelak kamu akan mengetahui (akibat perbuatanmu itu),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6172,
+      "verse_number": 4,
+      "verse_key": "102:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180549,
+          "resource_id": 33,
+          "text": "kemudian sekali-kali tidak! Kelak kamu akan mengetahui."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6173,
+      "verse_number": 5,
+      "verse_key": "102:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181296,
+          "resource_id": 33,
+          "text": "Sekali-kali tidak! Sekiranya kamu mengetahui dengan pasti,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6174,
+      "verse_number": 6,
+      "verse_key": "102:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَتَرَوُنَّ ٱلْجَحِيمَ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181295,
+          "resource_id": 33,
+          "text": "niscaya kamu benar-benar akan melihat neraka Jahim,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6175,
+      "verse_number": 7,
+      "verse_key": "102:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180297,
+          "resource_id": 33,
+          "text": "kemudian kamu benar-benar akan melihatnya dengan mata kepala sendiri,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6176,
+      "verse_number": 8,
+      "verse_key": "102:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181338,
+          "resource_id": 33,
+          "text": "kemudian kamu benar-benar akan ditanya pada hari itu tentang kenikmatan (yang megah di dunia itu)."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

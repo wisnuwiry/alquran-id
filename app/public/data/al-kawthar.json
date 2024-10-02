@@ -1,0 +1,87 @@
+{
+  "id": 108,
+  "revelation_place": "makkah",
+  "revelation_order": 15,
+  "bismillah_pre": true,
+  "name_simple": "Al-Kawthar",
+  "name_complex": "Al-Kawthar",
+  "name_arabic": "الكوثر",
+  "verses_count": 3,
+  "pages": [
+    602,
+    602
+  ],
+  "slug": {
+    "slug": "al-kawthar",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Nikmat Berlimpah"
+  },
+  "verses": [
+    {
+      "id": 6205,
+      "verse_number": 1,
+      "verse_key": "108:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِنَّآ أَعْطَيْنَـٰكَ ٱلْكَوْثَرَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181421,
+          "resource_id": 33,
+          "text": "Sungguh, Kami telah memberimu (Muhammad) nikmat yang banyak."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6206,
+      "verse_number": 2,
+      "verse_key": "108:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181428,
+          "resource_id": 33,
+          "text": "Maka laksanakanlah salat karena Tuhanmu, dan berkurbanlah (sebagai ibadah dan mendekatkan diri kepada Allah)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6207,
+      "verse_number": 3,
+      "verse_key": "108:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181424,
+          "resource_id": 33,
+          "text": "Sungguh, orang-orang yang membencimu dialah yang terputus (dari rahmat Allah)."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

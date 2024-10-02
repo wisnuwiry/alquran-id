@@ -1,0 +1,108 @@
+{
+  "id": 112,
+  "revelation_place": "makkah",
+  "revelation_order": 22,
+  "bismillah_pre": true,
+  "name_simple": "Al-Ikhlas",
+  "name_complex": "Al-'Ikhlāş",
+  "name_arabic": "الإخلاص",
+  "verses_count": 4,
+  "pages": [
+    604,
+    604
+  ],
+  "slug": {
+    "slug": "al-ikhlas",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Ikhlash"
+  },
+  "verses": [
+    {
+      "id": 6222,
+      "verse_number": 1,
+      "verse_key": "112:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 556,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ هُوَ ٱللَّهُ أَحَدٌ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181508,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Dialah Allah, Yang Maha Esa."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6223,
+      "verse_number": 2,
+      "verse_key": "112:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 556,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱللَّهُ ٱلصَّمَدُ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181489,
+          "resource_id": 33,
+          "text": "Allah tempat meminta segala sesuatu."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6224,
+      "verse_number": 3,
+      "verse_key": "112:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 556,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَمْ يَلِدْ وَلَمْ يُولَدْ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181501,
+          "resource_id": 33,
+          "text": "(Allah) tidak beranak dan tidak pula diperanakkan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6225,
+      "verse_number": 4,
+      "verse_key": "112:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 556,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَمْ يَكُن لَّهُۥ كُفُوًا أَحَدٌۢ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181490,
+          "resource_id": 33,
+          "text": "Dan tidak ada sesuatu yang setara dengan Dia.\""
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

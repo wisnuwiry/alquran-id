@@ -1,0 +1,150 @@
+{
+  "id": 109,
+  "revelation_place": "makkah",
+  "revelation_order": 18,
+  "bismillah_pre": true,
+  "name_simple": "Al-Kafirun",
+  "name_complex": "Al-Kāfirūn",
+  "name_arabic": "الكافرون",
+  "verses_count": 6,
+  "pages": [
+    603,
+    603
+  ],
+  "slug": {
+    "slug": "al-kafirun",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Orang-orang Kafir"
+  },
+  "verses": [
+    {
+      "id": 6208,
+      "verse_number": 1,
+      "verse_key": "109:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ يَـٰٓأَيُّهَا ٱلْكَـٰفِرُونَ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181243,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Wahai orang-orang kafir!"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6209,
+      "verse_number": 2,
+      "verse_key": "109:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181433,
+          "resource_id": 33,
+          "text": "aku tidak akan menyembah apa yang kamu sembah,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6210,
+      "verse_number": 3,
+      "verse_key": "109:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181437,
+          "resource_id": 33,
+          "text": "dan kamu bukan penyembah apa yang aku sembah,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6211,
+      "verse_number": 4,
+      "verse_key": "109:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنَا۠ عَابِدٌ مَّا عَبَدتُّمْ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181436,
+          "resource_id": 33,
+          "text": "dan aku tidak pernah menjadi penyembah apa yang kamu sembah,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6212,
+      "verse_number": 5,
+      "verse_key": "109:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَآ أَنتُمْ عَـٰبِدُونَ مَآ أَعْبُدُ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181445,
+          "resource_id": 33,
+          "text": "dan kamu tidak pernah (pula) menjadi penyembah apa yang aku sembah."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6213,
+      "verse_number": 6,
+      "verse_key": "109:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ",
+      "page_number": 603,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181442,
+          "resource_id": 33,
+          "text": "Untukmu agamamu, dan untukku agamaku.\""
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

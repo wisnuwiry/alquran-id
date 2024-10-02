@@ -1,0 +1,198 @@
+{
+  "id": 107,
+  "revelation_place": "makkah",
+  "revelation_order": 17,
+  "bismillah_pre": true,
+  "name_simple": "Al-Ma'un",
+  "name_complex": "Al-Mā`ūn",
+  "name_arabic": "الماعون",
+  "verses_count": 7,
+  "pages": [
+    602,
+    602
+  ],
+  "slug": {
+    "slug": "al-maun",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Barang yang Berguna"
+  },
+  "verses": [
+    {
+      "id": 6198,
+      "verse_number": 1,
+      "verse_key": "107:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177228,
+          "resource_id": 33,
+          "text": "Tahukah kamu (orang) yang mendustakan agama?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6199,
+      "verse_number": 2,
+      "verse_key": "107:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181406,
+          "resource_id": 33,
+          "text": "Maka itulah orang yang menghardik anak yatim,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6200,
+      "verse_number": 3,
+      "verse_key": "107:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181407,
+          "resource_id": 33,
+          "text": "dan tidak mengajak memberi makan orang miskin."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6201,
+      "verse_number": 4,
+      "verse_key": "107:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَوَيْلٌ لِّلْمُصَلِّينَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181409,
+          "resource_id": 33,
+          "text": "Maka celakalah orang yang salat,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6202,
+      "verse_number": 5,
+      "verse_key": "107:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181408,
+          "resource_id": 33,
+          "text": "(yaitu) orang-orang yang lalai terhadap salatnya,<sup foot_note=135878>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135878,
+            "text": "* Orang-orang yang tidak menghargai serta melalaikan pelaksanaan dan waktu-waktu salat.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6203,
+      "verse_number": 6,
+      "verse_key": "107:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181396,
+          "resource_id": 33,
+          "text": "yang berbuat riya`,<sup foot_note=135879>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135879,
+            "text": "* Riya` ialah melakukan perbuatan tidak untuk mencari keridaan Allah, melainkan untuk mencari pujian atau kamasyhuran di masyarakat.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6204,
+      "verse_number": 7,
+      "verse_key": "107:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَمْنَعُونَ ٱلْمَاعُونَ",
+      "page_number": 602,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181415,
+          "resource_id": 33,
+          "text": "dan enggan (memberikan) bantuan.<sup foot_note=135880>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135880,
+            "text": "* Sebagian mufasir mengartikan dengan \"enggan membayar zakat\".",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    }
+  ]
+}

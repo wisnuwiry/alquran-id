@@ -1,0 +1,222 @@
+{
+  "id": 104,
+  "revelation_place": "makkah",
+  "revelation_order": 32,
+  "bismillah_pre": true,
+  "name_simple": "Al-Humazah",
+  "name_complex": "Al-Humazah",
+  "name_arabic": "الهمزة",
+  "verses_count": 9,
+  "pages": [
+    601,
+    601
+  ],
+  "slug": {
+    "slug": "al-humazah",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Pengumpat"
+  },
+  "verses": [
+    {
+      "id": 6180,
+      "verse_number": 1,
+      "verse_key": "104:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَيْلٌ لِّكُلِّ هُمَزَةٍ لُّمَزَةٍ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181357,
+          "resource_id": 33,
+          "text": "Celakalah bagi setiap pengumpat dan pencela,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6181,
+      "verse_number": 2,
+      "verse_key": "104:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى جَمَعَ مَالًا وَعَدَّدَهُۥ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181359,
+          "resource_id": 33,
+          "text": "yang mengumpulkan harta dan menghitung-hitungnya,<sup foot_note=135875>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135875,
+            "text": "* Mengumpulkan dan menghitung-hitung harta yang menyebabkan dia menjadi kikir dan tidak mau menginfakkannya di jalan Allah.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6182,
+      "verse_number": 3,
+      "verse_key": "104:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَحْسَبُ أَنَّ مَالَهُۥٓ أَخْلَدَهُۥ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181356,
+          "resource_id": 33,
+          "text": "dia (manusia) mengira bahwa hartanya itu dapat mengekalkannya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6183,
+      "verse_number": 4,
+      "verse_key": "104:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا ۖ لَيُنۢبَذَنَّ فِى ٱلْحُطَمَةِ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181361,
+          "resource_id": 33,
+          "text": "Sekali-kali tidak! Pasti dia akan dilemparkan ke dalam (neraka) Ḥuṭamah."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6184,
+      "verse_number": 5,
+      "verse_key": "104:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْحُطَمَةُ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 182313,
+          "resource_id": 33,
+          "text": "Dan tahukah kamu apakah (neraka) Ḥuṭamah itu?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6185,
+      "verse_number": 6,
+      "verse_key": "104:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "نَارُ ٱللَّهِ ٱلْمُوقَدَةُ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181363,
+          "resource_id": 33,
+          "text": "(Yaitu) api (azab) Allah yang dinyalakan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6186,
+      "verse_number": 7,
+      "verse_key": "104:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّتِى تَطَّلِعُ عَلَى ٱلْأَفْـِٔدَةِ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181372,
+          "resource_id": 33,
+          "text": "yang (membakar) sampai ke hati."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6187,
+      "verse_number": 8,
+      "verse_key": "104:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهَا عَلَيْهِم مُّؤْصَدَةٌ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181355,
+          "resource_id": 33,
+          "text": "Sungguh, api itu ditutup rapat atas (diri) mereka,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6188,
+      "verse_number": 9,
+      "verse_key": "104:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 548,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى عَمَدٍ مُّمَدَّدَةٍۭ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181370,
+          "resource_id": 33,
+          "text": "(sedang mereka itu) diikat pada tiang-tiang yang panjang."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

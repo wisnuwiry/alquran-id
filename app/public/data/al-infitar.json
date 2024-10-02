@@ -1,0 +1,423 @@
+{
+  "id": 82,
+  "revelation_place": "makkah",
+  "revelation_order": 82,
+  "bismillah_pre": true,
+  "name_simple": "Al-Infitar",
+  "name_complex": "Al-'Infiţār",
+  "name_arabic": "الإنفطار",
+  "verses_count": 19,
+  "pages": [
+    587,
+    587
+  ],
+  "slug": {
+    "slug": "al-infitar",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Terbelah"
+  },
+  "verses": [
+    {
+      "id": 5830,
+      "verse_number": 1,
+      "verse_key": "82:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا ٱلسَّمَآءُ ٱنفَطَرَتْ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180843,
+          "resource_id": 33,
+          "text": "Apabila langit terbelah,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5831,
+      "verse_number": 2,
+      "verse_key": "82:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْكَوَاكِبُ ٱنتَثَرَتْ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180855,
+          "resource_id": 33,
+          "text": "dan apabila bintang-bintang jatuh berserakan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5832,
+      "verse_number": 3,
+      "verse_key": "82:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْبِحَارُ فُجِّرَتْ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180859,
+          "resource_id": 33,
+          "text": "dan apabila lautan dijadikan meluap,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5833,
+      "verse_number": 4,
+      "verse_key": "82:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْقُبُورُ بُعْثِرَتْ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180863,
+          "resource_id": 33,
+          "text": "dan apabila kuburan-kuburan dibongkar,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5834,
+      "verse_number": 5,
+      "verse_key": "82:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلِمَتْ نَفْسٌ مَّا قَدَّمَتْ وَأَخَّرَتْ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180860,
+          "resource_id": 33,
+          "text": "(maka) setiap jiwa akan mengetahui apa yang telah dikerjakan dan yang dilalaikan(nya)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5835,
+      "verse_number": 6,
+      "verse_key": "82:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلْإِنسَـٰنُ مَا غَرَّكَ بِرَبِّكَ ٱلْكَرِيمِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180865,
+          "resource_id": 33,
+          "text": "Wahai manusia! Apakah yang telah memperdayakan kamu (berbuat durhaka) terhadap Tuhanmu Yang Maha Pengasih."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5836,
+      "verse_number": 7,
+      "verse_key": "82:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180872,
+          "resource_id": 33,
+          "text": "Yang telah menciptakanmu lalu menyempurnakan kejadianmu dan menjadikan (susunan tubuh)mu seimbang,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5837,
+      "verse_number": 8,
+      "verse_key": "82:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِىٓ أَىِّ صُورَةٍ مَّا شَآءَ رَكَّبَكَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180868,
+          "resource_id": 33,
+          "text": "dalam bentuk apa saja yang dikehendaki, Dia menyusun tubuhmu."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5838,
+      "verse_number": 9,
+      "verse_key": "82:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا بَلْ تُكَذِّبُونَ بِٱلدِّينِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180870,
+          "resource_id": 33,
+          "text": "Sekali-kali jangan begitu! Bahkan kamu mendustakan hari pembalasan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5839,
+      "verse_number": 10,
+      "verse_key": "82:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ عَلَيْكُمْ لَحَـٰفِظِينَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180853,
+          "resource_id": 33,
+          "text": "Dan sesungguhnya bagi kamu ada (malaikat-malaikat) yang mengawasi (pekerjaanmu),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5840,
+      "verse_number": 11,
+      "verse_key": "82:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كِرَامًا كَـٰتِبِينَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180844,
+          "resource_id": 33,
+          "text": "yang mulia (di sisi Allah) dan yang mencatat (perbuatanmu),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5841,
+      "verse_number": 12,
+      "verse_key": "82:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَعْلَمُونَ مَا تَفْعَلُونَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180845,
+          "resource_id": 33,
+          "text": "mereka mengetahui apa yang kamu kerjakan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5842,
+      "verse_number": 13,
+      "verse_key": "82:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْأَبْرَارَ لَفِى نَعِيمٍ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180846,
+          "resource_id": 33,
+          "text": "Sesungguhnya orang-orang yang berbakti benar-benar berada dalam (surga yang penuh) kenikmatan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5843,
+      "verse_number": 14,
+      "verse_key": "82:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ ٱلْفُجَّارَ لَفِى جَحِيمٍ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180847,
+          "resource_id": 33,
+          "text": "dan sesungguhnya orang-orang yang durhaka benar-benar berada dalam neraka."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5844,
+      "verse_number": 15,
+      "verse_key": "82:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَصْلَوْنَهَا يَوْمَ ٱلدِّينِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180848,
+          "resource_id": 33,
+          "text": "Mereka masuk ke dalamnya pada hari pembalasan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5845,
+      "verse_number": 16,
+      "verse_key": "82:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا هُمْ عَنْهَا بِغَآئِبِينَ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180849,
+          "resource_id": 33,
+          "text": "Dan mereka tidak mungkin keluar dari neraka itu."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5846,
+      "verse_number": 17,
+      "verse_key": "82:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180850,
+          "resource_id": 33,
+          "text": "Dan tahukah kamu apakah hari pembalasan itu?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5847,
+      "verse_number": 18,
+      "verse_key": "82:18",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ مَآ أَدْرَىٰكَ مَا يَوْمُ ٱلدِّينِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180851,
+          "resource_id": 33,
+          "text": "Sekali lagi, tahukah kamu apakah hari pembalasan itu?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5848,
+      "verse_number": 19,
+      "verse_key": "82:19",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 235,
+      "ruku_number": 526,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ لَا تَمْلِكُ نَفْسٌ لِّنَفْسٍ شَيْـًٔا ۖ وَٱلْأَمْرُ يَوْمَئِذٍ لِّلَّهِ",
+      "page_number": 587,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180852,
+          "resource_id": 33,
+          "text": "(Yaitu) pada hari (ketika) seseorang sama sekali tidak berdaya (menolong) orang lain. Dan segala urusan pada hari itu dalam kekuasaan Allah."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

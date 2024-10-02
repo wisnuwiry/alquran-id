@@ -1,0 +1,150 @@
+{
+  "id": 114,
+  "revelation_place": "makkah",
+  "revelation_order": 21,
+  "bismillah_pre": true,
+  "name_simple": "An-Nas",
+  "name_complex": "An-Nās",
+  "name_arabic": "الناس",
+  "verses_count": 6,
+  "pages": [
+    604,
+    604
+  ],
+  "slug": {
+    "slug": "an-nas",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Umat Manusia"
+  },
+  "verses": [
+    {
+      "id": 6231,
+      "verse_number": 1,
+      "verse_key": "114:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181523,
+          "resource_id": 33,
+          "text": "Katakanlah, \"Aku berlindung kepada Tuhannya manusia,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6232,
+      "verse_number": 2,
+      "verse_key": "114:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَلِكِ ٱلنَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181522,
+          "resource_id": 33,
+          "text": "Raja manusia,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6233,
+      "verse_number": 3,
+      "verse_key": "114:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَـٰهِ ٱلنَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181528,
+          "resource_id": 33,
+          "text": "sembahan manusia,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6234,
+      "verse_number": 4,
+      "verse_key": "114:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مِن شَرِّ ٱلْوَسْوَاسِ ٱلْخَنَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181531,
+          "resource_id": 33,
+          "text": "dari kejahatan (bisikan) setan yang bersembunyi,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6235,
+      "verse_number": 5,
+      "verse_key": "114:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى يُوَسْوِسُ فِى صُدُورِ ٱلنَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181521,
+          "resource_id": 33,
+          "text": "yang membisikkan (kejahatan) ke dalam dada manusia,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6236,
+      "verse_number": 6,
+      "verse_key": "114:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 558,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مِنَ ٱلْجِنَّةِ وَٱلنَّاسِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181535,
+          "resource_id": 33,
+          "text": "dari (golongan) jin dan manusia.\""
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

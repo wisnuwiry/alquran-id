@@ -1,0 +1,219 @@
+{
+  "id": 94,
+  "revelation_place": "makkah",
+  "revelation_order": 12,
+  "bismillah_pre": true,
+  "name_simple": "Ash-Sharh",
+  "name_complex": "Ash-Sharĥ",
+  "name_arabic": "الشرح",
+  "verses_count": 8,
+  "pages": [
+    596,
+    596
+  ],
+  "slug": {
+    "slug": "ash-sharh",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Melapangkan"
+  },
+  "verses": [
+    {
+      "id": 6091,
+      "verse_number": 1,
+      "verse_key": "94:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " أَلَمْ نَشْرَحْ لَكَ صَدْرَكَ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181210,
+          "resource_id": 33,
+          "text": "Bukankah kami telah melapangkan dadamu (Muhammad)?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6092,
+      "verse_number": 2,
+      "verse_key": "94:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَضَعْنَا عَنكَ وِزْرَكَ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181212,
+          "resource_id": 33,
+          "text": "dan kami pun telah menurunkan beban darimu,<sup foot_note=135864>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135864,
+            "text": "* Kesusahan-kesusahan yang diderita Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dalam menyampaikan risalah.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6093,
+      "verse_number": 3,
+      "verse_key": "94:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِىٓ أَنقَضَ ظَهْرَكَ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181218,
+          "resource_id": 33,
+          "text": "yang memberatkan punggungmu,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6094,
+      "verse_number": 4,
+      "verse_key": "94:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَرَفَعْنَا لَكَ ذِكْرَكَ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181214,
+          "resource_id": 33,
+          "text": "dan kami tinggikan sebutan (nama)mu<sup foot_note=135865>1</sup> bagimu."
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135865,
+            "text": "* Meninggikan derajat dan menggandengkan namanya dengan nama Allah dalam kalimat syahadat, menjadikan taat kepada Nabi termasuk taat kepada Allah.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6095,
+      "verse_number": 5,
+      "verse_key": "94:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181216,
+          "resource_id": 33,
+          "text": "Maka sesungguhnya bersama kesulitan ada kemudahan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6096,
+      "verse_number": 6,
+      "verse_key": "94:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181220,
+          "resource_id": 33,
+          "text": "sesungguhnya bersama kesulitan ada kemudahan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6097,
+      "verse_number": 7,
+      "verse_key": "94:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِذَا فَرَغْتَ فَٱنصَبْ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177516,
+          "resource_id": 33,
+          "text": "Maka apabila engkau telah selesai (dari suatu urusan), tetaplah bekerja keras (untuk urusan yang lain),<sup foot_note=135866>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135866,
+            "text": "* Sebagian mufasir menafsirkan apabila engkau (Muhammad) telah selesai berdakwah maka beribadahlah kepada Allah; apabila engkau telah selesai melaksanakan urusan dunia maka kerjakanlah urusan akhirat dan ada lagi yang mengatakan, \"Apabila telah mengerjakan salat maka berdoalah\".",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6098,
+      "verse_number": 8,
+      "verse_key": "94:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 538,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِلَىٰ رَبِّكَ فَٱرْغَب",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181226,
+          "resource_id": 33,
+          "text": "dan hanya kepada Tuhanmulah engkau berharap."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

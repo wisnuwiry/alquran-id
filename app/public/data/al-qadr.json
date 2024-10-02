@@ -1,0 +1,138 @@
+{
+  "id": 97,
+  "revelation_place": "makkah",
+  "revelation_order": 25,
+  "bismillah_pre": true,
+  "name_simple": "Al-Qadr",
+  "name_complex": "Al-Qadr",
+  "name_arabic": "القدر",
+  "verses_count": 5,
+  "pages": [
+    598,
+    598
+  ],
+  "slug": {
+    "slug": "al-qadr",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Kemuliaan"
+  },
+  "verses": [
+    {
+      "id": 6126,
+      "verse_number": 1,
+      "verse_key": "97:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّآ أَنزَلْنَـٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181277,
+          "resource_id": 33,
+          "text": "Sesungguhnya Kami telah menurunkannya (Alquran) pada malam qadar.<sup foot_note=135870>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135870,
+            "text": "* Malam qadar mempunyai beberapa arti, di antaranya malam kemuliaan, karena pada malam itu permulaan diturunkannya Alquran dari Lauḥ Maḥfūẓ kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam-.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6127,
+      "verse_number": 2,
+      "verse_key": "97:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181279,
+          "resource_id": 33,
+          "text": "Dan tahukah kamu apakah malam kemuliaan itu?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6128,
+      "verse_number": 3,
+      "verse_key": "97:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌ مِّنْ أَلْفِ شَهْرٍ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181280,
+          "resource_id": 33,
+          "text": "Malam kemuliaan itu lebih baik daripada seribu bulan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6129,
+      "verse_number": 4,
+      "verse_key": "97:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَنَزَّلُ ٱلْمَلَـٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181290,
+          "resource_id": 33,
+          "text": "Pada malam itu turun para malaikat dan Ruh (Jibril) dengan izin Tuhannya untuk mengatur semua urusan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6130,
+      "verse_number": 5,
+      "verse_key": "97:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَلَـٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181285,
+          "resource_id": 33,
+          "text": "Sejahteralah (malam itu) sampai terbit fajar."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

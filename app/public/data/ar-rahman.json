@@ -1,0 +1,1716 @@
+{
+  "id": 55,
+  "revelation_place": "madinah",
+  "revelation_order": 97,
+  "bismillah_pre": true,
+  "name_simple": "Ar-Rahman",
+  "name_complex": "Ar-Raĥmān",
+  "name_arabic": "الرحمن",
+  "verses_count": 78,
+  "pages": [
+    531,
+    534
+  ],
+  "slug": {
+    "slug": "ar-rahman",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Yang Maha Pemurah"
+  },
+  "verses": [
+    {
+      "id": 4902,
+      "verse_number": 1,
+      "verse_key": "55:1",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " ٱلرَّحْمَـٰنُ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 177529,
+          "resource_id": 33,
+          "text": "(Allah) Yang Maha Pengasih,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4903,
+      "verse_number": 2,
+      "verse_key": "55:2",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَّمَ ٱلْقُرْءَانَ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 177423,
+          "resource_id": 33,
+          "text": "Yang telah mengajarkan Alquran."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4904,
+      "verse_number": 3,
+      "verse_key": "55:3",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179537,
+          "resource_id": 33,
+          "text": "Dia menciptakan manusia,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4905,
+      "verse_number": 4,
+      "verse_key": "55:4",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَّمَهُ ٱلْبَيَانَ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179556,
+          "resource_id": 33,
+          "text": "mengajarnya pandai berbicara."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4906,
+      "verse_number": 5,
+      "verse_key": "55:5",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلشَّمْسُ وَٱلْقَمَرُ بِحُسْبَانٍ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179562,
+          "resource_id": 33,
+          "text": "Matahari dan bulan beredar menurut perhitungan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4907,
+      "verse_number": 6,
+      "verse_key": "55:6",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلنَّجْمُ وَٱلشَّجَرُ يَسْجُدَانِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179759,
+          "resource_id": 33,
+          "text": "Bintang dan pepohonan, keduanya tunduk (kepada-Nya)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4908,
+      "verse_number": 7,
+      "verse_key": "55:7",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلسَّمَآءَ رَفَعَهَا وَوَضَعَ ٱلْمِيزَانَ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179582,
+          "resource_id": 33,
+          "text": "Dan langit telah ditinggikan-Nya dan Dia ciptakan keseimbangan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4909,
+      "verse_number": 8,
+      "verse_key": "55:8",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَّا تَطْغَوْا۟ فِى ٱلْمِيزَانِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179589,
+          "resource_id": 33,
+          "text": "agar kamu jangan merusak keseimbangan itu."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4910,
+      "verse_number": 9,
+      "verse_key": "55:9",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَقِيمُوا۟ ٱلْوَزْنَ بِٱلْقِسْطِ وَلَا تُخْسِرُوا۟ ٱلْمِيزَانَ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179591,
+          "resource_id": 33,
+          "text": "Dan tegakkanlah keseimbangan itu dengan adil dan janganlah kamu mengurangi keseimbangan itu."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4911,
+      "verse_number": 10,
+      "verse_key": "55:10",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْأَرْضَ وَضَعَهَا لِلْأَنَامِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179794,
+          "resource_id": 33,
+          "text": "Dan bumi telah dibentangkan-Nya untuk makhluk(-Nya),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4912,
+      "verse_number": 11,
+      "verse_key": "55:11",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِيهَا فَـٰكِهَةٌ وَٱلنَّخْلُ ذَاتُ ٱلْأَكْمَامِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179764,
+          "resource_id": 33,
+          "text": "di dalamnya ada buah-buahan dan pohon kurma yang mempunyai kelopak mayang,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4913,
+      "verse_number": 12,
+      "verse_key": "55:12",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْحَبُّ ذُو ٱلْعَصْفِ وَٱلرَّيْحَانُ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179516,
+          "resource_id": 33,
+          "text": "dan biji-bijian yang berkulit dan bunga-bunga yang harum baunya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4914,
+      "verse_number": 13,
+      "verse_key": "55:13",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179524,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4915,
+      "verse_number": 14,
+      "verse_key": "55:14",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ مِن صَلْصَـٰلٍ كَٱلْفَخَّارِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179517,
+          "resource_id": 33,
+          "text": "Dia menciptakan manusia dari tanah kering seperti tembikar,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4916,
+      "verse_number": 15,
+      "verse_key": "55:15",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَخَلَقَ ٱلْجَآنَّ مِن مَّارِجٍ مِّن نَّارٍ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179518,
+          "resource_id": 33,
+          "text": "dan Dia menciptakan jin dari nyala api tanpa asap."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4917,
+      "verse_number": 16,
+      "verse_key": "55:16",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179519,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4918,
+      "verse_number": 17,
+      "verse_key": "55:17",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "رَبُّ ٱلْمَشْرِقَيْنِ وَرَبُّ ٱلْمَغْرِبَيْنِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179520,
+          "resource_id": 33,
+          "text": "Tuhan (yang memelihara) dua Timur dan Tuhan (yang memelihara) dua Barat.<sup foot_note=135770>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135770,
+            "text": "* Tempat terbit dan terbenam matahari pada musim panas dan pada musim dingin.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 4919,
+      "verse_number": 18,
+      "verse_key": "55:18",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 531,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179521,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4920,
+      "verse_number": 19,
+      "verse_key": "55:19",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَرَجَ ٱلْبَحْرَيْنِ يَلْتَقِيَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179522,
+          "resource_id": 33,
+          "text": "Dia membiarkan dua laut mengalir yang (kemudian) keduanya bertemu,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4921,
+      "verse_number": 20,
+      "verse_key": "55:20",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَيْنَهُمَا بَرْزَخٌ لَّا يَبْغِيَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179535,
+          "resource_id": 33,
+          "text": "di antara keduanya ada batas yang tidak dilampaui oleh masing-masing.<sup foot_note=135771>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135771,
+            "text": "* Di antara mufasir ada yang berpendapat bahwa Lā yabgiyān maksudnya masing-masing tidak menghendaki. Dengan demikian maksud ayat <a href=\"/55:19\">19</a> dan <a href=\"/55:20\">20</a>, ialah bahwa ada dua laut yang keduanya terpisah dibatasi oleh tanah genting, tetapi tanah genting itu tidaklah dikehendaki (tidak diperlukan) maka pada akhirnya, tanah genting itu dibuang (digali untuk keperluan lalu lintas), maka bertemulah kedua lautan itu. Seperti Terusan Suez dan Terusan Panama.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 4922,
+      "verse_number": 21,
+      "verse_key": "55:21",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179525,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4923,
+      "verse_number": 22,
+      "verse_key": "55:22",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَخْرُجُ مِنْهُمَا ٱللُّؤْلُؤُ وَٱلْمَرْجَانُ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179526,
+          "resource_id": 33,
+          "text": "Dari keduanya keluar mutiara dan marjan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4924,
+      "verse_number": 23,
+      "verse_key": "55:23",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179527,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4925,
+      "verse_number": 24,
+      "verse_key": "55:24",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَهُ ٱلْجَوَارِ ٱلْمُنشَـَٔاتُ فِى ٱلْبَحْرِ كَٱلْأَعْلَـٰمِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179528,
+          "resource_id": 33,
+          "text": "Milik-Nyalah kapal-kapal yang berlayar di lautan bagaikan gunung-gunung."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4926,
+      "verse_number": 25,
+      "verse_key": "55:25",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 468,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179529,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4927,
+      "verse_number": 26,
+      "verse_key": "55:26",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كُلُّ مَنْ عَلَيْهَا فَانٍ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179530,
+          "resource_id": 33,
+          "text": "Semua yang ada di bumi itu akan binasa,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4928,
+      "verse_number": 27,
+      "verse_key": "55:27",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَيَبْقَىٰ وَجْهُ رَبِّكَ ذُو ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179531,
+          "resource_id": 33,
+          "text": "tetapi wajah Tuhanmu yang memiliki kebesaran dan kemuliaan tetap kekal."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4929,
+      "verse_number": 28,
+      "verse_key": "55:28",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179532,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4930,
+      "verse_number": 29,
+      "verse_key": "55:29",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَسْـَٔلُهُۥ مَن فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ كُلَّ يَوْمٍ هُوَ فِى شَأْنٍ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179533,
+          "resource_id": 33,
+          "text": "Apa yang di langit dan di bumi selalu meminta kepada-Nya. Setiap waktu Dia dalam kesibukan.<sup foot_note=135772>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135772,
+            "text": "* Allah senantiasa menciptakan, menghidupkan, mematikan, memelihara, memberi rezeki dan lain-lain.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 4931,
+      "verse_number": 30,
+      "verse_key": "55:30",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179209,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4932,
+      "verse_number": 31,
+      "verse_key": "55:31",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَنَفْرُغُ لَكُمْ أَيُّهَ ٱلثَّقَلَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179249,
+          "resource_id": 33,
+          "text": "Kami akan memberi perhatian sepenuhnya kepadamu wahai (golongan) manusia dan jin!"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4933,
+      "verse_number": 32,
+      "verse_key": "55:32",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179493,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4934,
+      "verse_number": 33,
+      "verse_key": "55:33",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰمَعْشَرَ ٱلْجِنِّ وَٱلْإِنسِ إِنِ ٱسْتَطَعْتُمْ أَن تَنفُذُوا۟ مِنْ أَقْطَارِ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ فَٱنفُذُوا۟ ۚ لَا تَنفُذُونَ إِلَّا بِسُلْطَـٰنٍ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179536,
+          "resource_id": 33,
+          "text": "Wahai golongan jin dan manusia! Jika kamu sanggup menembus (melintasi) penjuru langit dan bumi, maka tembuslah. Kamu tidak akan mampu menembusnya kecuali dengan kekuatan (dari Allah)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4935,
+      "verse_number": 34,
+      "verse_key": "55:34",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179539,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4936,
+      "verse_number": 35,
+      "verse_key": "55:35",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُرْسَلُ عَلَيْكُمَا شُوَاظٌ مِّن نَّارٍ وَنُحَاسٌ فَلَا تَنتَصِرَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179538,
+          "resource_id": 33,
+          "text": "Kepada kamu (jin dan manusia), akan dikirim nyala api dan cairan tembaga (panas) sehingga kamu tidak dapat menyelamatkan diri (darinya)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4937,
+      "verse_number": 36,
+      "verse_key": "55:36",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179544,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4938,
+      "verse_number": 37,
+      "verse_key": "55:37",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتْ وَرْدَةً كَٱلدِّهَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179540,
+          "resource_id": 33,
+          "text": "Maka apabila langit telah terbelah dan menjadi merah mawar seperti (kilauan) minyak."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4939,
+      "verse_number": 38,
+      "verse_key": "55:38",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179541,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4940,
+      "verse_number": 39,
+      "verse_key": "55:39",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَيَوْمَئِذٍ لَّا يُسْـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٌ وَلَا جَآنٌّ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179542,
+          "resource_id": 33,
+          "text": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya.<sup foot_note=135773>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135773,
+            "text": "* Tetapi pada saatnya akan dimintai pertanggungjawaban atas segala amal perbuatannya.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 4941,
+      "verse_number": 40,
+      "verse_key": "55:40",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179545,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4942,
+      "verse_number": 41,
+      "verse_key": "55:41",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يُعْرَفُ ٱلْمُجْرِمُونَ بِسِيمَـٰهُمْ فَيُؤْخَذُ بِٱلنَّوَٰصِى وَٱلْأَقْدَامِ",
+      "page_number": 532,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179546,
+          "resource_id": 33,
+          "text": "Orang-orang yang berdosa itu diketahui dengan tanda-tandanya, lalu direnggut ubun-ubun dan kakinya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4943,
+      "verse_number": 42,
+      "verse_key": "55:42",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179547,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4944,
+      "verse_number": 43,
+      "verse_key": "55:43",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَـٰذِهِۦ جَهَنَّمُ ٱلَّتِى يُكَذِّبُ بِهَا ٱلْمُجْرِمُونَ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179548,
+          "resource_id": 33,
+          "text": "Inilah neraka Jahanam yang didustakan oleh orang-orang yang berdosa."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4945,
+      "verse_number": 44,
+      "verse_key": "55:44",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَطُوفُونَ بَيْنَهَا وَبَيْنَ حَمِيمٍ ءَانٍ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179549,
+          "resource_id": 33,
+          "text": "Mereka berkeliling di sana dan di antara air yang mendidih."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4946,
+      "verse_number": 45,
+      "verse_key": "55:45",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 469,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179550,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4947,
+      "verse_number": 46,
+      "verse_key": "55:46",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلِمَنْ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179551,
+          "resource_id": 33,
+          "text": "Dan bagi siapa yang takut akan saat menghadap Tuhannya ada dua surga.<sup foot_note=135774>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135774,
+            "text": "* Surga untuk manusia dan surga untuk jin. Ada juga mufasir yang berpendapat surga dunia dan surga akhirat.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 4948,
+      "verse_number": 47,
+      "verse_key": "55:47",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179552,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4949,
+      "verse_number": 48,
+      "verse_key": "55:48",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذَوَاتَآ أَفْنَانٍ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179553,
+          "resource_id": 33,
+          "text": "kedua surga itu mempunyai aneka pepohonan dan buah-buahan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4950,
+      "verse_number": 49,
+      "verse_key": "55:49",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179554,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4951,
+      "verse_number": 50,
+      "verse_key": "55:50",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِيهِمَا عَيْنَانِ تَجْرِيَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179557,
+          "resource_id": 33,
+          "text": "Di dalam kedua surga itu ada dua buah mata air yang memancar."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4952,
+      "verse_number": 51,
+      "verse_key": "55:51",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179558,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4953,
+      "verse_number": 52,
+      "verse_key": "55:52",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِيهِمَا مِن كُلِّ فَـٰكِهَةٍ زَوْجَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179559,
+          "resource_id": 33,
+          "text": "Di dalam kedua surga itu terdapat aneka buah-buahan yang berpasang-pasangan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4954,
+      "verse_number": 53,
+      "verse_key": "55:53",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179560,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4955,
+      "verse_number": 54,
+      "verse_key": "55:54",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ فُرُشٍۭ بَطَآئِنُهَا مِنْ إِسْتَبْرَقٍ ۚ وَجَنَى ٱلْجَنَّتَيْنِ دَانٍ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179561,
+          "resource_id": 33,
+          "text": "Mereka bersandar di atas permadani yang bagian dalamnya dari sutera tebal. Dan buah-buahan di kedua surga itu dapat (dipetik) dari dekat."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4956,
+      "verse_number": 55,
+      "verse_key": "55:55",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179509,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4957,
+      "verse_number": 56,
+      "verse_key": "55:56",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِيهِنَّ قَـٰصِرَٰتُ ٱلطَّرْفِ لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179508,
+          "resource_id": 33,
+          "text": "Di dalam surga itu ada bidadari-bidadari yang membatasi pandangan, yang tidak pernah disentuh oleh manusia maupun jin sebelumnya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4958,
+      "verse_number": 57,
+      "verse_key": "55:57",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179565,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4959,
+      "verse_number": 58,
+      "verse_key": "55:58",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَأَنَّهُنَّ ٱلْيَاقُوتُ وَٱلْمَرْجَانُ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179510,
+          "resource_id": 33,
+          "text": "Seakan-akan mereka itu permata yakut dan marjan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4960,
+      "verse_number": 59,
+      "verse_key": "55:59",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179511,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4961,
+      "verse_number": 60,
+      "verse_key": "55:60",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَلْ جَزَآءُ ٱلْإِحْسَـٰنِ إِلَّا ٱلْإِحْسَـٰنُ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179566,
+          "resource_id": 33,
+          "text": "Tidak ada balasan untuk kebaikan selain kebaikan (pula)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4962,
+      "verse_number": 61,
+      "verse_key": "55:61",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179567,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4963,
+      "verse_number": 62,
+      "verse_key": "55:62",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن دُونِهِمَا جَنَّتَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179568,
+          "resource_id": 33,
+          "text": "Dan selain dari dua surga itu ada dua surga lagi.<sup foot_note=135775>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135775,
+            "text": "* Selain dua surga yang tersebut di atas ada lagi dua surga untuk orang-orang mukmin yang kurang derajatnya dari orang-orang mukmin yang dimasukkan ke dalam surga yang pertama.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 4964,
+      "verse_number": 63,
+      "verse_key": "55:63",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179569,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4965,
+      "verse_number": 64,
+      "verse_key": "55:64",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مُدْهَآمَّتَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179570,
+          "resource_id": 33,
+          "text": "kedua surga itu (kelihatan) hijau tua warnanya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4966,
+      "verse_number": 65,
+      "verse_key": "55:65",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179571,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4967,
+      "verse_number": 66,
+      "verse_key": "55:66",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِيهِمَا عَيْنَانِ نَضَّاخَتَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179572,
+          "resource_id": 33,
+          "text": "Di dalam keduanya (surga itu) ada dua mata air yang memancar."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4968,
+      "verse_number": 67,
+      "verse_key": "55:67",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179574,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4969,
+      "verse_number": 68,
+      "verse_key": "55:68",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِيهِمَا فَـٰكِهَةٌ وَنَخْلٌ وَرُمَّانٌ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179593,
+          "resource_id": 33,
+          "text": "Di dalam kedua surga itu ada buah-buahan, kurma dan delima."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4970,
+      "verse_number": 69,
+      "verse_key": "55:69",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 533,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179576,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4971,
+      "verse_number": 70,
+      "verse_key": "55:70",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِيهِنَّ خَيْرَٰتٌ حِسَانٌ",
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179577,
+          "resource_id": 33,
+          "text": "Di dalam surga-surga itu ada bidadari-bidadari yang baik-baik dan jelita."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4972,
+      "verse_number": 71,
+      "verse_key": "55:71",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179578,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4973,
+      "verse_number": 72,
+      "verse_key": "55:72",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "حُورٌ مَّقْصُورَٰتٌ فِى ٱلْخِيَامِ",
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179579,
+          "resource_id": 33,
+          "text": "Bidadari-bidadari yang dipelihara di dalam kemah-kemah."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4974,
+      "verse_number": 73,
+      "verse_key": "55:73",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179580,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4975,
+      "verse_number": 74,
+      "verse_key": "55:74",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَمْ يَطْمِثْهُنَّ إِنسٌ قَبْلَهُمْ وَلَا جَآنٌّ",
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179581,
+          "resource_id": 33,
+          "text": "Mereka sebelumnya tidak pernah disentuh oleh manusia maupun oleh jin."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4976,
+      "verse_number": 75,
+      "verse_key": "55:75",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179587,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4977,
+      "verse_number": 76,
+      "verse_key": "55:76",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مُتَّكِـِٔينَ عَلَىٰ رَفْرَفٍ خُضْرٍ وَعَبْقَرِىٍّ حِسَانٍ",
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179583,
+          "resource_id": 33,
+          "text": "Mereka bersandar pada bantal-bantal yang hijau dan permadani-permadani yang indah."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4978,
+      "verse_number": 77,
+      "verse_key": "55:77",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179584,
+          "resource_id": 33,
+          "text": "Maka nikmat Tuhanmu yang manakah yang kamu dustakan?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 4979,
+      "verse_number": 78,
+      "verse_key": "55:78",
+      "hizb_number": 54,
+      "rub_el_hizb_number": 213,
+      "ruku_number": 470,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "تَبَـٰرَكَ ٱسْمُ رَبِّكَ ذِى ٱلْجَلَـٰلِ وَٱلْإِكْرَامِ",
+      "page_number": 534,
+      "juz_number": 27,
+      "translations": [
+        {
+          "id": 179585,
+          "resource_id": 33,
+          "text": "Mahasuci nama Tuhanmu Pemilik Keagungan dan Kemuliaan."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

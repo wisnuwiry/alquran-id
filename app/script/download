@@ -1,0 +1,71 @@
+#!/bin/bash
+
+# Define API Base URL
+BASE_URL="https://api.qurancdn.com/api/qdc/"
+
+# Directory to save data
+DATA_DIR="./public/data"
+CHAPTERS_FILE="${DATA_DIR}/chapters.json"
+LANGUAGE="id"
+
+rm -rf $DATA_DIR
+
+# Create the data directory if it doesn't exist
+mkdir -p $DATA_DIR
+
+# Fetch the list of chapters and save as JSON
+echo "Fetching list of chapters..."
+curl -s "${BASE_URL}/chapters?language=${LANGUAGE}" -o $CHAPTERS_FILE
+
+# Remove escaped double quotes, then format JSON and save it
+sed 's/\\"//g' "${DATA_DIR}/chapters.json" | jq '.' > "${DATA_DIR}/chapters_temp.json" && mv "${DATA_DIR}/chapters_temp.json" "${DATA_DIR}/chapters.json"
+
+# Read the processed chapter data and process each chapter
+jq -c '.chapters[]' $CHAPTERS_FILE | while read chapter; do
+  CHAPTER_ID=$(echo $chapter | jq '.id')
+  CHAPTER_NAME=$(echo $chapter | jq -r '.name_simple')
+  VERSES_COUNT=$(echo $chapter | jq '.verses_count')
+
+  # Extract the slug from the nested slug object
+  SLUG=$(echo $chapter | jq -r '.slug.slug')
+
+  # Fetch the verses for the current chapter with per_page set to verses_count
+  echo "Fetching verses for Chapter ID: $CHAPTER_ID ($CHAPTER_NAME)..."
+  curl -s "${BASE_URL}/verses/by_chapter/${CHAPTER_ID}?language=${LANGUAGE}&fields=text_uthmani&translations=33&per_page=${VERSES_COUNT}" \
+    -o "${DATA_DIR}/${SLUG}.json"
+
+  # Read the fetched verses file into a variable
+  VERSES_ARRAY=$(jq '.verses' "${DATA_DIR}/${SLUG}.json")
+
+  # Fix the special characters inside VERSES_ARRAY
+  FIXED_VERSES=$(echo "$VERSES_ARRAY" | sed -e 's/\\'\"'/“/g' -e 's/\\"/“/g')
+
+  # Update the chapter JSON file with the fetched verses
+  echo "Updating chapter $CHAPTER_ID with verses..."
+  jq --argjson verses "$VERSES_ARRAY" '.verses = $verses' "$CHAPTERS_FILE" > "${DATA_DIR}/surah_temp.json"
+
+  # Insert the additional chapter details into the chapter object, including verses
+  jq --arg slug "$SLUG" --argjson chapter "$chapter" --argjson verses "$FIXED_VERSES" \
+  '(.chapters[] | select(.id == $chapter.id)) as $c |
+  $c + {
+    id: $chapter.id,
+    revelation_place: $chapter.revelation_place,
+    revelation_order: $chapter.revelation_order,
+    bismillah_pre: $chapter.bismillah_pre,
+    name_simple: $chapter.name_simple,
+    name_complex: $chapter.name_complex,
+    name_arabic: $chapter.name_arabic,
+    verses_count: $chapter.verses_count,
+    pages: $chapter.pages,
+    slug: { slug: $slug, locale: "en" },
+    translated_name: $chapter.translated_name,
+    verses: $verses
+  }' "$CHAPTERS_FILE" > "${DATA_DIR}/${SLUG}.json"
+
+  echo "Saved chapter $CHAPTER_ID ($CHAPTER_NAME) to ${DATA_DIR}/${SLUG}.json"
+done
+
+# Remove temporary file
+rm "${DATA_DIR}/surah_temp.json"
+
+echo "All chapters and verses have been fetched and saved."

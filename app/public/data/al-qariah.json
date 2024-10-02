@@ -1,0 +1,255 @@
+{
+  "id": 101,
+  "revelation_place": "makkah",
+  "revelation_order": 30,
+  "bismillah_pre": true,
+  "name_simple": "Al-Qari'ah",
+  "name_complex": "Al-Qāri`ah",
+  "name_arabic": "القارعة",
+  "verses_count": 11,
+  "pages": [
+    600,
+    600
+  ],
+  "slug": {
+    "slug": "al-qariah",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Hari Kiamat"
+  },
+  "verses": [
+    {
+      "id": 6158,
+      "verse_number": 1,
+      "verse_key": "101:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " ٱلْقَارِعَةُ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177222,
+          "resource_id": 33,
+          "text": "Hari Kiamat,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6159,
+      "verse_number": 2,
+      "verse_key": "101:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا ٱلْقَارِعَةُ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177527,
+          "resource_id": 33,
+          "text": "Apakah hari Kiamat itu?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6160,
+      "verse_number": 3,
+      "verse_key": "101:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْقَارِعَةُ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 179198,
+          "resource_id": 33,
+          "text": "Dan tahukah kamu apakah hari Kiamat itu?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6161,
+      "verse_number": 4,
+      "verse_key": "101:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَوْمَ يَكُونُ ٱلنَّاسُ كَٱلْفَرَاشِ ٱلْمَبْثُوثِ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 179175,
+          "resource_id": 33,
+          "text": "Pada hari itu manusia seperti laron yang beterbangan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6162,
+      "verse_number": 5,
+      "verse_key": "101:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَتَكُونُ ٱلْجِبَالُ كَٱلْعِهْنِ ٱلْمَنفُوشِ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 179245,
+          "resource_id": 33,
+          "text": "dan gunung-gunung seperti bulu yang dihambur-hamburkan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6163,
+      "verse_number": 6,
+      "verse_key": "101:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَمَّا مَن ثَقُلَتْ مَوَٰزِينُهُۥ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178763,
+          "resource_id": 33,
+          "text": "Maka adapun orang yang berat timbangan (kebaikan)nya,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6164,
+      "verse_number": 7,
+      "verse_key": "101:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَهُوَ فِى عِيشَةٍ رَّاضِيَةٍ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177770,
+          "resource_id": 33,
+          "text": "maka dia berada dalam kehidupan yang memuaskan (senang)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6165,
+      "verse_number": 8,
+      "verse_key": "101:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّا مَنْ خَفَّتْ مَوَٰزِينُهُۥ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 179792,
+          "resource_id": 33,
+          "text": "Dan adapun orang yang ringan timbangan (kebaikan)nya,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6166,
+      "verse_number": 9,
+      "verse_key": "101:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأُمُّهُۥ هَاوِيَةٌ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 179711,
+          "resource_id": 33,
+          "text": "maka tempat kembalinya adalah neraka Hāwiyah."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6167,
+      "verse_number": 10,
+      "verse_key": "101:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا هِيَهْ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 179068,
+          "resource_id": 33,
+          "text": "Dan tahukah kamu apakah neraka Hāwiyah itu?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6168,
+      "verse_number": 11,
+      "verse_key": "101:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "نَارٌ حَامِيَةٌۢ",
+      "page_number": 600,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 179043,
+          "resource_id": 33,
+          "text": "(Yaitu) api yang sangat panas."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

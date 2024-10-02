@@ -1,0 +1,276 @@
+{
+  "id": 66,
+  "revelation_place": "madinah",
+  "revelation_order": 107,
+  "bismillah_pre": true,
+  "name_simple": "At-Tahrim",
+  "name_complex": "At-Taĥrīm",
+  "name_arabic": "التحريم",
+  "verses_count": 12,
+  "pages": [
+    560,
+    561
+  ],
+  "slug": {
+    "slug": "at-tahrim",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Mengharamkan"
+  },
+  "verses": [
+    {
+      "id": 5230,
+      "verse_number": 1,
+      "verse_key": "66:1",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 496,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " يَـٰٓأَيُّهَا ٱلنَّبِىُّ لِمَ تُحَرِّمُ مَآ أَحَلَّ ٱللَّهُ لَكَ ۖ تَبْتَغِى مَرْضَاتَ أَزْوَٰجِكَ ۚ وَٱللَّهُ غَفُورٌ رَّحِيمٌ",
+      "page_number": 560,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180008,
+          "resource_id": 33,
+          "text": "Wahai Nabi! Mengapa engkau mengharamkan apa yang dihalalkan Allah bagimu? Engkau ingin menyenangkan hati istri-istrimu? Dan Allah Maha Pengampun, Maha Penyayang."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5231,
+      "verse_number": 2,
+      "verse_key": "66:2",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 496,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قَدْ فَرَضَ ٱللَّهُ لَكُمْ تَحِلَّةَ أَيْمَـٰنِكُمْ ۚ وَٱللَّهُ مَوْلَىٰكُمْ ۖ وَهُوَ ٱلْعَلِيمُ ٱلْحَكِيمُ",
+      "page_number": 560,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180014,
+          "resource_id": 33,
+          "text": "Sungguh, Allah telah mewajibkan kepadamu membebaskan diri dari sumpahmu; dan Allah adalah pelindungmu dan Dia Maha Mengetahui, Mahabijaksana."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5232,
+      "verse_number": 3,
+      "verse_key": "66:3",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 496,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذْ أَسَرَّ ٱلنَّبِىُّ إِلَىٰ بَعْضِ أَزْوَٰجِهِۦ حَدِيثًا فَلَمَّا نَبَّأَتْ بِهِۦ وَأَظْهَرَهُ ٱللَّهُ عَلَيْهِ عَرَّفَ بَعْضَهُۥ وَأَعْرَضَ عَنۢ بَعْضٍ ۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتْ مَنْ أَنۢبَأَكَ هَـٰذَا ۖ قَالَ نَبَّأَنِىَ ٱلْعَلِيمُ ٱلْخَبِيرُ",
+      "page_number": 560,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180015,
+          "resource_id": 33,
+          "text": "Dan ingatlah ketika secara rahasia Nabi membicarakan suatu peristiwa kepada salah seorang istrinya (Hafsah). Lalu dia menceritakan peristiwa itu (kepada Aisyah) dan Allah memberitahukan peristiwa itu kepadanya (Nabi), lalu (Nabi) memberitahukan (kepada Hafsah) sebagian dan menyembunyikan sebagian yang lain. Maka ketika dia (Nabi) memberitahukan pembicaraan itu kepadanya (Hafsah), dia bertanya, \"Siapa yang telah memberitahukan hal ini kepadamu?\" Nabi menjawab, \"Yang memberitahukan kepadaku adalah Allah Yang Maha Mengetahui, Mahateliti.\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5233,
+      "verse_number": 4,
+      "verse_key": "66:4",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 496,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِن تَتُوبَآ إِلَى ٱللَّهِ فَقَدْ صَغَتْ قُلُوبُكُمَا ۖ وَإِن تَظَـٰهَرَا عَلَيْهِ فَإِنَّ ٱللَّهَ هُوَ مَوْلَىٰهُ وَجِبْرِيلُ وَصَـٰلِحُ ٱلْمُؤْمِنِينَ ۖ وَٱلْمَلَـٰٓئِكَةُ بَعْدَ ذَٰلِكَ ظَهِيرٌ",
+      "page_number": 560,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180017,
+          "resource_id": 33,
+          "text": "Jika kamu berdua bertobat kepada Allah, maka sungguh, hati kamu berdua telah condong (untuk menerima kebenaran); dan jika kamu berdua saling bantu membantu menyusahkan Nabi, maka sungguh, Allah menjadi pelindungnya dan (juga) Jibril dan orang-orang mukmin yang baik; dan selain itu malaikat-malaikat adalah penolongnya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5234,
+      "verse_number": 5,
+      "verse_key": "66:5",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 496,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبْدِلَهُۥٓ أَزْوَٰجًا خَيْرًا مِّنكُنَّ مُسْلِمَـٰتٍ مُّؤْمِنَـٰتٍ قَـٰنِتَـٰتٍ تَـٰٓئِبَـٰتٍ عَـٰبِدَٰتٍ سَـٰٓئِحَـٰتٍ ثَيِّبَـٰتٍ وَأَبْكَارًا",
+      "page_number": 560,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180019,
+          "resource_id": 33,
+          "text": "Jika dia (Nabi) menceraikan kamu, boleh jadi Tuhan akan memberi ganti kepadanya dengan istri-istri yang lebih baik dari kamu, perempuan-perempuan yang patuh, yang beriman, yang taat, yang bertobat, yang beribadah, yang berpuasa, yang janda dan yang perawan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5235,
+      "verse_number": 6,
+      "verse_key": "66:6",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 496,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ قُوٓا۟ أَنفُسَكُمْ وَأَهْلِيكُمْ نَارًا وَقُودُهَا ٱلنَّاسُ وَٱلْحِجَارَةُ عَلَيْهَا مَلَـٰٓئِكَةٌ غِلَاظٌ شِدَادٌ لَّا يَعْصُونَ ٱللَّهَ مَآ أَمَرَهُمْ وَيَفْعَلُونَ مَا يُؤْمَرُونَ",
+      "page_number": 560,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180021,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Peliharalah dirimu dan keluargamu dari api neraka yang bahan bakarnya adalah manusia dan batu; penjaganya malaikat-malaikat yang kasar, dan keras, yang tidak durhaka kepada apa yang Allah perintahkan kepada mereka dan selalu mengerjakan apa yang diperintahkan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5236,
+      "verse_number": 7,
+      "verse_key": "66:7",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 496,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ كَفَرُوا۟ لَا تَعْتَذِرُوا۟ ٱلْيَوْمَ ۖ إِنَّمَا تُجْزَوْنَ مَا كُنتُمْ تَعْمَلُونَ",
+      "page_number": 560,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180024,
+          "resource_id": 33,
+          "text": "Wahai orang-orang kafir! Janganlah kamu mengemukakan alasan pada hari ini. Sesungguhnya kamu hanya diberi balasan menurut apa yang telah kamu kerjakan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5237,
+      "verse_number": 8,
+      "verse_key": "66:8",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 497,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ تُوبُوٓا۟ إِلَى ٱللَّهِ تَوْبَةً نَّصُوحًا عَسَىٰ رَبُّكُمْ أَن يُكَفِّرَ عَنكُمْ سَيِّـَٔاتِكُمْ وَيُدْخِلَكُمْ جَنَّـٰتٍ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ يَوْمَ لَا يُخْزِى ٱللَّهُ ٱلنَّبِىَّ وَٱلَّذِينَ ءَامَنُوا۟ مَعَهُۥ ۖ نُورُهُمْ يَسْعَىٰ بَيْنَ أَيْدِيهِمْ وَبِأَيْمَـٰنِهِمْ يَقُولُونَ رَبَّنَآ أَتْمِمْ لَنَا نُورَنَا وَٱغْفِرْ لَنَآ ۖ إِنَّكَ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "page_number": 561,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180025,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Bertobatlah kepada Allah dengan tobat yang semurni-murninya, mudah-mudahan Tuhan kamu akan menghapus kesalahan-kesalahanmu dan memasukkan kamu ke dalam surga-surga yang mengalir di bawahnya sungai-sungai, pada hari ketika Allah tidak mengecewakan Nabi dan orang-orang yang beriman bersama dengannya; sedang cahaya mereka memancar di hadapan dan di sebelah kanan mereka, sambil mereka berkata, \"Ya Tuhan kami, sempurnakanlah untuk kami cahaya kami dan ampunilah kami; sungguh, Engkau Mahakuasa atas segala sesuatu.\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5238,
+      "verse_number": 9,
+      "verse_key": "66:9",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 497,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلنَّبِىُّ جَـٰهِدِ ٱلْكُفَّارَ وَٱلْمُنَـٰفِقِينَ وَٱغْلُظْ عَلَيْهِمْ ۚ وَمَأْوَىٰهُمْ جَهَنَّمُ ۖ وَبِئْسَ ٱلْمَصِيرُ",
+      "page_number": 561,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180029,
+          "resource_id": 33,
+          "text": "Wahai Nabi! Perangilah orang-orang kafir dan orang-orang munafik dan bersikap keraslah terhadap mereka. Tempat mereka adalah neraka Jahanam dan itulah seburuk-buruk tempat kembali."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5239,
+      "verse_number": 10,
+      "verse_key": "66:10",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 497,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ كَفَرُوا۟ ٱمْرَأَتَ نُوحٍ وَٱمْرَأَتَ لُوطٍ ۖ كَانَتَا تَحْتَ عَبْدَيْنِ مِنْ عِبَادِنَا صَـٰلِحَيْنِ فَخَانَتَاهُمَا فَلَمْ يُغْنِيَا عَنْهُمَا مِنَ ٱللَّهِ شَيْـًٔا وَقِيلَ ٱدْخُلَا ٱلنَّارَ مَعَ ٱلدَّٰخِلِينَ",
+      "page_number": 561,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180009,
+          "resource_id": 33,
+          "text": "Allah membuat perumpamaan bagi orang-orang kafir, istri Nuh dan istri Luṭ. Keduanya berada di bawah pengawasan dua orang hamba yang saleh di antara hamba-hamba Kami; lalu kedua istri itu berkhianat kepada kedua suaminya, tetapi kedua suaminya itu tidak dapat membantu mereka sedikit pun dari (siksa) Allah; dan dikatakan (kepada kedua istri itu), \"Masuklah kamu berdua ke neraka bersama orang-orang yang masuk (neraka).\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5240,
+      "verse_number": 11,
+      "verse_key": "66:11",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 497,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَضَرَبَ ٱللَّهُ مَثَلًا لِّلَّذِينَ ءَامَنُوا۟ ٱمْرَأَتَ فِرْعَوْنَ إِذْ قَالَتْ رَبِّ ٱبْنِ لِى عِندَكَ بَيْتًا فِى ٱلْجَنَّةِ وَنَجِّنِى مِن فِرْعَوْنَ وَعَمَلِهِۦ وَنَجِّنِى مِنَ ٱلْقَوْمِ ٱلظَّـٰلِمِينَ",
+      "page_number": 561,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180010,
+          "resource_id": 33,
+          "text": "Dan Allah membuat perumpamaan bagi orang-orang yang beriman, istri Fir'aun, ketika dia berkata, \"Ya Tuhanku, bangunkanlah untukku satu rumah di sisi-Mu dalam surga dan selamatkanlah aku dari Fir'aun dan perbuatannya, dan selamatkanlah aku dari kaum yang zalim,\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5241,
+      "verse_number": 12,
+      "verse_key": "66:12",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 224,
+      "ruku_number": 497,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَرْيَمَ ٱبْنَتَ عِمْرَٰنَ ٱلَّتِىٓ أَحْصَنَتْ فَرْجَهَا فَنَفَخْنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتْ بِكَلِمَـٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتْ مِنَ ٱلْقَـٰنِتِينَ",
+      "page_number": 561,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 180011,
+          "resource_id": 33,
+          "text": "dan Maryam putri Imran yang memelihara kehormatannya, maka Kami tiupkan ke dalam rahimnya sebagian dari roh (ciptaan) Kami; dan dia membenarkan kalimat-kalimat Tuhannya dan kitab-kitab-Nya; dan dia termasuk orang-orang yang taat."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

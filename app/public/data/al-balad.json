@@ -1,0 +1,444 @@
+{
+  "id": 90,
+  "revelation_place": "makkah",
+  "revelation_order": 35,
+  "bismillah_pre": true,
+  "name_simple": "Al-Balad",
+  "name_complex": "Al-Balad",
+  "name_arabic": "البلد",
+  "verses_count": 20,
+  "pages": [
+    594,
+    594
+  ],
+  "slug": {
+    "slug": "al-balad",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Negeri"
+  },
+  "verses": [
+    {
+      "id": 6024,
+      "verse_number": 1,
+      "verse_key": "90:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " لَآ أُقْسِمُ بِهَـٰذَا ٱلْبَلَدِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181075,
+          "resource_id": 33,
+          "text": "Aku bersumpah dengan negeri ini (Mekkah),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6025,
+      "verse_number": 2,
+      "verse_key": "90:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنتَ حِلٌّۢ بِهَـٰذَا ٱلْبَلَدِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181086,
+          "resource_id": 33,
+          "text": "dan engkau (Muhammad), bertempat di negeri (Mekkah) ini,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6026,
+      "verse_number": 3,
+      "verse_key": "90:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَوَالِدٍ وَمَا وَلَدَ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181088,
+          "resource_id": 33,
+          "text": "dan demi (pertalian) bapak dan anaknya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6027,
+      "verse_number": 4,
+      "verse_key": "90:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ فِى كَبَدٍ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181089,
+          "resource_id": 33,
+          "text": "Sungguh, Kami telah menciptakan manusia berada dalam susah payah."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6028,
+      "verse_number": 5,
+      "verse_key": "90:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَيَحْسَبُ أَن لَّن يَقْدِرَ عَلَيْهِ أَحَدٌ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181090,
+          "resource_id": 33,
+          "text": "Apakah dia (manusia) itu mengira bahwa tidak ada sesuatu pun yang berkuasa atasnya?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6029,
+      "verse_number": 6,
+      "verse_key": "90:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَقُولُ أَهْلَكْتُ مَالًا لُّبَدًا",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181091,
+          "resource_id": 33,
+          "text": "Dia mengatakan, \"Aku telah menghabiskan harta yang banyak.\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6030,
+      "verse_number": 7,
+      "verse_key": "90:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَيَحْسَبُ أَن لَّمْ يَرَهُۥٓ أَحَدٌ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181092,
+          "resource_id": 33,
+          "text": "Apakah dia mengira bahwa tidak ada sesuatu pun yang melihatnya?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6031,
+      "verse_number": 8,
+      "verse_key": "90:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ نَجْعَل لَّهُۥ عَيْنَيْنِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181093,
+          "resource_id": 33,
+          "text": "Bukankah Kami telah menjadikan untuknya sepasang mata,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6032,
+      "verse_number": 9,
+      "verse_key": "90:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلِسَانًا وَشَفَتَيْنِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181094,
+          "resource_id": 33,
+          "text": "dan lidah dan sepasang bibir?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6033,
+      "verse_number": 10,
+      "verse_key": "90:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَهَدَيْنَـٰهُ ٱلنَّجْدَيْنِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181076,
+          "resource_id": 33,
+          "text": "Dan Kami telah menunjukkan kepadanya dua jalan (kebajikkan dan kejahatan)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6034,
+      "verse_number": 11,
+      "verse_key": "90:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَا ٱقْتَحَمَ ٱلْعَقَبَةَ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181077,
+          "resource_id": 33,
+          "text": "Tetapi dia tidak menempuh jalan yang mendaki dan sukar?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6035,
+      "verse_number": 12,
+      "verse_key": "90:12",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَدْرَىٰكَ مَا ٱلْعَقَبَةُ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181078,
+          "resource_id": 33,
+          "text": "Dan tahukah kamu apakah jalan yang mendaki dan sukar itu?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6036,
+      "verse_number": 13,
+      "verse_key": "90:13",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَكُّ رَقَبَةٍ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181079,
+          "resource_id": 33,
+          "text": "(Yaitu) membebaskan budak (hamba sahaya),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6037,
+      "verse_number": 14,
+      "verse_key": "90:14",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْ إِطْعَـٰمٌ فِى يَوْمٍ ذِى مَسْغَبَةٍ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181080,
+          "resource_id": 33,
+          "text": "atau memberi makan pada hari terjadi kelaparan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6038,
+      "verse_number": 15,
+      "verse_key": "90:15",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَتِيمًا ذَا مَقْرَبَةٍ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181081,
+          "resource_id": 33,
+          "text": "(kepada) anak yatim yang ada hubungan kerabat,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6039,
+      "verse_number": 16,
+      "verse_key": "90:16",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْ مِسْكِينًا ذَا مَتْرَبَةٍ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181082,
+          "resource_id": 33,
+          "text": "atau orang miskin yang sangat fakir."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6040,
+      "verse_number": 17,
+      "verse_key": "90:17",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُوا۟ وَتَوَاصَوْا۟ بِٱلصَّبْرِ وَتَوَاصَوْا۟ بِٱلْمَرْحَمَةِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181083,
+          "resource_id": 33,
+          "text": "Kemudian dia termasuk orang-orang yang beriman, dan saling berpesan untuk bersabar dan saling berpesan untuk berkasih sayang."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6041,
+      "verse_number": 18,
+      "verse_key": "90:18",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلْمَيْمَنَةِ",
+      "page_number": 594,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181096,
+          "resource_id": 33,
+          "text": "Mereka (orang-orang yang beriman dan saling berpesan itu) adalah golongan kanan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6042,
+      "verse_number": 19,
+      "verse_key": "90:19",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ كَفَرُوا۟ بِـَٔايَـٰتِنَا هُمْ أَصْحَـٰبُ ٱلْمَشْـَٔمَةِ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181085,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang kafir kepada ayat-ayat Kami, mereka itu adalah golongan kiri."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6043,
+      "verse_number": 20,
+      "verse_key": "90:20",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 534,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَيْهِمْ نَارٌ مُّؤْصَدَةٌۢ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181087,
+          "resource_id": 33,
+          "text": "Mereka berada dalam neraka yang ditutup rapat."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

@@ -1,0 +1,273 @@
+{
+  "id": 63,
+  "revelation_place": "madinah",
+  "revelation_order": 104,
+  "bismillah_pre": true,
+  "name_simple": "Al-Munafiqun",
+  "name_complex": "Al-Munāfiqūn",
+  "name_arabic": "المنافقون",
+  "verses_count": 11,
+  "pages": [
+    554,
+    555
+  ],
+  "slug": {
+    "slug": "al-munafiqun",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Kaum Munafik"
+  },
+  "verses": [
+    {
+      "id": 5189,
+      "verse_number": 1,
+      "verse_key": "63:1",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا جَآءَكَ ٱلْمُنَـٰفِقُونَ قَالُوا۟ نَشْهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِ ۗ وَٱللَّهُ يَعْلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشْهَدُ إِنَّ ٱلْمُنَـٰفِقِينَ لَكَـٰذِبُونَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179935,
+          "resource_id": 33,
+          "text": "Apabila orang-orang munafik datang kepadamu (Muhammad), mereka berkata, \"Kami mengakui, bahwa engkau adalah Rasul Allah.\" Dan Allah mengetahui bahwa engkau benar-benar Rasul-Nya; dan Allah menyaksikan bahwa orang-orang munafik itu benar-benar pendusta."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5190,
+      "verse_number": 2,
+      "verse_key": "63:2",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱتَّخَذُوٓا۟ أَيْمَـٰنَهُمْ جُنَّةً فَصَدُّوا۟ عَن سَبِيلِ ٱللَّهِ ۚ إِنَّهُمْ سَآءَ مَا كَانُوا۟ يَعْمَلُونَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179938,
+          "resource_id": 33,
+          "text": "Mereka menjadikan sumpah-sumpah mereka sebagai perisai,<sup foot_note=135793>1</sup> lalu mereka menghalang-halangi (manusia) dari jalan Allah. Sungguh, betapa buruknya apa yang telah mereka kerjakan."
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135793,
+            "text": "* Mereka bersumpah bahwa mereka beriman untuk menjaga harta dan diri mereka agar jangan dibunuh atau ditawan atau dirampas hartanya.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 5191,
+      "verse_number": 3,
+      "verse_key": "63:3",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّهُمْ ءَامَنُوا۟ ثُمَّ كَفَرُوا۟ فَطُبِعَ عَلَىٰ قُلُوبِهِمْ فَهُمْ لَا يَفْقَهُونَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179942,
+          "resource_id": 33,
+          "text": "Yang demikian itu karena sesungguhnya mereka telah beriman, kemudian menjadi kafir, maka hati mereka dikunci, sehingga mereka tidak dapat mengerti."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5192,
+      "verse_number": 4,
+      "verse_key": "63:4",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ وَإِذَا رَأَيْتَهُمْ تُعْجِبُكَ أَجْسَامُهُمْ ۖ وَإِن يَقُولُوا۟ تَسْمَعْ لِقَوْلِهِمْ ۖ كَأَنَّهُمْ خُشُبٌ مُّسَنَّدَةٌ ۖ يَحْسَبُونَ كُلَّ صَيْحَةٍ عَلَيْهِمْ ۚ هُمُ ٱلْعَدُوُّ فَٱحْذَرْهُمْ ۚ قَـٰتَلَهُمُ ٱللَّهُ ۖ أَنَّىٰ يُؤْفَكُونَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179943,
+          "resource_id": 33,
+          "text": "Dan apabila engkau melihat mereka, tubuh mereka mengagumkanmu. Dan jika mereka berkata, engkau mendengarkan tutur katanya. Mereka seakan-akan kayu yang tersandar.<sup foot_note=135794>1</sup> Mereka mengira bahwa setiap teriakan ditujukan kepada mereka. Mereka itulah musuh (yang sebenarnya), maka waspadalah terhadap mereka; semoga Allah membinasakan mereka. Bagaimanakah mereka dapat dipalingkan (dari kebenaran)?"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135794,
+            "text": "* Mereka diumpamakan seperti kayu yang tersandar, maksudnya ialah untuk menyatakan sifat mereka yang jelek meskipun tubuh mereka bagus-bagus dan mereka pandai berbicara tetapi sebenarnya otak mereka adalah kosong tidak dapat memahami kebenaran.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 5193,
+      "verse_number": 5,
+      "verse_key": "63:5",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا قِيلَ لَهُمْ تَعَالَوْا۟ يَسْتَغْفِرْ لَكُمْ رَسُولُ ٱللَّهِ لَوَّوْا۟ رُءُوسَهُمْ وَرَأَيْتَهُمْ يَصُدُّونَ وَهُم مُّسْتَكْبِرُونَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179945,
+          "resource_id": 33,
+          "text": "Dan apabila dikatakan kepada mereka, \"Marilah (beriman), agar Rasulullah memohonkan ampunan bagimu,\" mereka membuang muka dan engkau lihat mereka berpaling dengan menyombongkan diri."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5194,
+      "verse_number": 6,
+      "verse_key": "63:6",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَوَآءٌ عَلَيْهِمْ أَسْتَغْفَرْتَ لَهُمْ أَمْ لَمْ تَسْتَغْفِرْ لَهُمْ لَن يَغْفِرَ ٱللَّهُ لَهُمْ ۚ إِنَّ ٱللَّهَ لَا يَهْدِى ٱلْقَوْمَ ٱلْفَـٰسِقِينَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179946,
+          "resource_id": 33,
+          "text": "Sama saja bagi mereka, engkau (Muhammad) mohonkan ampunan untuk mereka atau tidak engkau mohonkan ampunan bagi mereka, Allah tidak akan mengampuni mereka; sesungguhnya Allah tidak akan memberi petunjuk kepada orang-orang yang fasik."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5195,
+      "verse_number": 7,
+      "verse_key": "63:7",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هُمُ ٱلَّذِينَ يَقُولُونَ لَا تُنفِقُوا۟ عَلَىٰ مَنْ عِندَ رَسُولِ ٱللَّهِ حَتَّىٰ يَنفَضُّوا۟ ۗ وَلِلَّهِ خَزَآئِنُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَفْقَهُونَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179918,
+          "resource_id": 33,
+          "text": "Mereka yang berkata (kepada orang-orang Ansar), \"Janganlah kamu bersedekah kepada orang-orang (Muhajirin) yang ada di sisi Rasulullah sampai mereka bubar (meninggalkan Rasulullah).\" Padahal milik Allah lah perbendaharaan langit dan bumi, tetapi orang-orang munafik itu tidak memahami."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5196,
+      "verse_number": 8,
+      "verse_key": "63:8",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 490,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَقُولُونَ لَئِن رَّجَعْنَآ إِلَى ٱلْمَدِينَةِ لَيُخْرِجَنَّ ٱلْأَعَزُّ مِنْهَا ٱلْأَذَلَّ ۚ وَلِلَّهِ ٱلْعِزَّةُ وَلِرَسُولِهِۦ وَلِلْمُؤْمِنِينَ وَلَـٰكِنَّ ٱلْمُنَـٰفِقِينَ لَا يَعْلَمُونَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179950,
+          "resource_id": 33,
+          "text": "Mereka berkata, \"Sungguh, jika kita kembali ke Madinah (kembali dari perang Bani Mustalik), pastilah orang yang kuat akan mengusir orang-orang yang lemah dari sana.\" Padahal kekuatan itu hanyalah bagi Allah, Rasul-Nya dan bagi orang-orang mukmin, tetapi orang-orang munafik itu tidak mengetahui."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5197,
+      "verse_number": 9,
+      "verse_key": "63:9",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 491,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ لَا تُلْهِكُمْ أَمْوَٰلُكُمْ وَلَآ أَوْلَـٰدُكُمْ عَن ذِكْرِ ٱللَّهِ ۚ وَمَن يَفْعَلْ ذَٰلِكَ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْخَـٰسِرُونَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179952,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Janganlah harta bendamu dan anak-anakmu melalaikan kamu dari mengingat Allah. Dan barangsiapa berbuat demikian, maka mereka itulah orang-orang yang rugi."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5198,
+      "verse_number": 10,
+      "verse_key": "63:10",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 491,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَنفِقُوا۟ مِن مَّا رَزَقْنَـٰكُم مِّن قَبْلِ أَن يَأْتِىَ أَحَدَكُمُ ٱلْمَوْتُ فَيَقُولَ رَبِّ لَوْلَآ أَخَّرْتَنِىٓ إِلَىٰٓ أَجَلٍ قَرِيبٍ فَأَصَّدَّقَ وَأَكُن مِّنَ ٱلصَّـٰلِحِينَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179936,
+          "resource_id": 33,
+          "text": "Dan infakkanlah sebagian dari apa yang telah Kami berikan kepadamu sebelum kematian datang kepada salah seorang di antara kamu; lalu dia berkata (menyesali), \"Ya Tuhanku, sekiranya Engkau berkenan menunda (kematian)ku sedikit waktu lagi, maka aku dapat bersedekah dan aku akan termasuk orang-orang yang saleh.\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5199,
+      "verse_number": 11,
+      "verse_key": "63:11",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 222,
+      "ruku_number": 491,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَن يُؤَخِّرَ ٱللَّهُ نَفْسًا إِذَا جَآءَ أَجَلُهَا ۚ وَٱللَّهُ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "page_number": 555,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179937,
+          "resource_id": 33,
+          "text": "Dan Allah tidak akan menunda (kematian) seseorang apabila waktu kematiannya telah datang. Dan Allah Mahateliti terhadap apa yang kamu kerjakan."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

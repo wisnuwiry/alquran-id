@@ -1,0 +1,486 @@
+{
+  "id": 85,
+  "revelation_place": "makkah",
+  "revelation_order": 27,
+  "bismillah_pre": true,
+  "name_simple": "Al-Buruj",
+  "name_complex": "Al-Burūj",
+  "name_arabic": "البروج",
+  "verses_count": 22,
+  "pages": [
+    590,
+    590
+  ],
+  "slug": {
+    "slug": "al-buruj",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Gugusan Bintang"
+  },
+  "verses": [
+    {
+      "id": 5910,
+      "verse_number": 1,
+      "verse_key": "85:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلسَّمَآءِ ذَاتِ ٱلْبُرُوجِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180955,
+          "resource_id": 33,
+          "text": "Demi langit yang mempunyai gugusan bintang,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5911,
+      "verse_number": 2,
+      "verse_key": "85:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلْيَوْمِ ٱلْمَوْعُودِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177492,
+          "resource_id": 33,
+          "text": "dan demi hari yang dijanjikan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5912,
+      "verse_number": 3,
+      "verse_key": "85:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَشَاهِدٍ وَمَشْهُودٍ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180969,
+          "resource_id": 33,
+          "text": "Demi yang menyaksikan dan yang disaksikan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5913,
+      "verse_number": 4,
+      "verse_key": "85:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قُتِلَ أَصْحَـٰبُ ٱلْأُخْدُودِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180970,
+          "resource_id": 33,
+          "text": "Binasalah orang-orang yang membuat parit (yaitu para pembesar Najran di Yaman),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5914,
+      "verse_number": 5,
+      "verse_key": "85:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلنَّارِ ذَاتِ ٱلْوَقُودِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180974,
+          "resource_id": 33,
+          "text": "yang berapi (yang mempunyai) kayu bakar,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5915,
+      "verse_number": 6,
+      "verse_key": "85:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِذْ هُمْ عَلَيْهَا قُعُودٌ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180983,
+          "resource_id": 33,
+          "text": "ketika mereka duduk di sekitarnya,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5916,
+      "verse_number": 7,
+      "verse_key": "85:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُمْ عَلَىٰ مَا يَفْعَلُونَ بِٱلْمُؤْمِنِينَ شُهُودٌ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180976,
+          "resource_id": 33,
+          "text": "sedang mereka menyaksikan apa yang mereka perbuat terhadap orang-orang mukmin."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5917,
+      "verse_number": 8,
+      "verse_key": "85:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا نَقَمُوا۟ مِنْهُمْ إِلَّآ أَن يُؤْمِنُوا۟ بِٱللَّهِ ٱلْعَزِيزِ ٱلْحَمِيدِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180978,
+          "resource_id": 33,
+          "text": "Dan mereka menyiksa orang-orang mukmin itu hanya karena (orang-orang mukmin itu) beriman kepada Allah Yang Mahaperkasa, Maha Terpuji,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5918,
+      "verse_number": 9,
+      "verse_key": "85:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى لَهُۥ مُلْكُ ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ شَهِيدٌ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180980,
+          "resource_id": 33,
+          "text": "yang memiliki kerajaan langit dan bumi. Dan Allah Maha Menyaksikan segala sesuatu."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5919,
+      "verse_number": 10,
+      "verse_key": "85:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ فَتَنُوا۟ ٱلْمُؤْمِنِينَ وَٱلْمُؤْمِنَـٰتِ ثُمَّ لَمْ يَتُوبُوا۟ فَلَهُمْ عَذَابُ جَهَنَّمَ وَلَهُمْ عَذَابُ ٱلْحَرِيقِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180956,
+          "resource_id": 33,
+          "text": "Sungguh, orang-orang yang mendatangkan cobaan (bencana, membunuh, menyiksa) kepada orang-orang mukmin laki-laki dan perempuan lalu mereka tidak bertobat, maka mereka akan mendapat azab Jahanam dan mereka akan mendapat azab (neraka) yang membakar."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5920,
+      "verse_number": 11,
+      "verse_key": "85:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ لَهُمْ جَنَّـٰتٌ تَجْرِى مِن تَحْتِهَا ٱلْأَنْهَـٰرُ ۚ ذَٰلِكَ ٱلْفَوْزُ ٱلْكَبِيرُ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180957,
+          "resource_id": 33,
+          "text": "Sungguh, orang-orang yang beriman dan mengerjakan kebajikan, mereka akan mendapat surga yang mengalir di bawahnya sungai-sungai, itulah kemenangan yang agung."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5921,
+      "verse_number": 12,
+      "verse_key": "85:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ بَطْشَ رَبِّكَ لَشَدِيدٌ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180958,
+          "resource_id": 33,
+          "text": "Sungguh, azab Tuhanmu sangat keras."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5922,
+      "verse_number": 13,
+      "verse_key": "85:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ هُوَ يُبْدِئُ وَيُعِيدُ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180965,
+          "resource_id": 33,
+          "text": "Sungguh, Dialah yang memulai penciptaan (makhluk) dan yang menghidupkannya (kembali)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5923,
+      "verse_number": 14,
+      "verse_key": "85:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَهُوَ ٱلْغَفُورُ ٱلْوَدُودُ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180959,
+          "resource_id": 33,
+          "text": "Dan Dialah Yang Maha Pengampun, Maha Pengasih,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5924,
+      "verse_number": 15,
+      "verse_key": "85:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذُو ٱلْعَرْشِ ٱلْمَجِيدُ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180960,
+          "resource_id": 33,
+          "text": "Yang memiliki Arasy, lagi Mahamulia,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5925,
+      "verse_number": 16,
+      "verse_key": "85:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَعَّالٌ لِّمَا يُرِيدُ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180961,
+          "resource_id": 33,
+          "text": "Mahakuasa berbuat apa yang Dia kehendaki."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5926,
+      "verse_number": 17,
+      "verse_key": "85:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هَلْ أَتَىٰكَ حَدِيثُ ٱلْجُنُودِ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180962,
+          "resource_id": 33,
+          "text": "Sudahkah sampai kepadamu berita tentang bala tentara (penentang),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5927,
+      "verse_number": 18,
+      "verse_key": "85:18",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِرْعَوْنَ وَثَمُودَ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180963,
+          "resource_id": 33,
+          "text": "(yaitu) Fir'aun dan Samud?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5928,
+      "verse_number": 19,
+      "verse_key": "85:19",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَلِ ٱلَّذِينَ كَفَرُوا۟ فِى تَكْذِيبٍ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180964,
+          "resource_id": 33,
+          "text": "Memang orang-orang kafir (selalu) mendustakan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5929,
+      "verse_number": 20,
+      "verse_key": "85:20",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱللَّهُ مِن وَرَآئِهِم مُّحِيطٌۢ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180972,
+          "resource_id": 33,
+          "text": "padahal Allah mengepung dari belakang mereka (sehingga tidak dapat lolos)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5930,
+      "verse_number": 21,
+      "verse_key": "85:21",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بَلْ هُوَ قُرْءَانٌ مَّجِيدٌ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 178626,
+          "resource_id": 33,
+          "text": "Bahkan (yang didustakan itu) ialah Alquran yang mulia,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5931,
+      "verse_number": 22,
+      "verse_key": "85:22",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 236,
+      "ruku_number": 529,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فِى لَوْحٍ مَّحْفُوظٍۭ",
+      "page_number": 590,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180967,
+          "resource_id": 33,
+          "text": "yang (tersimpan) dalam (tempat) yang terjaga (Lauḥ Maḥfūẓ)."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

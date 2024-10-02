@@ -1,0 +1,642 @@
+{
+  "id": 81,
+  "revelation_place": "makkah",
+  "revelation_order": 7,
+  "bismillah_pre": true,
+  "name_simple": "At-Takwir",
+  "name_complex": "At-Takwīr",
+  "name_arabic": "التكوير",
+  "verses_count": 29,
+  "pages": [
+    586,
+    586
+  ],
+  "slug": {
+    "slug": "at-takwir",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Menggulung"
+  },
+  "verses": [
+    {
+      "id": 5801,
+      "verse_number": 1,
+      "verse_key": "81:1",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " إِذَا ٱلشَّمْسُ كُوِّرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180874,
+          "resource_id": 33,
+          "text": "Apabila matahari digulung,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5802,
+      "verse_number": 2,
+      "verse_key": "81:2",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180814,
+          "resource_id": 33,
+          "text": "dan apabila bintang-bintang berjatuhan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5803,
+      "verse_number": 3,
+      "verse_key": "81:3",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْجِبَالُ سُيِّرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180827,
+          "resource_id": 33,
+          "text": "dan apabila gunung-gunung dihancurkan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5804,
+      "verse_number": 4,
+      "verse_key": "81:4",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْعِشَارُ عُطِّلَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180829,
+          "resource_id": 33,
+          "text": "dan apabila unta-unta yang bunting ditinggalkan (tidak terurus),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5805,
+      "verse_number": 5,
+      "verse_key": "81:5",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْوُحُوشُ حُشِرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180831,
+          "resource_id": 33,
+          "text": "dan apabila binatang-binatang liar dikumpulkan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5806,
+      "verse_number": 6,
+      "verse_key": "81:6",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْبِحَارُ سُجِّرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180833,
+          "resource_id": 33,
+          "text": "dan apabila lautan dipanaskan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5807,
+      "verse_number": 7,
+      "verse_key": "81:7",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلنُّفُوسُ زُوِّجَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180835,
+          "resource_id": 33,
+          "text": "dan apabila roh-roh dipertemukan (dengan tubuh),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5808,
+      "verse_number": 8,
+      "verse_key": "81:8",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْمَوْءُۥدَةُ سُئِلَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180837,
+          "resource_id": 33,
+          "text": "dan apabila bayi-bayi perempuan yang dikubur hidup-hidup ditanya,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5809,
+      "verse_number": 9,
+      "verse_key": "81:9",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "بِأَىِّ ذَنۢبٍ قُتِلَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180840,
+          "resource_id": 33,
+          "text": "karena dosa apa dia dibunuh?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5810,
+      "verse_number": 10,
+      "verse_key": "81:10",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلصُّحُفُ نُشِرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180857,
+          "resource_id": 33,
+          "text": "Dan apabila lembaran-lembaran (catatan amal) telah dibuka lebar-lebar,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5811,
+      "verse_number": 11,
+      "verse_key": "81:11",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلسَّمَآءُ كُشِطَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180825,
+          "resource_id": 33,
+          "text": "dan apabila langit dilenyapkan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5812,
+      "verse_number": 12,
+      "verse_key": "81:12",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْجَحِيمُ سُعِّرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180812,
+          "resource_id": 33,
+          "text": "dan apabila neraka Jahim dinyalakan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5813,
+      "verse_number": 13,
+      "verse_key": "81:13",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا ٱلْجَنَّةُ أُزْلِفَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180804,
+          "resource_id": 33,
+          "text": "dan apabila surga didekatkan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5814,
+      "verse_number": 14,
+      "verse_key": "81:14",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلِمَتْ نَفْسٌ مَّآ أَحْضَرَتْ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180805,
+          "resource_id": 33,
+          "text": "setiap jiwa akan mengetahui apa yang telah dikerjakannya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5815,
+      "verse_number": 15,
+      "verse_key": "81:15",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلَآ أُقْسِمُ بِٱلْخُنَّسِ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180806,
+          "resource_id": 33,
+          "text": "Aku bersumpah demi bintang-bintang,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5816,
+      "verse_number": 16,
+      "verse_key": "81:16",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلْجَوَارِ ٱلْكُنَّسِ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180807,
+          "resource_id": 33,
+          "text": "yang beredar dan terbenam,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5817,
+      "verse_number": 17,
+      "verse_key": "81:17",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّيْلِ إِذَا عَسْعَسَ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180808,
+          "resource_id": 33,
+          "text": "demi malam apabila telah larut,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5818,
+      "verse_number": 18,
+      "verse_key": "81:18",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلصُّبْحِ إِذَا تَنَفَّسَ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180809,
+          "resource_id": 33,
+          "text": "dan demi subuh apabila telah menyinsing,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5819,
+      "verse_number": 19,
+      "verse_key": "81:19",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّهُۥ لَقَوْلُ رَسُولٍ كَرِيمٍ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180810,
+          "resource_id": 33,
+          "text": "sesungguhnya (Alquran) itu benar-benar firman (Allah yang dibawa oleh) utusan yang mulia (Jibril),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5820,
+      "verse_number": 20,
+      "verse_key": "81:20",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذِى قُوَّةٍ عِندَ ذِى ٱلْعَرْشِ مَكِينٍ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180813,
+          "resource_id": 33,
+          "text": "yang memiliki kekuatan, memiliki kedudukan tinggi di sisi (Allah) yang memiliki Arasy,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5821,
+      "verse_number": 21,
+      "verse_key": "81:21",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مُّطَاعٍ ثَمَّ أَمِينٍ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180815,
+          "resource_id": 33,
+          "text": "yang di sana (di alam malaikat) ditaati dan dipercaya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5822,
+      "verse_number": 22,
+      "verse_key": "81:22",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا صَاحِبُكُم بِمَجْنُونٍ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180816,
+          "resource_id": 33,
+          "text": "Dan temanmu (Muhammad) itu bukanlah orang gila."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5823,
+      "verse_number": 23,
+      "verse_key": "81:23",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَقَدْ رَءَاهُ بِٱلْأُفُقِ ٱلْمُبِينِ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180817,
+          "resource_id": 33,
+          "text": "Dan sungguh, dia (Muhammad) telah melihatnya (Jibril) di ufuk yang terang."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5824,
+      "verse_number": 24,
+      "verse_key": "81:24",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا هُوَ عَلَى ٱلْغَيْبِ بِضَنِينٍ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180818,
+          "resource_id": 33,
+          "text": "Dan Dia (Muhammad) bukanlah seorang yang kikir (enggan) untuk menerangkan yang gaib."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5825,
+      "verse_number": 25,
+      "verse_key": "81:25",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا هُوَ بِقَوْلِ شَيْطَـٰنٍ رَّجِيمٍ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180819,
+          "resource_id": 33,
+          "text": "Dan (Alquran) itu bukanlah perkataan setan yang terkutuk,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5826,
+      "verse_number": 26,
+      "verse_key": "81:26",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَيْنَ تَذْهَبُونَ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180823,
+          "resource_id": 33,
+          "text": "maka ke manakah kamu akan pergi?<sup foot_note=135850>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135850,
+            "text": "* Setelah diterangkan bahwa Alquran itu benar-benar datang dari Allah dan didalamnya ada pelajaran dan petunjuk yang memimpin manusia ke jalan yang lurus, ditanyakanlah kepada orang-orang kafir itu, \"Jalan manakah yang akan kamu tempuh lagi?\"",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 5827,
+      "verse_number": 27,
+      "verse_key": "81:27",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنْ هُوَ إِلَّا ذِكْرٌ لِّلْعَـٰلَمِينَ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180820,
+          "resource_id": 33,
+          "text": "(Alquran) itu tidak lain adalah peringatan bagi seluruh alam,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5828,
+      "verse_number": 28,
+      "verse_key": "81:28",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لِمَن شَآءَ مِنكُمْ أَن يَسْتَقِيمَ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180821,
+          "resource_id": 33,
+          "text": "(yaitu) bagi siapa di antara kamu yang menghendaki menempuh jalan yang lurus."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5829,
+      "verse_number": 29,
+      "verse_key": "81:29",
+      "hizb_number": 59,
+      "rub_el_hizb_number": 234,
+      "ruku_number": 525,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّ ٱلْعَـٰلَمِينَ",
+      "page_number": 586,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 180822,
+          "resource_id": 33,
+          "text": "Dan kamu tidak dapat menghendaki (menempuh jalan itu) kecuali apabila dikehendaki Allah, Tuhan seluruh alam."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

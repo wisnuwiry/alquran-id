@@ -1,0 +1,87 @@
+{
+  "id": 103,
+  "revelation_place": "makkah",
+  "revelation_order": 13,
+  "bismillah_pre": true,
+  "name_simple": "Al-'Asr",
+  "name_complex": "Al-`Aşr",
+  "name_arabic": "العصر",
+  "verses_count": 3,
+  "pages": [
+    601,
+    601
+  ],
+  "slug": {
+    "slug": "al-asr",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Waktu Sore"
+  },
+  "verses": [
+    {
+      "id": 6177,
+      "verse_number": 1,
+      "verse_key": "103:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلْعَصْرِ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177413,
+          "resource_id": 33,
+          "text": "Demi masa."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6178,
+      "verse_number": 2,
+      "verse_key": "103:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ ٱلْإِنسَـٰنَ لَفِى خُسْرٍ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181335,
+          "resource_id": 33,
+          "text": "Sungguh, manusia berada dalam kerugian,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6179,
+      "verse_number": 3,
+      "verse_key": "103:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا ٱلَّذِينَ ءَامَنُوا۟ وَعَمِلُوا۟ ٱلصَّـٰلِحَـٰتِ وَتَوَاصَوْا۟ بِٱلْحَقِّ وَتَوَاصَوْا۟ بِٱلصَّبْرِ",
+      "page_number": 601,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181346,
+          "resource_id": 33,
+          "text": "kecuali orang-orang yang beriman dan mengerjakan kebajikan serta saling menasihati untuk kebenaran dan saling menasihati untuk kesabaran."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

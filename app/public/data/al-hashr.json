@@ -1,0 +1,555 @@
+{
+  "id": 59,
+  "revelation_place": "madinah",
+  "revelation_order": 101,
+  "bismillah_pre": true,
+  "name_simple": "Al-Hashr",
+  "name_complex": "Al-Ĥashr",
+  "name_arabic": "الحشر",
+  "verses_count": 24,
+  "pages": [
+    545,
+    548
+  ],
+  "slug": {
+    "slug": "al-hashr",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Pengusiran"
+  },
+  "verses": [
+    {
+      "id": 5127,
+      "verse_number": 1,
+      "verse_key": "59:1",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 218,
+      "ruku_number": 481,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " سَبَّحَ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "page_number": 545,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179769,
+          "resource_id": 33,
+          "text": "Apa yang ada di langit dan apa yang ada di bumi bertasbih kepada Allah; dan Dialah Yang Mahaperkasa, Mahabijaksana."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5128,
+      "verse_number": 2,
+      "verse_key": "59:2",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 218,
+      "ruku_number": 481,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِىٓ أَخْرَجَ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ مِن دِيَـٰرِهِمْ لِأَوَّلِ ٱلْحَشْرِ ۚ مَا ظَنَنتُمْ أَن يَخْرُجُوا۟ ۖ وَظَنُّوٓا۟ أَنَّهُم مَّانِعَتُهُمْ حُصُونُهُم مِّنَ ٱللَّهِ فَأَتَىٰهُمُ ٱللَّهُ مِنْ حَيْثُ لَمْ يَحْتَسِبُوا۟ ۖ وَقَذَفَ فِى قُلُوبِهِمُ ٱلرُّعْبَ ۚ يُخْرِبُونَ بُيُوتَهُم بِأَيْدِيهِمْ وَأَيْدِى ٱلْمُؤْمِنِينَ فَٱعْتَبِرُوا۟ يَـٰٓأُو۟لِى ٱلْأَبْصَـٰرِ",
+      "page_number": 545,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179781,
+          "resource_id": 33,
+          "text": "Dialah yang mengeluarkan orang-orang kafir di antara Ahli Kitab dari kampung halamannya pada saat pengusiran yang pertama.<sup foot_note=135786>1</sup> Kamu tidak menyangka, bahwa mereka akan keluar dan mereka pun yakin, benteng-benteng mereka akan dapat mempertahankan mereka dari (siksaan) Allah; maka Allah mendatangkan (siksaan) kepada mereka dari arah yang tidak mereka sangka-sangka. Dan Allah menanamkan rasa takut ke dalam hati mereka; sehingga mereka memusnahkan rumah-rumah mereka dengan tangannya sendiri dan tangan orang-orang mukmin. Maka ambillah (kejadian itu) untuk menjadi pelajaran, wahai orang-orang yang mempunyai pandangan!"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135786,
+            "text": "* Orang-orang Yahudi Bani Nadir, merekalah yang mula-mula dikumpulkan untuk diusir keluar dari kota Madinah.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 5129,
+      "verse_number": 3,
+      "verse_key": "59:3",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 218,
+      "ruku_number": 481,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَوْلَآ أَن كَتَبَ ٱللَّهُ عَلَيْهِمُ ٱلْجَلَآءَ لَعَذَّبَهُمْ فِى ٱلدُّنْيَا ۖ وَلَهُمْ فِى ٱلْـَٔاخِرَةِ عَذَابُ ٱلنَّارِ",
+      "page_number": 545,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179790,
+          "resource_id": 33,
+          "text": "Dan sekiranya tidak karena Allah telah menetapkan pengusiran terhadap mereka, pasti Allah mengazab mereka di dunia. Dan di akhirat mereka akan mendapat azab neraka."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5130,
+      "verse_number": 4,
+      "verse_key": "59:4",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 218,
+      "ruku_number": 481,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ بِأَنَّهُمْ شَآقُّوا۟ ٱللَّهَ وَرَسُولَهُۥ ۖ وَمَن يُشَآقِّ ٱللَّهَ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "page_number": 546,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179762,
+          "resource_id": 33,
+          "text": "Yang demikian itu karena sesungguhnya mereka menentang Allah dan Rasul-Nya. Barangsiapa menentang Allah, maka sesungguhnya Allah sangat keras hukuman-Nya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5131,
+      "verse_number": 5,
+      "verse_key": "59:5",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 218,
+      "ruku_number": 481,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَا قَطَعْتُم مِّن لِّينَةٍ أَوْ تَرَكْتُمُوهَا قَآئِمَةً عَلَىٰٓ أُصُولِهَا فَبِإِذْنِ ٱللَّهِ وَلِيُخْزِىَ ٱلْفَـٰسِقِينَ",
+      "page_number": 546,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179793,
+          "resource_id": 33,
+          "text": "Apa yang kamu tebang di antara pohon kurma (milik orang-orang kafir) atau yang kamu biarkan (tumbuh) berdiri di atas pokoknya, maka (itu terjadi) dengan izin Allah; dan karena Dia hendak memberikan kehinaan kepada orang-orang fasik."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5132,
+      "verse_number": 6,
+      "verse_key": "59:6",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 218,
+      "ruku_number": 481,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْهُمْ فَمَآ أَوْجَفْتُمْ عَلَيْهِ مِنْ خَيْلٍ وَلَا رِكَابٍ وَلَـٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُ ۚ وَٱللَّهُ عَلَىٰ كُلِّ شَىْءٍ قَدِيرٌ",
+      "page_number": 546,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179796,
+          "resource_id": 33,
+          "text": "Dan harta rampasan fai`<sup foot_note=135787>1</sup> dari mereka yang diberikan Allah kepada Rasul-Nya, kamu tidak memerlukan kuda atau unta untuk mendapatkannya, tetapi Allah memberikan kekuasaan kepada rasul-rasul-Nya terhadap siapa yang Dia kehendaki. Dan Allah Mahakuasa atas segala sesuatu."
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135787,
+            "text": "* Harta rampasan yang diperoleh dari musuh tanpa terjadinya pertempuran. Pembagiannya berlainan dengan pembagian ganimah. Ganimah ialah harta rampasan yang diperoleh dari musuh setelah terjadi pertempuran. Pembagian Fai` seperti yang tersebut pada ayat <a href=\"/59:7\">7</a>. Sedang pembagian ganimah tersebut pada ayat <a href=\"/8:41\">41</a> surah Al-Anfal.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 5133,
+      "verse_number": 7,
+      "verse_key": "59:7",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 218,
+      "ruku_number": 481,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنْ أَهْلِ ٱلْقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِى ٱلْقُرْبَىٰ وَٱلْيَتَـٰمَىٰ وَٱلْمَسَـٰكِينِ وَٱبْنِ ٱلسَّبِيلِ كَىْ لَا يَكُونَ دُولَةًۢ بَيْنَ ٱلْأَغْنِيَآءِ مِنكُمْ ۚ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمْ عَنْهُ فَٱنتَهُوا۟ ۚ وَٱتَّقُوا۟ ٱللَّهَ ۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلْعِقَابِ",
+      "page_number": 546,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179798,
+          "resource_id": 33,
+          "text": "Harta rampasan fai` yang diberikan Allah kepada Rasul-Nya (yang berasal) dari penduduk beberapa negeri, adalah untuk Allah, Rasul, kerabat (Rasul), anak-anak yatim, orang-orang miskin dan untuk orang-orang yang dalam perjalanan, agar harta itu jangan hanya beredar di antara orang-orang kaya saja di antara kamu. Apa yang diberikan Rasul kepadamu maka terimalah. Dan apa yang dilarangnya bagimu maka tinggalkanlah. Dan bertakwalah kepada Allah. Sungguh, Allah sangat keras hukuman-Nya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5134,
+      "verse_number": 8,
+      "verse_key": "59:8",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 218,
+      "ruku_number": 481,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لِلْفُقَرَآءِ ٱلْمُهَـٰجِرِينَ ٱلَّذِينَ أُخْرِجُوا۟ مِن دِيَـٰرِهِمْ وَأَمْوَٰلِهِمْ يَبْتَغُونَ فَضْلًا مِّنَ ٱللَّهِ وَرِضْوَٰنًا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلصَّـٰدِقُونَ",
+      "page_number": 546,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179801,
+          "resource_id": 33,
+          "text": "(Harta rampasan itu juga) untuk orang-orang fakir yang berhijrah<sup foot_note=135788>1</sup> yang terusir dari kampung halamannya dan meninggalkan harta bendanya demi mencari karunia dari Allah dan keridaan(-Nya) dan (demi) menolong (agama) Allah dan Rasul-Nya. Mereka itulah orang-orang yang benar."
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135788,
+            "text": "* Kerabat Nabi, anak-anak yatim, orang-orang miskin, dan orang yang dalam perjalanan yang kesemuanya orang fakir dan berhijrah.",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 5135,
+      "verse_number": 9,
+      "verse_key": "59:9",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 218,
+      "ruku_number": 481,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلْإِيمَـٰنَ مِن قَبْلِهِمْ يُحِبُّونَ مَنْ هَاجَرَ إِلَيْهِمْ وَلَا يَجِدُونَ فِى صُدُورِهِمْ حَاجَةً مِّمَّآ أُوتُوا۟ وَيُؤْثِرُونَ عَلَىٰٓ أَنفُسِهِمْ وَلَوْ كَانَ بِهِمْ خَصَاصَةٌ ۚ وَمَن يُوقَ شُحَّ نَفْسِهِۦ فَأُو۟لَـٰٓئِكَ هُمُ ٱلْمُفْلِحُونَ",
+      "page_number": 546,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179802,
+          "resource_id": 33,
+          "text": "Dan orang-orang (Ansar) yang telah menempati kota Madinah dan telah beriman sebelum (kedatangan) mereka (Muhajirin), mereka mencintai orang yang berhijrah ke tempat mereka. Dan mereka tidak menaruh keinginan dalam hati mereka terhadap apa yang diberikan kepada mereka (Muhajirin); dan mereka mengutamakan (Muhajirin), atas dirinya sendiri, meskipun mereka juga memerlukan. Dan siapa yang dijaga dirinya dari kekikiran, maka mereka itulah orang-orang yang beruntung."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5136,
+      "verse_number": 10,
+      "verse_key": "59:10",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 218,
+      "ruku_number": 481,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلَّذِينَ جَآءُو مِنۢ بَعْدِهِمْ يَقُولُونَ رَبَّنَا ٱغْفِرْ لَنَا وَلِإِخْوَٰنِنَا ٱلَّذِينَ سَبَقُونَا بِٱلْإِيمَـٰنِ وَلَا تَجْعَلْ فِى قُلُوبِنَا غِلًّا لِّلَّذِينَ ءَامَنُوا۟ رَبَّنَآ إِنَّكَ رَءُوفٌ رَّحِيمٌ",
+      "page_number": 547,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179770,
+          "resource_id": 33,
+          "text": "Dan orang-orang yang datang sesudah mereka (Muhajirin dan Ansar), mereka berdoa, \"Ya Tuhan kami, ampunilah kami dan saudara-saudara kami yang telah beriman lebih dahulu dari kami, dan janganlah Engkau tanamkan kedengkian dalam hati kami terhadap orang-orang yang beriman. Ya Tuhan kami, sungguh, Engkau Maha Penyantun, Maha Penyayang.\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5137,
+      "verse_number": 11,
+      "verse_key": "59:11",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 482,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "۞ أَلَمْ تَرَ إِلَى ٱلَّذِينَ نَافَقُوا۟ يَقُولُونَ لِإِخْوَٰنِهِمُ ٱلَّذِينَ كَفَرُوا۟ مِنْ أَهْلِ ٱلْكِتَـٰبِ لَئِنْ أُخْرِجْتُمْ لَنَخْرُجَنَّ مَعَكُمْ وَلَا نُطِيعُ فِيكُمْ أَحَدًا أَبَدًا وَإِن قُوتِلْتُمْ لَنَنصُرَنَّكُمْ وَٱللَّهُ يَشْهَدُ إِنَّهُمْ لَكَـٰذِبُونَ",
+      "page_number": 547,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179771,
+          "resource_id": 33,
+          "text": "Tidakkah engkau memperhatikan orang-orang munafik yang berkata kepada saudara-saudaranya yang kafir di antara Ahli Kitab, \"Sungguh, jika kamu diusir niscaya kami pun akan keluar bersama kamu; dan kami selama-lamanya tidak akan patuh kepada siapa pun demi kamu, dan jika kamu diperangi pasti kami akan membantumu.\" Dan Allah menyaksikan, bahwa mereka benar-benar pendusta."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5138,
+      "verse_number": 12,
+      "verse_key": "59:12",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 482,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَئِنْ أُخْرِجُوا۟ لَا يَخْرُجُونَ مَعَهُمْ وَلَئِن قُوتِلُوا۟ لَا يَنصُرُونَهُمْ وَلَئِن نَّصَرُوهُمْ لَيُوَلُّنَّ ٱلْأَدْبَـٰرَ ثُمَّ لَا يُنصَرُونَ",
+      "page_number": 547,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179772,
+          "resource_id": 33,
+          "text": "Sungguh, jika mereka diusir, orang-orang munafik itu tidak akan keluar bersama mereka, dan jika mereka diperangi; mereka (juga) tidak akan menolongnya; dan kalau pun mereka menolongnya pastilah mereka akan berpaling lari ke belakang, kemudian mereka tidak akan mendapat pertolongan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5139,
+      "verse_number": 13,
+      "verse_key": "59:13",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 482,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَأَنتُمْ أَشَدُّ رَهْبَةً فِى صُدُورِهِم مِّنَ ٱللَّهِ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَفْقَهُونَ",
+      "page_number": 547,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179773,
+          "resource_id": 33,
+          "text": "Sesungguhnya dalam hati mereka, kamu (muslimin) lebih ditakuti daripada Allah. Yang demikian itu karena mereka orang-orang yang tidak mengerti."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5140,
+      "verse_number": 14,
+      "verse_key": "59:14",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 482,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَا يُقَـٰتِلُونَكُمْ جَمِيعًا إِلَّا فِى قُرًى مُّحَصَّنَةٍ أَوْ مِن وَرَآءِ جُدُرٍۭ ۚ بَأْسُهُم بَيْنَهُمْ شَدِيدٌ ۚ تَحْسَبُهُمْ جَمِيعًا وَقُلُوبُهُمْ شَتَّىٰ ۚ ذَٰلِكَ بِأَنَّهُمْ قَوْمٌ لَّا يَعْقِلُونَ",
+      "page_number": 547,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179774,
+          "resource_id": 33,
+          "text": "Mereka tidak akan memerangi kamu (secara) bersama-sama, kecuali di negeri-negeri yang berbenteng atau di balik tembok. Permusuhan antara sesama mereka sangat hebat. Kamu kira mereka itu bersatu padahal hati mereka terpecah belah. Yang demikian itu karena mereka orang-orang yang tidak mengerti."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5141,
+      "verse_number": 15,
+      "verse_key": "59:15",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 482,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَمَثَلِ ٱلَّذِينَ مِن قَبْلِهِمْ قَرِيبًا ۖ ذَاقُوا۟ وَبَالَ أَمْرِهِمْ وَلَهُمْ عَذَابٌ أَلِيمٌ",
+      "page_number": 547,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179775,
+          "resource_id": 33,
+          "text": "(Mereka) seperti orang-orang yang sebelum mereka (Yahudi) belum lama berselang, telah merasakan akibat buruk (terusir) disebabkan perbuatan mereka sendiri. Dan mereka akan mendapat azab yang pedih."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5142,
+      "verse_number": 16,
+      "verse_key": "59:16",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 482,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَمَثَلِ ٱلشَّيْطَـٰنِ إِذْ قَالَ لِلْإِنسَـٰنِ ٱكْفُرْ فَلَمَّا كَفَرَ قَالَ إِنِّى بَرِىٓءٌ مِّنكَ إِنِّىٓ أَخَافُ ٱللَّهَ رَبَّ ٱلْعَـٰلَمِينَ",
+      "page_number": 547,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179777,
+          "resource_id": 33,
+          "text": "(Bujukan orang-orang munafik itu) seperti (bujukan) setan ketika ia berkata kepada manusia, \"Kafirlah kamu!\" Kemudian setelah manusia itu menjadi kafir ia berkata, \"Sesungguhnya aku berlepas diri dari kamu, karena sesungguhnya aku takut kepada Allah, Tuhan seluruh alam.\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5143,
+      "verse_number": 17,
+      "verse_key": "59:17",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 482,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَكَانَ عَـٰقِبَتَهُمَآ أَنَّهُمَا فِى ٱلنَّارِ خَـٰلِدَيْنِ فِيهَا ۚ وَذَٰلِكَ جَزَٰٓؤُا۟ ٱلظَّـٰلِمِينَ",
+      "page_number": 548,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179778,
+          "resource_id": 33,
+          "text": "Maka kesudahan bagi keduanya, bahwa keduanya masuk ke dalam neraka, kekal di dalamnya. Demikianlah balasan bagi orang-orang zalim."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5144,
+      "verse_number": 18,
+      "verse_key": "59:18",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 483,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوا۟ ٱتَّقُوا۟ ٱللَّهَ وَلْتَنظُرْ نَفْسٌ مَّا قَدَّمَتْ لِغَدٍ ۖ وَٱتَّقُوا۟ ٱللَّهَ ۚ إِنَّ ٱللَّهَ خَبِيرٌۢ بِمَا تَعْمَلُونَ",
+      "page_number": 548,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179779,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Bertakwalah kepada Allah dan hendaklah setiap orang memperhatikan apa yang telah diperbuatnya untuk hari esok (akhirat), dan bertakwalah kepada Allah. Sungguh, Allah Mahateliti terhadap apa yang kamu kerjakan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5145,
+      "verse_number": 19,
+      "verse_key": "59:19",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 483,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا تَكُونُوا۟ كَٱلَّذِينَ نَسُوا۟ ٱللَّهَ فَأَنسَىٰهُمْ أَنفُسَهُمْ ۚ أُو۟لَـٰٓئِكَ هُمُ ٱلْفَـٰسِقُونَ",
+      "page_number": 548,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179780,
+          "resource_id": 33,
+          "text": "Dan janganlah kamu seperti orang-orang yang lupa kepada Allah, sehingga Allah menjadikan mereka lupa akan diri sendiri. Mereka itulah orang-orang fasik."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5146,
+      "verse_number": 20,
+      "verse_key": "59:20",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 483,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَا يَسْتَوِىٓ أَصْحَـٰبُ ٱلنَّارِ وَأَصْحَـٰبُ ٱلْجَنَّةِ ۚ أَصْحَـٰبُ ٱلْجَنَّةِ هُمُ ٱلْفَآئِزُونَ",
+      "page_number": 548,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179784,
+          "resource_id": 33,
+          "text": "Tidak sama para penghuni neraka dengan para penghuni surga; para penghuni surga itulah orang-orang yang memperoleh kemenangan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5147,
+      "verse_number": 21,
+      "verse_key": "59:21",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 483,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَوْ أَنزَلْنَا هَـٰذَا ٱلْقُرْءَانَ عَلَىٰ جَبَلٍ لَّرَأَيْتَهُۥ خَـٰشِعًا مُّتَصَدِّعًا مِّنْ خَشْيَةِ ٱللَّهِ ۚ وَتِلْكَ ٱلْأَمْثَـٰلُ نَضْرِبُهَا لِلنَّاسِ لَعَلَّهُمْ يَتَفَكَّرُونَ",
+      "page_number": 548,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179783,
+          "resource_id": 33,
+          "text": "Sekiranya Kami turunkan Alquran ini kepada sebuah gunung, pasti kamu akan melihatnya tunduk terpecah belah disebabkan takut kepada Allah. Dan perumpamaan-perumpamaan itu Kami buat untuk manusia agar mereka berpikir."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5148,
+      "verse_number": 22,
+      "verse_key": "59:22",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 483,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ۖ عَـٰلِمُ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ ۖ هُوَ ٱلرَّحْمَـٰنُ ٱلرَّحِيمُ",
+      "page_number": 548,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179786,
+          "resource_id": 33,
+          "text": "Dialah Allah, tidak ada tuhan selain Dia. Mengetahui yang gaib dan yang nyata, Dialah Yang Maha Pengasih, Maha Penyayang."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5149,
+      "verse_number": 23,
+      "verse_key": "59:23",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 483,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱللَّهُ ٱلَّذِى لَآ إِلَـٰهَ إِلَّا هُوَ ٱلْمَلِكُ ٱلْقُدُّوسُ ٱلسَّلَـٰمُ ٱلْمُؤْمِنُ ٱلْمُهَيْمِنُ ٱلْعَزِيزُ ٱلْجَبَّارُ ٱلْمُتَكَبِّرُ ۚ سُبْحَـٰنَ ٱللَّهِ عَمَّا يُشْرِكُونَ",
+      "page_number": 548,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179785,
+          "resource_id": 33,
+          "text": "Dialah Allah, tidak ada tuhan selain Dia. Maha Raja Yang Mahasuci, Yang Mahasejahtera, Yang Menjaga Keamanan, Pemelihara Keselamatan, Yang Mahaperkasa, Yang Mahakuasa, Yang Memiliki Segala Keagungan. Mahasuci Allah dari apa yang mereka persekutukan."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5150,
+      "verse_number": 24,
+      "verse_key": "59:24",
+      "hizb_number": 55,
+      "rub_el_hizb_number": 219,
+      "ruku_number": 483,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱللَّهُ ٱلْخَـٰلِقُ ٱلْبَارِئُ ٱلْمُصَوِّرُ ۖ لَهُ ٱلْأَسْمَآءُ ٱلْحُسْنَىٰ ۚ يُسَبِّحُ لَهُۥ مَا فِى ٱلسَّمَـٰوَٰتِ وَٱلْأَرْضِ ۖ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "page_number": 548,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179788,
+          "resource_id": 33,
+          "text": "Dialah Allah Yang Menciptakan, Yang Mengadakan, Yang Membentuk Rupa, Dia memiliki nama-nama yang indah. Apa yang di langit dan di bumi bertasbih kepada-Nya. Dan Dialah Yang Mahaperkasa, Mahabijaksana."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

@@ -1,0 +1,129 @@
+{
+  "id": 113,
+  "revelation_place": "makkah",
+  "revelation_order": 20,
+  "bismillah_pre": true,
+  "name_simple": "Al-Falaq",
+  "name_complex": "Al-Falaq",
+  "name_arabic": "الفلق",
+  "verses_count": 5,
+  "pages": [
+    604,
+    604
+  ],
+  "slug": {
+    "slug": "al-falaq",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Waktu Shubuh"
+  },
+  "verses": [
+    {
+      "id": 6226,
+      "verse_number": 1,
+      "verse_key": "113:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181509,
+          "resource_id": 33,
+          "text": "Katakanlah, \"Aku berlindung kepada Tuhan yang menguasai subuh (fajar),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6227,
+      "verse_number": 2,
+      "verse_key": "113:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مِن شَرِّ مَا خَلَقَ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 177232,
+          "resource_id": 33,
+          "text": "dari kejahatan (makhluk yang) Dia ciptakan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6228,
+      "verse_number": 3,
+      "verse_key": "113:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181513,
+          "resource_id": 33,
+          "text": "dan dari kejahatan malam apabila telah gelap gulita,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6229,
+      "verse_number": 4,
+      "verse_key": "113:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ ٱلنَّفَّـٰثَـٰتِ فِى ٱلْعُقَدِ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181404,
+          "resource_id": 33,
+          "text": "dan dari kejahatan (perempuan-perempuan) penyihir yang meniup pada buhul-buhul (talinya),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6230,
+      "verse_number": 5,
+      "verse_key": "113:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+      "page_number": 604,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181504,
+          "resource_id": 33,
+          "text": "dan dari kejahatan orang yang dengki apabila dia dengki.\""
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

@@ -1,0 +1,465 @@
+{
+  "id": 92,
+  "revelation_place": "makkah",
+  "revelation_order": 9,
+  "bismillah_pre": true,
+  "name_simple": "Al-Layl",
+  "name_complex": "Al-Layl",
+  "name_arabic": "الليل",
+  "verses_count": 21,
+  "pages": [
+    595,
+    596
+  ],
+  "slug": {
+    "slug": "al-layl",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Malam"
+  },
+  "verses": [
+    {
+      "id": 6059,
+      "verse_number": 1,
+      "verse_key": "92:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " وَٱلَّيْلِ إِذَا يَغْشَىٰ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181156,
+          "resource_id": 33,
+          "text": "Demi malam apabila menutupi (cahaya siang),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6060,
+      "verse_number": 2,
+      "verse_key": "92:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181167,
+          "resource_id": 33,
+          "text": "demi siang bila terang benderang,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6061,
+      "verse_number": 3,
+      "verse_key": "92:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلْأُنثَىٰٓ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181173,
+          "resource_id": 33,
+          "text": "demi penciptaan laki-laki dan perempuan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6062,
+      "verse_number": 4,
+      "verse_key": "92:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ سَعْيَكُمْ لَشَتَّىٰ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181175,
+          "resource_id": 33,
+          "text": "sungguh, usahamu memang beraneka macam."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6063,
+      "verse_number": 5,
+      "verse_key": "92:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَمَّا مَنْ أَعْطَىٰ وَٱتَّقَىٰ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181177,
+          "resource_id": 33,
+          "text": "Maka barangsiapa memberikan (hartanya di jalan Allah) dan bertakwa,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6064,
+      "verse_number": 6,
+      "verse_key": "92:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَصَدَّقَ بِٱلْحُسْنَىٰ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181179,
+          "resource_id": 33,
+          "text": "dan membenarkan (adanya pahala) yang terbaik (surga),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6065,
+      "verse_number": 7,
+      "verse_key": "92:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَنُيَسِّرُهُۥ لِلْيُسْرَىٰ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181181,
+          "resource_id": 33,
+          "text": "maka akan Kami mudahkan baginya jalan menuju kemudahan (kebahagiaan)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6066,
+      "verse_number": 8,
+      "verse_key": "92:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَأَمَّا مَنۢ بَخِلَ وَٱسْتَغْنَىٰ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181183,
+          "resource_id": 33,
+          "text": "Dan adapun orang yang kikir dan merasa dirinya cukup (tidak perlu pertolongan Allah),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6067,
+      "verse_number": 9,
+      "verse_key": "92:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَكَذَّبَ بِٱلْحُسْنَىٰ",
+      "page_number": 595,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181185,
+          "resource_id": 33,
+          "text": "serta mendustakan (pahala) yang terbaik,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6068,
+      "verse_number": 10,
+      "verse_key": "92:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَسَنُيَسِّرُهُۥ لِلْعُسْرَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181171,
+          "resource_id": 33,
+          "text": "maka akan Kami mudahkan baginya jalan menuju kesukaran (kesengsaraan)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6069,
+      "verse_number": 11,
+      "verse_key": "92:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا يُغْنِى عَنْهُ مَالُهُۥٓ إِذَا تَرَدَّىٰٓ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181157,
+          "resource_id": 33,
+          "text": "Dan hartanya tidak bermanfaat baginya apabila dia telah binasa."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6070,
+      "verse_number": 12,
+      "verse_key": "92:12",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ عَلَيْنَا لَلْهُدَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181158,
+          "resource_id": 33,
+          "text": "Sesungguhnya Kami lah yang memberi petunjuk,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6071,
+      "verse_number": 13,
+      "verse_key": "92:13",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِنَّ لَنَا لَلْـَٔاخِرَةَ وَٱلْأُولَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181159,
+          "resource_id": 33,
+          "text": "dan sesungguhnya milik Kami lah akhirat dan dunia."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6072,
+      "verse_number": 14,
+      "verse_key": "92:14",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَأَنذَرْتُكُمْ نَارًا تَلَظَّىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181160,
+          "resource_id": 33,
+          "text": "Maka aku memperingatkan kamu dengan neraka yang menyala-nyala,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6073,
+      "verse_number": 15,
+      "verse_key": "92:15",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "لَا يَصْلَىٰهَآ إِلَّا ٱلْأَشْقَى",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181161,
+          "resource_id": 33,
+          "text": "yang hanya dimasuki oleh orang yang paling celaka,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6074,
+      "verse_number": 16,
+      "verse_key": "92:16",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى كَذَّبَ وَتَوَلَّىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181162,
+          "resource_id": 33,
+          "text": "yang mendustakan (kebenaran) dan berpaling (dari iman)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6075,
+      "verse_number": 17,
+      "verse_key": "92:17",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَسَيُجَنَّبُهَا ٱلْأَتْقَى",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181163,
+          "resource_id": 33,
+          "text": "Dan akan dijauhkan darinya (neraka) orang yang paling bertakwa,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6076,
+      "verse_number": 18,
+      "verse_key": "92:18",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى يُؤْتِى مَالَهُۥ يَتَزَكَّىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181164,
+          "resource_id": 33,
+          "text": "yang menginfakkan hartanya (di jalan Allah) untuk membersihkan (dirinya),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6077,
+      "verse_number": 19,
+      "verse_key": "92:19",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعْمَةٍ تُجْزَىٰٓ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181165,
+          "resource_id": 33,
+          "text": "dan tidak ada seorang pun memberikan suatu nikmat padanya yang harus dibalasnya,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6078,
+      "verse_number": 20,
+      "verse_key": "92:20",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِلَّا ٱبْتِغَآءَ وَجْهِ رَبِّهِ ٱلْأَعْلَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181168,
+          "resource_id": 33,
+          "text": "tetapi (dia memberikan itu semata-mata) karena mencari keridaan Tuhannya Yang Mahatinggi."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6079,
+      "verse_number": 21,
+      "verse_key": "92:21",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 536,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَسَوْفَ يَرْضَىٰ",
+      "page_number": 596,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181169,
+          "resource_id": 33,
+          "text": "Dan niscaya kelak dia akan mendapat kesenangan (yang sempurna)."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

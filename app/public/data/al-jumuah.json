@@ -1,0 +1,255 @@
+{
+  "id": 62,
+  "revelation_place": "madinah",
+  "revelation_order": 110,
+  "bismillah_pre": true,
+  "name_simple": "Al-Jumu'ah",
+  "name_complex": "Al-Jumu`ah",
+  "name_arabic": "الجمعة",
+  "verses_count": 11,
+  "pages": [
+    553,
+    554
+  ],
+  "slug": {
+    "slug": "al-jumuah",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Hari Jum\\'at"
+  },
+  "verses": [
+    {
+      "id": 5178,
+      "verse_number": 1,
+      "verse_key": "62:1",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 488,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " يُسَبِّحُ لِلَّهِ مَا فِى ٱلسَّمَـٰوَٰتِ وَمَا فِى ٱلْأَرْضِ ٱلْمَلِكِ ٱلْقُدُّوسِ ٱلْعَزِيزِ ٱلْحَكِيمِ",
+      "page_number": 553,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179909,
+          "resource_id": 33,
+          "text": "Apa yang ada di langit dan apa yang ada di bumi senantiasa bertasbih kepada Allah. Maharaja, Yang Mahasuci, Yang Mahaperkasa, Mahabijaksana."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5179,
+      "verse_number": 2,
+      "verse_key": "62:2",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 488,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "هُوَ ٱلَّذِى بَعَثَ فِى ٱلْأُمِّيِّـۧنَ رَسُولًا مِّنْهُمْ يَتْلُوا۟ عَلَيْهِمْ ءَايَـٰتِهِۦ وَيُزَكِّيهِمْ وَيُعَلِّمُهُمُ ٱلْكِتَـٰبَ وَٱلْحِكْمَةَ وَإِن كَانُوا۟ مِن قَبْلُ لَفِى ضَلَـٰلٍ مُّبِينٍ",
+      "page_number": 553,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179913,
+          "resource_id": 33,
+          "text": "Dialah yang mengutus seorang Rasul kepada kaum yang buta huruf dari kalangan mereka sendiri, yang membacakan kepada mereka ayat-ayat-Nya, menyucikan (jiwa) mereka dan mengajarkan kepada mereka Kitab dan Hikmah (Sunah), meskipun sebelumnya, mereka benar-benar dalam kesesatan yang nyata,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5180,
+      "verse_number": 3,
+      "verse_key": "62:3",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 488,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَءَاخَرِينَ مِنْهُمْ لَمَّا يَلْحَقُوا۟ بِهِمْ ۚ وَهُوَ ٱلْعَزِيزُ ٱلْحَكِيمُ",
+      "page_number": 553,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179915,
+          "resource_id": 33,
+          "text": "dan (juga) kepada kaum yang lain dari mereka yang belum bertemu dengan mereka. Dan Dialah Yang Mahaperkasa, Mahabijaksana."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5181,
+      "verse_number": 4,
+      "verse_key": "62:4",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 488,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ذَٰلِكَ فَضْلُ ٱللَّهِ يُؤْتِيهِ مَن يَشَآءُ ۚ وَٱللَّهُ ذُو ٱلْفَضْلِ ٱلْعَظِيمِ",
+      "page_number": 553,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179917,
+          "resource_id": 33,
+          "text": "Demikianlah karunia Allah, yang diberikan kepada siapa yang Dia kehendaki; dan Allah memiliki karunia yang besar."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5182,
+      "verse_number": 5,
+      "verse_key": "62:5",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 488,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "مَثَلُ ٱلَّذِينَ حُمِّلُوا۟ ٱلتَّوْرَىٰةَ ثُمَّ لَمْ يَحْمِلُوهَا كَمَثَلِ ٱلْحِمَارِ يَحْمِلُ أَسْفَارًۢا ۚ بِئْسَ مَثَلُ ٱلْقَوْمِ ٱلَّذِينَ كَذَّبُوا۟ بِـَٔايَـٰتِ ٱللَّهِ ۚ وَٱللَّهُ لَا يَهْدِى ٱلْقَوْمَ ٱلظَّـٰلِمِينَ",
+      "page_number": 553,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179921,
+          "resource_id": 33,
+          "text": "Perumpamaan orang-orang yang diberi tugas membawa Taurat, kemudian mereka tidak membawanya (tidak mengamalkannya) adalah seperti keledai yang membawa kitab-kitab yang tebal. Sangat buruk perumpamaan kaum yang mendustakan ayat-ayat Allah. Dan Allah tidak memberi petunjuk kepada orang-orang yang zalim."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5183,
+      "verse_number": 6,
+      "verse_key": "62:6",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 488,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ يَـٰٓأَيُّهَا ٱلَّذِينَ هَادُوٓا۟ إِن زَعَمْتُمْ أَنَّكُمْ أَوْلِيَآءُ لِلَّهِ مِن دُونِ ٱلنَّاسِ فَتَمَنَّوُا۟ ٱلْمَوْتَ إِن كُنتُمْ صَـٰدِقِينَ",
+      "page_number": 553,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179923,
+          "resource_id": 33,
+          "text": "Katakanlah (Muhammad), \"Wahai orang-orang Yahudi! Jika kamu mengira bahwa kamulah kekasih Allah, bukan orang-orang yang lain, maka harapkanlah kematianmu, jika kamu orang yang benar.\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5184,
+      "verse_number": 7,
+      "verse_key": "62:7",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 488,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَلَا يَتَمَنَّوْنَهُۥٓ أَبَدًۢا بِمَا قَدَّمَتْ أَيْدِيهِمْ ۚ وَٱللَّهُ عَلِيمٌۢ بِٱلظَّـٰلِمِينَ",
+      "page_number": 553,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179925,
+          "resource_id": 33,
+          "text": "Dan mereka tidak akan mengharapkan kematian itu selamanya disebabkan kejahatan yang telah mereka perbuat dengan tangan mereka sendiri. Dan Allah Maha Mengetahui orang-orang yang zalim."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5185,
+      "verse_number": 8,
+      "verse_key": "62:8",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 488,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "قُلْ إِنَّ ٱلْمَوْتَ ٱلَّذِى تَفِرُّونَ مِنْهُ فَإِنَّهُۥ مُلَـٰقِيكُمْ ۖ ثُمَّ تُرَدُّونَ إِلَىٰ عَـٰلِمِ ٱلْغَيْبِ وَٱلشَّهَـٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمْ تَعْمَلُونَ",
+      "page_number": 553,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179927,
+          "resource_id": 33,
+          "text": "Katakanlah, \"Sesungguhnya kematian yang kamu lari dari padanya, ia pasti menemui kamu, kemudian kamu akan dikembalikan kepada (Allah), yang mengetahui yang gaib dan yang nyata, lalu Dia beritakan kepadamu apa yang telah kamu kerjakan.\""
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5186,
+      "verse_number": 9,
+      "verse_key": "62:9",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 489,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "يَـٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓا۟ إِذَا نُودِىَ لِلصَّلَوٰةِ مِن يَوْمِ ٱلْجُمُعَةِ فَٱسْعَوْا۟ إِلَىٰ ذِكْرِ ٱللَّهِ وَذَرُوا۟ ٱلْبَيْعَ ۚ ذَٰلِكُمْ خَيْرٌ لَّكُمْ إِن كُنتُمْ تَعْلَمُونَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179931,
+          "resource_id": 33,
+          "text": "Wahai orang-orang yang beriman! Apabila telah diseru untuk melaksanakan salat pada hari Jumat, maka segeralah kamu mengingat Allah dan tinggalkanlah jual beli. Yang demikian itu lebih baik bagimu jika kamu mengetahui."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5187,
+      "verse_number": 10,
+      "verse_key": "62:10",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 489,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُوا۟ فِى ٱلْأَرْضِ وَٱبْتَغُوا۟ مِن فَضْلِ ٱللَّهِ وَٱذْكُرُوا۟ ٱللَّهَ كَثِيرًا لَّعَلَّكُمْ تُفْلِحُونَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179910,
+          "resource_id": 33,
+          "text": "Apabila salat telah dilaksanakan, maka bertebaranlah kamu di bumi; carilah karunia Allah dan ingatlah Allah banyak-banyak agar kamu beruntung."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 5188,
+      "verse_number": 11,
+      "verse_key": "62:11",
+      "hizb_number": 56,
+      "rub_el_hizb_number": 221,
+      "ruku_number": 489,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "وَإِذَا رَأَوْا۟ تِجَـٰرَةً أَوْ لَهْوًا ٱنفَضُّوٓا۟ إِلَيْهَا وَتَرَكُوكَ قَآئِمًا ۚ قُلْ مَا عِندَ ٱللَّهِ خَيْرٌ مِّنَ ٱللَّهْوِ وَمِنَ ٱلتِّجَـٰرَةِ ۚ وَٱللَّهُ خَيْرُ ٱلرَّٰزِقِينَ",
+      "page_number": 554,
+      "juz_number": 28,
+      "translations": [
+        {
+          "id": 179911,
+          "resource_id": 33,
+          "text": "Dan apabila mereka melihat perdagangan atau permainan, mereka segera menuju kepadanya dan mereka tinggalkan engkau (Muhammad) sedang berdiri (berkhotbah). Katakanlah, \"Apa yang ada di sisi Allah lebih baik daripada permainan dan perdagangan,\" dan Allah Pemberi rezeki yang terbaik."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}

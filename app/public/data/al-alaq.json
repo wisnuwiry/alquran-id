@@ -1,0 +1,432 @@
+{
+  "id": 96,
+  "revelation_place": "makkah",
+  "revelation_order": 1,
+  "bismillah_pre": true,
+  "name_simple": "Al-'Alaq",
+  "name_complex": "Al-`Alaq",
+  "name_arabic": "العلق",
+  "verses_count": 19,
+  "pages": [
+    597,
+    597
+  ],
+  "slug": {
+    "slug": "al-alaq",
+    "locale": "en"
+  },
+  "translated_name": {
+    "language_name": "indonesian",
+    "name": "Segumpal Darah"
+  },
+  "verses": [
+    {
+      "id": 6107,
+      "verse_number": 1,
+      "verse_key": "96:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": " ٱقْرَأْ بِٱسْمِ رَبِّكَ ٱلَّذِى خَلَقَ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181249,
+          "resource_id": 33,
+          "text": "Bacalah dengan (menyebut) nama Tuhanmu yang menciptakan,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6108,
+      "verse_number": 2,
+      "verse_key": "96:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "خَلَقَ ٱلْإِنسَـٰنَ مِنْ عَلَقٍ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181260,
+          "resource_id": 33,
+          "text": "Dia telah menciptakan manusia dari segumpal darah."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6109,
+      "verse_number": 3,
+      "verse_key": "96:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱقْرَأْ وَرَبُّكَ ٱلْأَكْرَمُ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181262,
+          "resource_id": 33,
+          "text": "Bacalah, dan Tuhanmulah Yang Mahamulia."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6110,
+      "verse_number": 4,
+      "verse_key": "96:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "ٱلَّذِى عَلَّمَ بِٱلْقَلَمِ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181264,
+          "resource_id": 33,
+          "text": "Yang mengajar (manusia) dengan pena."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6111,
+      "verse_number": 5,
+      "verse_key": "96:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَلَّمَ ٱلْإِنسَـٰنَ مَا لَمْ يَعْلَمْ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181115,
+          "resource_id": 33,
+          "text": "Dia mengajarkan manusia apa yang tidak diketahuinya."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6112,
+      "verse_number": 6,
+      "verse_key": "96:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّآ إِنَّ ٱلْإِنسَـٰنَ لَيَطْغَىٰٓ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181267,
+          "resource_id": 33,
+          "text": "Sekali-sekali tidak! Sungguh, manusia itu benar-benar melampaui batas,"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6113,
+      "verse_number": 7,
+      "verse_key": "96:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَن رَّءَاهُ ٱسْتَغْنَىٰٓ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181269,
+          "resource_id": 33,
+          "text": "apabila melihat dirinya serba cukup."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6114,
+      "verse_number": 8,
+      "verse_key": "96:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجْعَىٰٓ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181271,
+          "resource_id": 33,
+          "text": "Sungguh, hanya kepada Tuhanmulah tempat kembali(mu)."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6115,
+      "verse_number": 9,
+      "verse_key": "96:9",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَرَءَيْتَ ٱلَّذِى يَنْهَىٰ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181273,
+          "resource_id": 33,
+          "text": "Bagaimana pendapatmu tentang orang yang melarang?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6116,
+      "verse_number": 10,
+      "verse_key": "96:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "عَبْدًا إِذَا صَلَّىٰٓ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181275,
+          "resource_id": 33,
+          "text": "seorang hamba ketika dia melaksanakan salat,<sup foot_note=135869>1</sup>"
+        }
+      ],
+      "foot_notes": [
+        {
+          "foot_note": {
+            "id": 135869,
+            "text": "* Yang melarang adalah Abu Jahal dan yang dilarang ialah Rasululllah. Tetapi usaha ini tidak berhasil karena Abu Jahal melihat sesuatu yang menakutkannya. Setelah Rasulullah selesai salat, disampaikannya berita itu kepada Rasulullah. Kemudian Rasulullah mengatakan, \"Kalau Abu Jahal berbuat demikian, niscaya dia akan dibinasakan oleh malaikat\".",
+            "language_name": "indonesian",
+            "language_id": 67
+          }
+        }
+      ]
+    },
+    {
+      "id": 6117,
+      "verse_number": 11,
+      "verse_key": "96:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَرَءَيْتَ إِن كَانَ عَلَى ٱلْهُدَىٰٓ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181258,
+          "resource_id": 33,
+          "text": "bagaimana pendapatmu jika dia (yang dilarang salat itu) berada di atas kebenaran (petunjuk),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6118,
+      "verse_number": 12,
+      "verse_key": "96:12",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَوْ أَمَرَ بِٱلتَّقْوَىٰٓ",
+      "page_number": 597,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181250,
+          "resource_id": 33,
+          "text": "atau dia menyuruh bertakwa (kepada Allah)?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6119,
+      "verse_number": 13,
+      "verse_key": "96:13",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَرَءَيْتَ إِن كَذَّبَ وَتَوَلَّىٰٓ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181251,
+          "resource_id": 33,
+          "text": "Bagaimana pendapatmu jika dia (yang melarang) itu mendustakan dan berpaling?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6120,
+      "verse_number": 14,
+      "verse_key": "96:14",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "أَلَمْ يَعْلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181252,
+          "resource_id": 33,
+          "text": "Tidakkah dia mengetahui bahwa sesungguhnya Allah melihat (segala perbuatannya)?"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6121,
+      "verse_number": 15,
+      "verse_key": "96:15",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "كَلَّا لَئِن لَّمْ يَنتَهِ لَنَسْفَعًۢا بِٱلنَّاصِيَةِ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181253,
+          "resource_id": 33,
+          "text": "Sekali-kali tidak! Sungguh, jika dia tidak berhenti (berbuat demikian) niscaya Kami tarik ubun-ubunnya (ke dalam neraka),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6122,
+      "verse_number": 16,
+      "verse_key": "96:16",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "نَاصِيَةٍ كَـٰذِبَةٍ خَاطِئَةٍ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181254,
+          "resource_id": 33,
+          "text": "(yaitu) ubun-ubun orang yang mendustakan dan durhaka."
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6123,
+      "verse_number": 17,
+      "verse_key": "96:17",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "فَلْيَدْعُ نَادِيَهُۥ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181255,
+          "resource_id": 33,
+          "text": "Maka biarlah dia memanggil golongannya (untuk menolongnya),"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6124,
+      "verse_number": 18,
+      "verse_key": "96:18",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "text_uthmani": "سَنَدْعُ ٱلزَّبَانِيَةَ",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181256,
+          "resource_id": 33,
+          "text": "kelak Kami akan memanggil Malaikat Zabaniyah (penyiksa orang-orang yang berdosa)"
+        }
+      ],
+      "foot_notes": []
+    },
+    {
+      "id": 6125,
+      "verse_number": 19,
+      "verse_key": "96:19",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 540,
+      "manzil_number": 7,
+      "sajdah_number": 14,
+      "text_uthmani": "كَلَّا لَا تُطِعْهُ وَٱسْجُدْ وَٱقْتَرِب ۩",
+      "page_number": 598,
+      "juz_number": 30,
+      "translations": [
+        {
+          "id": 181257,
+          "resource_id": 33,
+          "text": "sekali-kali tidak! Janganlah kamu patuh kepadanya; dan sujudlah serta dekatkanlah (dirimu kepada Allah)."
+        }
+      ],
+      "foot_notes": []
+    }
+  ]
+}
