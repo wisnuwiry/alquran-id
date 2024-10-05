@@ -1,4 +1,4 @@
-import { GetStaticPaths, GetStaticProps } from "next";
+import { GetStaticPaths, GetStaticProps, Metadata } from "next";
 import { Inter } from 'next/font/google'
 import localFont from 'next/font/local'
 import Navbar from "../../components/Navbar";
@@ -35,7 +35,7 @@ const SurahDetail: React.FC<SurahDetailProps> = ({ surah, prevSurah, nextSurah }
             <VerseCard verse={verse} surahNumber={surah.id} key={verse.id} />
           ))}
         </div>
-        <div className="h-20"/>
+        <div className="h-20" />
       </div>
       <Footer />
     </div>
@@ -77,5 +77,19 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
     props: { surah, prevSurah: prevSurah ?? null, nextSurah: nextSurah ?? null },
   };
 };
+
+export async function generateMetadata(
+  { params }: { params: { slug: string } }): Promise<Metadata> {
+  const res = await fetch(
+    `${process.env.NEXT_PUBLIC_BASE_URL}/data/${params?.slug}.json`
+  );
+  const surah: Surah = await res.json();
+
+  return {
+    title: `${surah.name_simple} | Al-Quran App`,
+
+  }
+}
+
 
 export default SurahDetail;

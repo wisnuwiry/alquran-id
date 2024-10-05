@@ -1,4 +1,4 @@
-import { GetStaticProps } from "next";
+import { GetStaticProps, Metadata } from "next";
 import { Inter } from 'next/font/google'
 import localFont from 'next/font/local'
 import Navbar from "../components/Navbar";
@@ -9,6 +9,11 @@ import Footer from "@/components/Footer";
 const inter = Inter({ subsets: ['latin'] })
 const surahFont = localFont({ src: './fonts/surah.woff2', variable: '--font-surah' })
 
+export const metadata: Metadata = {
+  title: 'Al-Quran App',
+  description: 'Aplikasi Al-Quran untuk membaca dan mengamalkan kitab suci Al-Quran',
+}
+ 
 interface HomeProps {
   surahs: Surah[];
 }
