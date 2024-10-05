@@ -5,7 +5,7 @@ import Navbar from "../../components/Navbar";
 import { Surah, SurahListResponse } from "@/types";
 import Basmallah from "@/components/Basmallah";
 import VerseCard from "@/components/VerseCard";
-import NavbarControll from "@/components/NavbarControll";
+import NavbarControl from "@/components/NavbarControl";
 import SurahTitle from "@/components/SurahTitle";
 import Footer from "@/components/Footer";
 
@@ -22,7 +22,7 @@ const SurahDetail: React.FC<SurahDetailProps> = ({ surah, prevSurah, nextSurah }
   return (
     <div className={`${inter.className} ${surahFont.variable}`}>
       <Navbar />
-      <NavbarControll surah={surah} nextSurah={nextSurah ?? undefined} prevSurah={prevSurah ?? undefined} />
+      <NavbarControl surah={surah} nextSurah={nextSurah ?? undefined} prevSurah={prevSurah ?? undefined} />
       <div className="container mx-auto p-4">
         <div className="flex flex-col items-center">
           <SurahTitle surah={surah} className="my-6" />
@@ -35,6 +35,7 @@ const SurahDetail: React.FC<SurahDetailProps> = ({ surah, prevSurah, nextSurah }
             <VerseCard verse={verse} surahNumber={surah.id} key={verse.id} />
           ))}
         </div>
+        <div className="h-20"/>
       </div>
       <Footer />
     </div>

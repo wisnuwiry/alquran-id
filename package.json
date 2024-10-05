@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev:app": "pnpm --filter app run dev",
+    "build:app": "pnpm --filter app run build",
     "download": "pnpm --filter downloader run dev"
   },
   "keywords": [],
