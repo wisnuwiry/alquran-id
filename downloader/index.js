@@ -1,10 +1,9 @@
 const fs = require('fs');
 const path = require('path');
 const mkdirp = require('mkdirp');
-const { fileURLToPath } = require('url');
 
 const BASE_URL = "https://api.qurancdn.com/api/qdc/";
-const DATA_DIR = "../app/public/data";
+const DATA_DIR = "../app/data";
 const CHAPTERS_FILE = path.join(DATA_DIR, "chapters.json");
 const LANGUAGE = "id";
 

@@ -5,6 +5,8 @@ import Navbar from "../components/Navbar";
 import { Surah, SurahListResponse } from "@/types";
 import SurahCard from "@/components/SurahCard";
 import Footer from "@/components/Footer";
+import path from "path";
+import fs from 'fs';
 
 const inter = Inter({ subsets: ['latin'] })
 const surahFont = localFont({ src: './fonts/surah.woff2', variable: '--font-surah' })
@@ -13,7 +15,7 @@ export const metadata: Metadata = {
   title: 'Al-Quran App',
   description: 'Aplikasi Al-Quran untuk membaca dan mengamalkan kitab suci Al-Quran',
 }
- 
+
 interface HomeProps {
   surahs: Surah[];
 }
@@ -36,12 +38,10 @@ const Home: React.FC<HomeProps> = ({ surahs }) => {
 };
 
 export const getStaticProps: GetStaticProps = async () => {
-  const res = await fetch(
-    `${process.env.NEXT_PUBLIC_BASE_URL}/data/chapters.json`
-  );
-  const response: SurahListResponse = await res.json();
-
-  const surahs = response.chapters;
+  const chaptersFilePath = path.join(process.cwd(), 'data', 'chapters.json');
+  const chaptersData = await fs.promises.readFile(chaptersFilePath, 'utf-8');
+  const chapterRaw: SurahListResponse = JSON.parse(chaptersData);
+  const surahs = chapterRaw.chapters
 
   return {
     props: { surahs },

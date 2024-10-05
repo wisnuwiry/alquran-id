@@ -8,6 +8,8 @@ import VerseCard from "@/components/VerseCard";
 import NavbarControl from "@/components/NavbarControl";
 import SurahTitle from "@/components/SurahTitle";
 import Footer from "@/components/Footer";
+import fs from 'fs';
+import path from 'path';
 
 const inter = Inter({ subsets: ['latin'] })
 const surahFont = localFont({ src: '../fonts/surah.woff2', variable: '--font-surah' })
@@ -42,11 +44,12 @@ const SurahDetail: React.FC<SurahDetailProps> = ({ surah, prevSurah, nextSurah }
   );
 };
 
+// Dynamic import of 'fs' and 'path' in getStaticPaths
 export const getStaticPaths: GetStaticPaths = async () => {
-  const res = await fetch(
-    `${process.env.NEXT_PUBLIC_BASE_URL}/data/chapters.json`
-  );
-  const response: SurahListResponse = await res.json();
+  // Read the chapters.json from the local data folder
+  const filePath = path.join(process.cwd(), 'data', 'chapters.json');
+  const jsonData = await fs.promises.readFile(filePath, 'utf-8');
+  const response: SurahListResponse = JSON.parse(jsonData);
 
   const paths = response.chapters.map((surah) => ({
     params: { slug: surah.slug.slug },
@@ -58,17 +61,17 @@ export const getStaticPaths: GetStaticPaths = async () => {
   };
 };
 
+// Dynamic import of 'fs' and 'path' in getStaticProps
 export const getStaticProps: GetStaticProps = async ({ params }) => {
-  const res = await fetch(
-    `${process.env.NEXT_PUBLIC_BASE_URL}/data/${params?.slug}.json`
-  );
-  const surah = await res.json();
+  // Read the specific surah json file from the local data folder
+  const surahFilePath = path.join(process.cwd(), 'data', `${params?.slug}.json`);
+  const surahData = await fs.promises.readFile(surahFilePath, 'utf-8');
+  const surah = JSON.parse(surahData);
 
-  const surahsRes = await fetch(
-    `${process.env.NEXT_PUBLIC_BASE_URL}/data/chapters.json`
-  );
-
-  const surahs = await surahsRes.json();
+  // Read the chapters.json to get previous and next surah information
+  const chaptersFilePath = path.join(process.cwd(), 'data', 'chapters.json');
+  const chaptersData = await fs.promises.readFile(chaptersFilePath, 'utf-8');
+  const surahs = JSON.parse(chaptersData);
 
   const prevSurah = surahs.chapters.filter((e: Surah) => e.id === surah.id - 1)[0];
   const nextSurah = surahs.chapters.filter((e: Surah) => e.id === surah.id + 1)[0];
@@ -78,18 +81,18 @@ export const getStaticProps: GetStaticProps = async ({ params }) => {
   };
 };
 
+// Dynamic import of 'fs' and 'path' in generateMetadata
 export async function generateMetadata(
-  { params }: { params: { slug: string } }): Promise<Metadata> {
-  const res = await fetch(
-    `${process.env.NEXT_PUBLIC_BASE_URL}/data/${params?.slug}.json`
-  );
-  const surah: Surah = await res.json();
+  { params }: { params: { slug: string } }
+): Promise<Metadata> {
+  // Read the surah json file from the local data folder for metadata
+  const surahFilePath = path.join(process.cwd(), 'data', `${params?.slug}.json`);
+  const surahData = await fs.promises.readFile(surahFilePath, 'utf-8');
+  const surah: Surah = JSON.parse(surahData);
 
   return {
     title: `${surah.name_simple} | Al-Quran App`,
-
-  }
+  };
 }
-
 
 export default SurahDetail;
