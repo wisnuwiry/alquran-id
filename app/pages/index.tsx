@@ -5,8 +5,7 @@ import Navbar from "../components/Navbar";
 import { Surah, SurahListResponse } from "@/types";
 import SurahCard from "@/components/SurahCard";
 import Footer from "@/components/Footer";
-import path from "path";
-import fs from 'fs';
+import { openDataJson } from "@/utils/file-utils";
 
 const inter = Inter({ subsets: ['latin'] })
 const surahFont = localFont({ src: './fonts/surah.woff2', variable: '--font-surah' })
@@ -38,9 +37,7 @@ const Home: React.FC<HomeProps> = ({ surahs }) => {
 };
 
 export const getStaticProps: GetStaticProps = async () => {
-  const chaptersFilePath = path.join(process.cwd(), 'data', 'chapters.json');
-  const chaptersData = await fs.promises.readFile(chaptersFilePath, 'utf-8');
-  const chapterRaw: SurahListResponse = JSON.parse(chaptersData);
+  const chapterRaw: SurahListResponse = await openDataJson('chapters.json');
   const surahs = chapterRaw.chapters
 
   return {
