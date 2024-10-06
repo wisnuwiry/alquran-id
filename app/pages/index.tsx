@@ -6,12 +6,13 @@ import { Surah, SurahListResponse } from "@/types";
 import SurahCard from "@/components/SurahCard";
 import Footer from "@/components/Footer";
 import { openDataJson } from "@/utils/file-utils";
+import { CONFIG } from "@/utils/config";
 
 const inter = Inter({ subsets: ['latin'] })
 const surahFont = localFont({ src: './fonts/surah.woff2', variable: '--font-surah' })
 
 export const metadata: Metadata = {
-  title: 'Al-Quran App',
+  title: CONFIG.APP_NAME,
   description: 'Aplikasi Al-Quran untuk membaca dan mengamalkan kitab suci Al-Quran',
 }
 

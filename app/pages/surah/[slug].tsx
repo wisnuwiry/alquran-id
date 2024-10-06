@@ -9,6 +9,7 @@ import NavbarControl from "@/components/NavbarControl";
 import SurahTitle from "@/components/SurahTitle";
 import Footer from "@/components/Footer";
 import { openDataJson } from "@/utils/file-utils";
+import { CONFIG } from "@/utils/config";
 
 const inter = Inter({ subsets: ['latin'] })
 const surahFont = localFont({ src: '../fonts/surah.woff2', variable: '--font-surah' })
@@ -78,7 +79,7 @@ export async function generateMetadata(
   const surah: Surah = await openDataJson(`${params?.slug}.json`);
 
   return {
-    title: `${surah.name_simple} | Al-Quran App`,
+    title: `${surah.name_simple} | ${CONFIG.APP_NAME}`,
   };
 }
 
