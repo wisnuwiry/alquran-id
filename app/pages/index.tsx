@@ -1,4 +1,4 @@
-import { GetStaticProps, Metadata } from "next";
+import { GetStaticProps } from "next";
 import { Inter } from 'next/font/google'
 import localFont from 'next/font/local'
 import Navbar from "../components/Navbar";
@@ -7,22 +7,32 @@ import SurahCard from "@/components/SurahCard";
 import Footer from "@/components/Footer";
 import { openDataJson } from "@/utils/file-utils";
 import { CONFIG } from "@/utils/config";
+import Head from "next/head";
+import Metadata from "@/components/Metadata";
 
 const inter = Inter({ subsets: ['latin'] })
 const surahFont = localFont({ src: './fonts/surah.woff2', variable: '--font-surah' })
 
-export const metadata: Metadata = {
-  title: CONFIG.APP_NAME,
-  description: 'Aplikasi Al-Quran untuk membaca dan mengamalkan kitab suci Al-Quran',
-}
+
+export const getStaticProps: GetStaticProps = async () => {
+  const chapterRaw: SurahListResponse = await openDataJson('chapters.json');
+  const surahs = chapterRaw.chapters
+
+  return {
+    props: { surahs },
+  };
+};
 
 interface HomeProps {
   surahs: Surah[];
 }
 
-const Home: React.FC<HomeProps> = ({ surahs }) => {
+export default function Page({ surahs }: HomeProps) {
   return (
     <div className={`${inter.className} ${surahFont.variable}`}>
+      <Head>
+        <Metadata pageName={CONFIG.APP_NAME} path="/" />
+      </Head>
       <Navbar />
       <div className="max-w-screen-lg mx-auto p-4 my-12">
         <h2 className="text-2xl font-bold mb-4">Daftar Surat</h2>
@@ -36,14 +46,3 @@ const Home: React.FC<HomeProps> = ({ surahs }) => {
     </div>
   );
 };
-
-export const getStaticProps: GetStaticProps = async () => {
-  const chapterRaw: SurahListResponse = await openDataJson('chapters.json');
-  const surahs = chapterRaw.chapters
-
-  return {
-    props: { surahs },
-  };
-};
-
-export default Home;
